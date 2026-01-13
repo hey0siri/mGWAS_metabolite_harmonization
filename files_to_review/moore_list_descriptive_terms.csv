@@ -1,0 +1,975 @@
+"","metabolite_id","input_metabolite_name","input_hmdb_id","input_pubchem","input_chemspider","input_kegg","input_inchikey","input_chebi","split_input_pubchem","split_reason","input_pubchem_final","metabolite_id_final","input_hmdb_id_final","input_kegg_final","input_chebi_final","input_chemspider_final","input_inchikey_final","input_metabolite_name_final","metabolite_id_final_1","metabolite_id_final_2","has_descriptive_terms","has_multiple_ids"
+"1","BM00004","[W1 Finland NMR Metabolomics] Concentration of chylomicrons and extremely large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00004",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of chylomicrons and extremely large vldl particles_mol_l","BM00004","BM00004",TRUE,FALSE
+"2","BM00004","Concentration of chylomicrons and extremely large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00004",NA,NA,NA,NA,NA,"concentration of chylomicrons and extremely large vldl particles_mol_l","BM00004","BM00004",TRUE,FALSE
+"3","BM00004","Concentration of chylomicrons and extremely large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00004",NA,NA,NA,NA,NA,"concentration of chylomicrons and extremely large vldl particles_mol_l","BM00004","BM00004",TRUE,FALSE
+"4","BM00004","Concentration of chylomicrons and extremely large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00004",NA,NA,NA,NA,NA,"concentration of chylomicrons and extremely large vldl particles_mol_l","BM00004","BM00004",TRUE,FALSE
+"5","BM00004","Concentration of chylomicrons and extremely large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00004",NA,NA,NA,NA,NA,"concentration of chylomicrons and extremely large vldl particles_mol_l","BM00004","BM00004",TRUE,FALSE
+"6","BM00004","Concentration of chylomicrons and extremely large VLDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00004",NA,NA,NA,NA,NA,"concentration of chylomicrons and extremely large vldl particles_mol_l__s5","BM00004","BM00004",TRUE,FALSE
+"7","BM00005","[W1 Finland NMR Metabolomics] Total lipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00005",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in chylomicrons and extremely large vldl_mmol_l","BM00005","BM00005",TRUE,FALSE
+"8","BM00005","Total lipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00005",NA,NA,NA,NA,NA,"total lipids in chylomicrons and extremely large vldl_mmol_l","BM00005","BM00005",TRUE,FALSE
+"9","BM00005","Total lipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00005",NA,NA,NA,NA,NA,"total lipids in chylomicrons and extremely large vldl_mmol_l","BM00005","BM00005",TRUE,FALSE
+"10","BM00005","Total lipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00005",NA,NA,NA,NA,NA,"total lipids in chylomicrons and extremely large vldl_mmol_l","BM00005","BM00005",TRUE,FALSE
+"11","BM00005","Total lipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00005",NA,NA,NA,NA,NA,"total lipids in chylomicrons and extremely large vldl_mmol_l","BM00005","BM00005",TRUE,FALSE
+"12","BM00005","Total lipids in chylomicrons and extremely large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00005",NA,NA,NA,NA,NA,"total lipids in chylomicrons and extremely large vldl_mmol_l__s5","BM00005","BM00005",TRUE,FALSE
+"13","BM00006","[W1 Finland NMR Metabolomics] Phospholipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00006",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in chylomicrons and extremely large vldl_mmol_l","BM00006","BM00006",TRUE,FALSE
+"14","BM00006","Phospholipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00006",NA,NA,NA,NA,NA,"phospholipids in chylomicrons and extremely large vldl_mmol_l","BM00006","BM00006",TRUE,FALSE
+"15","BM00006","Phospholipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00006",NA,NA,NA,NA,NA,"phospholipids in chylomicrons and extremely large vldl_mmol_l","BM00006","BM00006",TRUE,FALSE
+"16","BM00006","Phospholipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00006",NA,NA,NA,NA,NA,"phospholipids in chylomicrons and extremely large vldl_mmol_l","BM00006","BM00006",TRUE,FALSE
+"17","BM00006","Phospholipids in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00006",NA,NA,NA,NA,NA,"phospholipids in chylomicrons and extremely large vldl_mmol_l","BM00006","BM00006",TRUE,FALSE
+"18","BM00006","Phospholipids in chylomicrons and extremely large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00006",NA,NA,NA,NA,NA,"phospholipids in chylomicrons and extremely large vldl_mmol_l__s5","BM00006","BM00006",TRUE,FALSE
+"19","BM00007","[W1 Finland NMR Metabolomics] Total cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00007",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00007","BM00007",TRUE,FALSE
+"20","BM00007","Total cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00007",NA,NA,NA,NA,NA,"total cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00007","BM00007",TRUE,FALSE
+"21","BM00007","Total cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00007",NA,NA,NA,NA,NA,"total cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00007","BM00007",TRUE,FALSE
+"22","BM00007","Total cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00007",NA,NA,NA,NA,NA,"total cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00007","BM00007",TRUE,FALSE
+"23","BM00007","Total cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00007",NA,NA,NA,NA,NA,"total cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00007","BM00007",TRUE,FALSE
+"24","BM00007","Total cholesterol in chylomicrons and extremely large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00007",NA,NA,NA,NA,NA,"total cholesterol in chylomicrons and extremely large vldl_mmol_l__s5","BM00007","BM00007",TRUE,FALSE
+"25","BM00008","[W1 Finland NMR Metabolomics] Cholesterol esters in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00008",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in chylomicrons and extremely large vldl_mmol_l","BM00008","BM00008",TRUE,FALSE
+"26","BM00008","Cholesterol esters in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00008",NA,NA,NA,NA,NA,"cholesterol esters in chylomicrons and extremely large vldl_mmol_l","BM00008","BM00008",TRUE,FALSE
+"27","BM00008","Cholesterol esters in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00008",NA,NA,NA,NA,NA,"cholesterol esters in chylomicrons and extremely large vldl_mmol_l","BM00008","BM00008",TRUE,FALSE
+"28","BM00008","Cholesterol esters in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00008",NA,NA,NA,NA,NA,"cholesterol esters in chylomicrons and extremely large vldl_mmol_l","BM00008","BM00008",TRUE,FALSE
+"29","BM00008","Cholesterol esters in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00008",NA,NA,NA,NA,NA,"cholesterol esters in chylomicrons and extremely large vldl_mmol_l","BM00008","BM00008",TRUE,FALSE
+"30","BM00008","Cholesterol esters in chylomicrons and extremely large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00008",NA,NA,NA,NA,NA,"cholesterol esters in chylomicrons and extremely large vldl_mmol_l__s5","BM00008","BM00008",TRUE,FALSE
+"31","BM00009","[W1 Finland NMR Metabolomics] Free cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00009",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00009","BM00009",TRUE,FALSE
+"32","BM00009","Free cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00009",NA,NA,NA,NA,NA,"free cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00009","BM00009",TRUE,FALSE
+"33","BM00009","Free cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00009",NA,NA,NA,NA,NA,"free cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00009","BM00009",TRUE,FALSE
+"34","BM00009","Free cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00009",NA,NA,NA,NA,NA,"free cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00009","BM00009",TRUE,FALSE
+"35","BM00009","Free cholesterol in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00009",NA,NA,NA,NA,NA,"free cholesterol in chylomicrons and extremely large vldl_mmol_l","BM00009","BM00009",TRUE,FALSE
+"36","BM00009","Free cholesterol in chylomicrons and extremely large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00009",NA,NA,NA,NA,NA,"free cholesterol in chylomicrons and extremely large vldl_mmol_l__s5","BM00009","BM00009",TRUE,FALSE
+"37","BM00010","[W1 Finland NMR Metabolomics] Triglycerides in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00010",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in chylomicrons and extremely large vldl_mmol_l","BM00010","BM00010",TRUE,FALSE
+"38","BM00010","Triglycerides in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00010",NA,NA,NA,NA,NA,"triglycerides in chylomicrons and extremely large vldl_mmol_l","BM00010","BM00010",TRUE,FALSE
+"39","BM00010","Triglycerides in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00010",NA,NA,NA,NA,NA,"triglycerides in chylomicrons and extremely large vldl_mmol_l","BM00010","BM00010",TRUE,FALSE
+"40","BM00010","Triglycerides in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00010",NA,NA,NA,NA,NA,"triglycerides in chylomicrons and extremely large vldl_mmol_l","BM00010","BM00010",TRUE,FALSE
+"41","BM00010","Triglycerides in chylomicrons and extremely large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00010",NA,NA,NA,NA,NA,"triglycerides in chylomicrons and extremely large vldl_mmol_l","BM00010","BM00010",TRUE,FALSE
+"42","BM00010","Triglycerides in chylomicrons and extremely large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00010",NA,NA,NA,NA,NA,"triglycerides in chylomicrons and extremely large vldl_mmol_l__s5","BM00010","BM00010",TRUE,FALSE
+"43","BM00011","[W1 Finland NMR Metabolomics] Concentration of very large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00011",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of very large vldl particles_mol_l","BM00011","BM00011",TRUE,FALSE
+"44","BM00011","Concentration of very large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00011",NA,NA,NA,NA,NA,"concentration of very large vldl particles_mol_l","BM00011","BM00011",TRUE,FALSE
+"45","BM00011","Concentration of very large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00011",NA,NA,NA,NA,NA,"concentration of very large vldl particles_mol_l","BM00011","BM00011",TRUE,FALSE
+"46","BM00011","Concentration of very large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00011",NA,NA,NA,NA,NA,"concentration of very large vldl particles_mol_l","BM00011","BM00011",TRUE,FALSE
+"47","BM00011","Concentration of very large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00011",NA,NA,NA,NA,NA,"concentration of very large vldl particles_mol_l","BM00011","BM00011",TRUE,FALSE
+"48","BM00011","Concentration of very large VLDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00011",NA,NA,NA,NA,NA,"concentration of very large vldl particles_mol_l__s5","BM00011","BM00011",TRUE,FALSE
+"49","BM00012","[W1 Finland NMR Metabolomics] Total lipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00012",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in very large vldl_mmol_l","BM00012","BM00012",TRUE,FALSE
+"50","BM00012","Total lipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00012",NA,NA,NA,NA,NA,"total lipids in very large vldl_mmol_l","BM00012","BM00012",TRUE,FALSE
+"51","BM00012","Total lipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00012",NA,NA,NA,NA,NA,"total lipids in very large vldl_mmol_l","BM00012","BM00012",TRUE,FALSE
+"52","BM00012","Total lipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00012",NA,NA,NA,NA,NA,"total lipids in very large vldl_mmol_l","BM00012","BM00012",TRUE,FALSE
+"53","BM00012","Total lipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00012",NA,NA,NA,NA,NA,"total lipids in very large vldl_mmol_l","BM00012","BM00012",TRUE,FALSE
+"54","BM00012","Total lipids in very large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00012",NA,NA,NA,NA,NA,"total lipids in very large vldl_mmol_l__s5","BM00012","BM00012",TRUE,FALSE
+"55","BM00013","[W1 Finland NMR Metabolomics] Phospholipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00013",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in very large vldl_mmol_l","BM00013","BM00013",TRUE,FALSE
+"56","BM00013","Phospholipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00013",NA,NA,NA,NA,NA,"phospholipids in very large vldl_mmol_l","BM00013","BM00013",TRUE,FALSE
+"57","BM00013","Phospholipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00013",NA,NA,NA,NA,NA,"phospholipids in very large vldl_mmol_l","BM00013","BM00013",TRUE,FALSE
+"58","BM00013","Phospholipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00013",NA,NA,NA,NA,NA,"phospholipids in very large vldl_mmol_l","BM00013","BM00013",TRUE,FALSE
+"59","BM00013","Phospholipids in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00013",NA,NA,NA,NA,NA,"phospholipids in very large vldl_mmol_l","BM00013","BM00013",TRUE,FALSE
+"60","BM00013","Phospholipids in very large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00013",NA,NA,NA,NA,NA,"phospholipids in very large vldl_mmol_l__s5","BM00013","BM00013",TRUE,FALSE
+"61","BM00014","[W1 Finland NMR Metabolomics] Total cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00014",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in very large vldl_mmol_l","BM00014","BM00014",TRUE,FALSE
+"62","BM00014","Total cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00014",NA,NA,NA,NA,NA,"total cholesterol in very large vldl_mmol_l","BM00014","BM00014",TRUE,FALSE
+"63","BM00014","Total cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00014",NA,NA,NA,NA,NA,"total cholesterol in very large vldl_mmol_l","BM00014","BM00014",TRUE,FALSE
+"64","BM00014","Total cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00014",NA,NA,NA,NA,NA,"total cholesterol in very large vldl_mmol_l","BM00014","BM00014",TRUE,FALSE
+"65","BM00014","Total cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00014",NA,NA,NA,NA,NA,"total cholesterol in very large vldl_mmol_l","BM00014","BM00014",TRUE,FALSE
+"66","BM00014","Total cholesterol in very large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00014",NA,NA,NA,NA,NA,"total cholesterol in very large vldl_mmol_l__s5","BM00014","BM00014",TRUE,FALSE
+"67","BM00015","[W1 Finland NMR Metabolomics] Cholesterol esters in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00015",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in very large vldl_mmol_l","BM00015","BM00015",TRUE,FALSE
+"68","BM00015","Cholesterol esters in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00015",NA,NA,NA,NA,NA,"cholesterol esters in very large vldl_mmol_l","BM00015","BM00015",TRUE,FALSE
+"69","BM00015","Cholesterol esters in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00015",NA,NA,NA,NA,NA,"cholesterol esters in very large vldl_mmol_l","BM00015","BM00015",TRUE,FALSE
+"70","BM00015","Cholesterol esters in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00015",NA,NA,NA,NA,NA,"cholesterol esters in very large vldl_mmol_l","BM00015","BM00015",TRUE,FALSE
+"71","BM00015","Cholesterol esters in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00015",NA,NA,NA,NA,NA,"cholesterol esters in very large vldl_mmol_l","BM00015","BM00015",TRUE,FALSE
+"72","BM00015","Cholesterol esters in very large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00015",NA,NA,NA,NA,NA,"cholesterol esters in very large vldl_mmol_l__s5","BM00015","BM00015",TRUE,FALSE
+"73","BM00016","[W1 Finland NMR Metabolomics] Free cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00016",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in very large vldl_mmol_l","BM00016","BM00016",TRUE,FALSE
+"74","BM00016","Free cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00016",NA,NA,NA,NA,NA,"free cholesterol in very large vldl_mmol_l","BM00016","BM00016",TRUE,FALSE
+"75","BM00016","Free cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00016",NA,NA,NA,NA,NA,"free cholesterol in very large vldl_mmol_l","BM00016","BM00016",TRUE,FALSE
+"76","BM00016","Free cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00016",NA,NA,NA,NA,NA,"free cholesterol in very large vldl_mmol_l","BM00016","BM00016",TRUE,FALSE
+"77","BM00016","Free cholesterol in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00016",NA,NA,NA,NA,NA,"free cholesterol in very large vldl_mmol_l","BM00016","BM00016",TRUE,FALSE
+"78","BM00016","Free cholesterol in very large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00016",NA,NA,NA,NA,NA,"free cholesterol in very large vldl_mmol_l__s5","BM00016","BM00016",TRUE,FALSE
+"79","BM00017","[W1 Finland NMR Metabolomics] Triglycerides in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00017",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in very large vldl_mmol_l","BM00017","BM00017",TRUE,FALSE
+"80","BM00017","Triglycerides in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00017",NA,NA,NA,NA,NA,"triglycerides in very large vldl_mmol_l","BM00017","BM00017",TRUE,FALSE
+"81","BM00017","Triglycerides in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00017",NA,NA,NA,NA,NA,"triglycerides in very large vldl_mmol_l","BM00017","BM00017",TRUE,FALSE
+"82","BM00017","Triglycerides in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00017",NA,NA,NA,NA,NA,"triglycerides in very large vldl_mmol_l","BM00017","BM00017",TRUE,FALSE
+"83","BM00017","Triglycerides in very large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00017",NA,NA,NA,NA,NA,"triglycerides in very large vldl_mmol_l","BM00017","BM00017",TRUE,FALSE
+"84","BM00017","Triglycerides in very large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00017",NA,NA,NA,NA,NA,"triglycerides in very large vldl_mmol_l__s5","BM00017","BM00017",TRUE,FALSE
+"85","BM00018","[W1 Finland NMR Metabolomics] Concentration of large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00018",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of large vldl particles_mol_l","BM00018","BM00018",TRUE,FALSE
+"86","BM00018","Concentration of large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00018",NA,NA,NA,NA,NA,"concentration of large vldl particles_mol_l","BM00018","BM00018",TRUE,FALSE
+"87","BM00018","Concentration of large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00018",NA,NA,NA,NA,NA,"concentration of large vldl particles_mol_l","BM00018","BM00018",TRUE,FALSE
+"88","BM00018","Concentration of large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00018",NA,NA,NA,NA,NA,"concentration of large vldl particles_mol_l","BM00018","BM00018",TRUE,FALSE
+"89","BM00018","Concentration of large VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00018",NA,NA,NA,NA,NA,"concentration of large vldl particles_mol_l","BM00018","BM00018",TRUE,FALSE
+"90","BM00018","Concentration of large VLDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00018",NA,NA,NA,NA,NA,"concentration of large vldl particles_mol_l__s5","BM00018","BM00018",TRUE,FALSE
+"91","BM00019","[W1 Finland NMR Metabolomics] Total lipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00019",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in large vldl_mmol_l","BM00019","BM00019",TRUE,FALSE
+"92","BM00019","Total lipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00019",NA,NA,NA,NA,NA,"total lipids in large vldl_mmol_l","BM00019","BM00019",TRUE,FALSE
+"93","BM00019","Total lipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00019",NA,NA,NA,NA,NA,"total lipids in large vldl_mmol_l","BM00019","BM00019",TRUE,FALSE
+"94","BM00019","Total lipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00019",NA,NA,NA,NA,NA,"total lipids in large vldl_mmol_l","BM00019","BM00019",TRUE,FALSE
+"95","BM00019","Total lipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00019",NA,NA,NA,NA,NA,"total lipids in large vldl_mmol_l","BM00019","BM00019",TRUE,FALSE
+"96","BM00019","Total lipids in large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00019",NA,NA,NA,NA,NA,"total lipids in large vldl_mmol_l__s5","BM00019","BM00019",TRUE,FALSE
+"97","BM00020","[W1 Finland NMR Metabolomics] Phospholipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00020",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in large vldl_mmol_l","BM00020","BM00020",TRUE,FALSE
+"98","BM00020","Phospholipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00020",NA,NA,NA,NA,NA,"phospholipids in large vldl_mmol_l","BM00020","BM00020",TRUE,FALSE
+"99","BM00020","Phospholipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00020",NA,NA,NA,NA,NA,"phospholipids in large vldl_mmol_l","BM00020","BM00020",TRUE,FALSE
+"100","BM00020","Phospholipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00020",NA,NA,NA,NA,NA,"phospholipids in large vldl_mmol_l","BM00020","BM00020",TRUE,FALSE
+"101","BM00020","Phospholipids in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00020",NA,NA,NA,NA,NA,"phospholipids in large vldl_mmol_l","BM00020","BM00020",TRUE,FALSE
+"102","BM00020","Phospholipids in large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00020",NA,NA,NA,NA,NA,"phospholipids in large vldl_mmol_l__s5","BM00020","BM00020",TRUE,FALSE
+"103","BM00021","[W1 Finland NMR Metabolomics] Total cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00021",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in large vldl_mmol_l","BM00021","BM00021",TRUE,FALSE
+"104","BM00021","Total cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00021",NA,NA,NA,NA,NA,"total cholesterol in large vldl_mmol_l","BM00021","BM00021",TRUE,FALSE
+"105","BM00021","Total cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00021",NA,NA,NA,NA,NA,"total cholesterol in large vldl_mmol_l","BM00021","BM00021",TRUE,FALSE
+"106","BM00021","Total cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00021",NA,NA,NA,NA,NA,"total cholesterol in large vldl_mmol_l","BM00021","BM00021",TRUE,FALSE
+"107","BM00021","Total cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00021",NA,NA,NA,NA,NA,"total cholesterol in large vldl_mmol_l","BM00021","BM00021",TRUE,FALSE
+"108","BM00021","Total cholesterol in large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00021",NA,NA,NA,NA,NA,"total cholesterol in large vldl_mmol_l__s5","BM00021","BM00021",TRUE,FALSE
+"109","BM00022","[W1 Finland NMR Metabolomics] Cholesterol esters in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00022",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in large vldl_mmol_l","BM00022","BM00022",TRUE,FALSE
+"110","BM00022","Cholesterol esters in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00022",NA,NA,NA,NA,NA,"cholesterol esters in large vldl_mmol_l","BM00022","BM00022",TRUE,FALSE
+"111","BM00022","Cholesterol esters in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00022",NA,NA,NA,NA,NA,"cholesterol esters in large vldl_mmol_l","BM00022","BM00022",TRUE,FALSE
+"112","BM00022","Cholesterol esters in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00022",NA,NA,NA,NA,NA,"cholesterol esters in large vldl_mmol_l","BM00022","BM00022",TRUE,FALSE
+"113","BM00022","Cholesterol esters in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00022",NA,NA,NA,NA,NA,"cholesterol esters in large vldl_mmol_l","BM00022","BM00022",TRUE,FALSE
+"114","BM00022","Cholesterol esters in large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00022",NA,NA,NA,NA,NA,"cholesterol esters in large vldl_mmol_l__s5","BM00022","BM00022",TRUE,FALSE
+"115","BM00023","[W1 Finland NMR Metabolomics] Free cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00023",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in large vldl_mmol_l","BM00023","BM00023",TRUE,FALSE
+"116","BM00023","Free cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00023",NA,NA,NA,NA,NA,"free cholesterol in large vldl_mmol_l","BM00023","BM00023",TRUE,FALSE
+"117","BM00023","Free cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00023",NA,NA,NA,NA,NA,"free cholesterol in large vldl_mmol_l","BM00023","BM00023",TRUE,FALSE
+"118","BM00023","Free cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00023",NA,NA,NA,NA,NA,"free cholesterol in large vldl_mmol_l","BM00023","BM00023",TRUE,FALSE
+"119","BM00023","Free cholesterol in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00023",NA,NA,NA,NA,NA,"free cholesterol in large vldl_mmol_l","BM00023","BM00023",TRUE,FALSE
+"120","BM00023","Free cholesterol in large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00023",NA,NA,NA,NA,NA,"free cholesterol in large vldl_mmol_l__s5","BM00023","BM00023",TRUE,FALSE
+"121","BM00024","[W1 Finland NMR Metabolomics] Triglycerides in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00024",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in large vldl_mmol_l","BM00024","BM00024",TRUE,FALSE
+"122","BM00024","Triglycerides in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00024",NA,NA,NA,NA,NA,"triglycerides in large vldl_mmol_l","BM00024","BM00024",TRUE,FALSE
+"123","BM00024","Triglycerides in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00024",NA,NA,NA,NA,NA,"triglycerides in large vldl_mmol_l","BM00024","BM00024",TRUE,FALSE
+"124","BM00024","Triglycerides in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00024",NA,NA,NA,NA,NA,"triglycerides in large vldl_mmol_l","BM00024","BM00024",TRUE,FALSE
+"125","BM00024","Triglycerides in large VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00024",NA,NA,NA,NA,NA,"triglycerides in large vldl_mmol_l","BM00024","BM00024",TRUE,FALSE
+"126","BM00024","Triglycerides in large VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00024",NA,NA,NA,NA,NA,"triglycerides in large vldl_mmol_l__s5","BM00024","BM00024",TRUE,FALSE
+"127","BM00025","[W1 Finland NMR Metabolomics] Concentration of medium VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00025",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of medium vldl particles_mol_l","BM00025","BM00025",TRUE,FALSE
+"128","BM00025","Concentration of medium VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00025",NA,NA,NA,NA,NA,"concentration of medium vldl particles_mol_l","BM00025","BM00025",TRUE,FALSE
+"129","BM00025","Concentration of medium VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00025",NA,NA,NA,NA,NA,"concentration of medium vldl particles_mol_l","BM00025","BM00025",TRUE,FALSE
+"130","BM00025","Concentration of medium VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00025",NA,NA,NA,NA,NA,"concentration of medium vldl particles_mol_l","BM00025","BM00025",TRUE,FALSE
+"131","BM00025","Concentration of medium VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00025",NA,NA,NA,NA,NA,"concentration of medium vldl particles_mol_l","BM00025","BM00025",TRUE,FALSE
+"132","BM00025","Concentration of medium VLDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00025",NA,NA,NA,NA,NA,"concentration of medium vldl particles_mol_l__s5","BM00025","BM00025",TRUE,FALSE
+"133","BM00026","[W1 Finland NMR Metabolomics] Total lipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00026",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in medium vldl_mmol_l","BM00026","BM00026",TRUE,FALSE
+"134","BM00026","Total lipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00026",NA,NA,NA,NA,NA,"total lipids in medium vldl_mmol_l","BM00026","BM00026",TRUE,FALSE
+"135","BM00026","Total lipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00026",NA,NA,NA,NA,NA,"total lipids in medium vldl_mmol_l","BM00026","BM00026",TRUE,FALSE
+"136","BM00026","Total lipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00026",NA,NA,NA,NA,NA,"total lipids in medium vldl_mmol_l","BM00026","BM00026",TRUE,FALSE
+"137","BM00026","Total lipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00026",NA,NA,NA,NA,NA,"total lipids in medium vldl_mmol_l","BM00026","BM00026",TRUE,FALSE
+"138","BM00026","Total lipids in medium VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00026",NA,NA,NA,NA,NA,"total lipids in medium vldl_mmol_l__s5","BM00026","BM00026",TRUE,FALSE
+"139","BM00027","[W1 Finland NMR Metabolomics] Phospholipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00027",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in medium vldl_mmol_l","BM00027","BM00027",TRUE,FALSE
+"140","BM00027","Phospholipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00027",NA,NA,NA,NA,NA,"phospholipids in medium vldl_mmol_l","BM00027","BM00027",TRUE,FALSE
+"141","BM00027","Phospholipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00027",NA,NA,NA,NA,NA,"phospholipids in medium vldl_mmol_l","BM00027","BM00027",TRUE,FALSE
+"142","BM00027","Phospholipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00027",NA,NA,NA,NA,NA,"phospholipids in medium vldl_mmol_l","BM00027","BM00027",TRUE,FALSE
+"143","BM00027","Phospholipids in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00027",NA,NA,NA,NA,NA,"phospholipids in medium vldl_mmol_l","BM00027","BM00027",TRUE,FALSE
+"144","BM00027","Phospholipids in medium VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00027",NA,NA,NA,NA,NA,"phospholipids in medium vldl_mmol_l__s5","BM00027","BM00027",TRUE,FALSE
+"145","BM00028","[W1 Finland NMR Metabolomics] Total cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00028",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in medium vldl_mmol_l","BM00028","BM00028",TRUE,FALSE
+"146","BM00028","Total cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00028",NA,NA,NA,NA,NA,"total cholesterol in medium vldl_mmol_l","BM00028","BM00028",TRUE,FALSE
+"147","BM00028","Total cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00028",NA,NA,NA,NA,NA,"total cholesterol in medium vldl_mmol_l","BM00028","BM00028",TRUE,FALSE
+"148","BM00028","Total cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00028",NA,NA,NA,NA,NA,"total cholesterol in medium vldl_mmol_l","BM00028","BM00028",TRUE,FALSE
+"149","BM00028","Total cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00028",NA,NA,NA,NA,NA,"total cholesterol in medium vldl_mmol_l","BM00028","BM00028",TRUE,FALSE
+"150","BM00028","Total cholesterol in medium VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00028",NA,NA,NA,NA,NA,"total cholesterol in medium vldl_mmol_l__s5","BM00028","BM00028",TRUE,FALSE
+"151","BM00029","[W1 Finland NMR Metabolomics] Cholesterol esters in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00029",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in medium vldl_mmol_l","BM00029","BM00029",TRUE,FALSE
+"152","BM00029","Cholesterol esters in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00029",NA,NA,NA,NA,NA,"cholesterol esters in medium vldl_mmol_l","BM00029","BM00029",TRUE,FALSE
+"153","BM00029","Cholesterol esters in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00029",NA,NA,NA,NA,NA,"cholesterol esters in medium vldl_mmol_l","BM00029","BM00029",TRUE,FALSE
+"154","BM00029","Cholesterol esters in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00029",NA,NA,NA,NA,NA,"cholesterol esters in medium vldl_mmol_l","BM00029","BM00029",TRUE,FALSE
+"155","BM00029","Cholesterol esters in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00029",NA,NA,NA,NA,NA,"cholesterol esters in medium vldl_mmol_l","BM00029","BM00029",TRUE,FALSE
+"156","BM00029","Cholesterol esters in medium VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00029",NA,NA,NA,NA,NA,"cholesterol esters in medium vldl_mmol_l__s5","BM00029","BM00029",TRUE,FALSE
+"157","BM00030","[W1 Finland NMR Metabolomics] Free cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00030",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in medium vldl_mmol_l","BM00030","BM00030",TRUE,FALSE
+"158","BM00030","Free cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00030",NA,NA,NA,NA,NA,"free cholesterol in medium vldl_mmol_l","BM00030","BM00030",TRUE,FALSE
+"159","BM00030","Free cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00030",NA,NA,NA,NA,NA,"free cholesterol in medium vldl_mmol_l","BM00030","BM00030",TRUE,FALSE
+"160","BM00030","Free cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00030",NA,NA,NA,NA,NA,"free cholesterol in medium vldl_mmol_l","BM00030","BM00030",TRUE,FALSE
+"161","BM00030","Free cholesterol in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00030",NA,NA,NA,NA,NA,"free cholesterol in medium vldl_mmol_l","BM00030","BM00030",TRUE,FALSE
+"162","BM00030","Free cholesterol in medium VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00030",NA,NA,NA,NA,NA,"free cholesterol in medium vldl_mmol_l__s5","BM00030","BM00030",TRUE,FALSE
+"163","BM00031","[W1 Finland NMR Metabolomics] Triglycerides in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00031",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in medium vldl_mmol_l","BM00031","BM00031",TRUE,FALSE
+"164","BM00031","Triglycerides in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00031",NA,NA,NA,NA,NA,"triglycerides in medium vldl_mmol_l","BM00031","BM00031",TRUE,FALSE
+"165","BM00031","Triglycerides in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00031",NA,NA,NA,NA,NA,"triglycerides in medium vldl_mmol_l","BM00031","BM00031",TRUE,FALSE
+"166","BM00031","Triglycerides in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00031",NA,NA,NA,NA,NA,"triglycerides in medium vldl_mmol_l","BM00031","BM00031",TRUE,FALSE
+"167","BM00031","Triglycerides in medium VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00031",NA,NA,NA,NA,NA,"triglycerides in medium vldl_mmol_l","BM00031","BM00031",TRUE,FALSE
+"168","BM00031","Triglycerides in medium VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00031",NA,NA,NA,NA,NA,"triglycerides in medium vldl_mmol_l__s5","BM00031","BM00031",TRUE,FALSE
+"169","BM00032","[W1 Finland NMR Metabolomics] Concentration of small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00032",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of small vldl particles_mol_l","BM00032","BM00032",TRUE,FALSE
+"170","BM00032","Concentration of small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00032",NA,NA,NA,NA,NA,"concentration of small vldl particles_mol_l","BM00032","BM00032",TRUE,FALSE
+"171","BM00032","Concentration of small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00032",NA,NA,NA,NA,NA,"concentration of small vldl particles_mol_l","BM00032","BM00032",TRUE,FALSE
+"172","BM00032","Concentration of small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00032",NA,NA,NA,NA,NA,"concentration of small vldl particles_mol_l","BM00032","BM00032",TRUE,FALSE
+"173","BM00032","Concentration of small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00032",NA,NA,NA,NA,NA,"concentration of small vldl particles_mol_l","BM00032","BM00032",TRUE,FALSE
+"174","BM00032","Concentration of small VLDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00032",NA,NA,NA,NA,NA,"concentration of small vldl particles_mol_l__s5","BM00032","BM00032",TRUE,FALSE
+"175","BM00033","[W1 Finland NMR Metabolomics] Total lipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00033",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in small vldl_mmol_l","BM00033","BM00033",TRUE,FALSE
+"176","BM00033","Total lipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00033",NA,NA,NA,NA,NA,"total lipids in small vldl_mmol_l","BM00033","BM00033",TRUE,FALSE
+"177","BM00033","Total lipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00033",NA,NA,NA,NA,NA,"total lipids in small vldl_mmol_l","BM00033","BM00033",TRUE,FALSE
+"178","BM00033","Total lipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00033",NA,NA,NA,NA,NA,"total lipids in small vldl_mmol_l","BM00033","BM00033",TRUE,FALSE
+"179","BM00033","Total lipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00033",NA,NA,NA,NA,NA,"total lipids in small vldl_mmol_l","BM00033","BM00033",TRUE,FALSE
+"180","BM00033","Total lipids in small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00033",NA,NA,NA,NA,NA,"total lipids in small vldl_mmol_l__s5","BM00033","BM00033",TRUE,FALSE
+"181","BM00034","[W1 Finland NMR Metabolomics] Phospholipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00034",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in small vldl_mmol_l","BM00034","BM00034",TRUE,FALSE
+"182","BM00034","Phospholipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00034",NA,NA,NA,NA,NA,"phospholipids in small vldl_mmol_l","BM00034","BM00034",TRUE,FALSE
+"183","BM00034","Phospholipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00034",NA,NA,NA,NA,NA,"phospholipids in small vldl_mmol_l","BM00034","BM00034",TRUE,FALSE
+"184","BM00034","Phospholipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00034",NA,NA,NA,NA,NA,"phospholipids in small vldl_mmol_l","BM00034","BM00034",TRUE,FALSE
+"185","BM00034","Phospholipids in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00034",NA,NA,NA,NA,NA,"phospholipids in small vldl_mmol_l","BM00034","BM00034",TRUE,FALSE
+"186","BM00034","Phospholipids in small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00034",NA,NA,NA,NA,NA,"phospholipids in small vldl_mmol_l__s5","BM00034","BM00034",TRUE,FALSE
+"187","BM00035","[W1 Finland NMR Metabolomics] Total cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00035",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in small vldl_mmol_l","BM00035","BM00035",TRUE,FALSE
+"188","BM00035","Total cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00035",NA,NA,NA,NA,NA,"total cholesterol in small vldl_mmol_l","BM00035","BM00035",TRUE,FALSE
+"189","BM00035","Total cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00035",NA,NA,NA,NA,NA,"total cholesterol in small vldl_mmol_l","BM00035","BM00035",TRUE,FALSE
+"190","BM00035","Total cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00035",NA,NA,NA,NA,NA,"total cholesterol in small vldl_mmol_l","BM00035","BM00035",TRUE,FALSE
+"191","BM00035","Total cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00035",NA,NA,NA,NA,NA,"total cholesterol in small vldl_mmol_l","BM00035","BM00035",TRUE,FALSE
+"192","BM00035","Total cholesterol in small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00035",NA,NA,NA,NA,NA,"total cholesterol in small vldl_mmol_l__s5","BM00035","BM00035",TRUE,FALSE
+"193","BM00036","[W1 Finland NMR Metabolomics] Cholesterol esters in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00036",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in small vldl_mmol_l","BM00036","BM00036",TRUE,FALSE
+"194","BM00036","Cholesterol esters in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00036",NA,NA,NA,NA,NA,"cholesterol esters in small vldl_mmol_l","BM00036","BM00036",TRUE,FALSE
+"195","BM00036","Cholesterol esters in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00036",NA,NA,NA,NA,NA,"cholesterol esters in small vldl_mmol_l","BM00036","BM00036",TRUE,FALSE
+"196","BM00036","Cholesterol esters in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00036",NA,NA,NA,NA,NA,"cholesterol esters in small vldl_mmol_l","BM00036","BM00036",TRUE,FALSE
+"197","BM00036","Cholesterol esters in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00036",NA,NA,NA,NA,NA,"cholesterol esters in small vldl_mmol_l","BM00036","BM00036",TRUE,FALSE
+"198","BM00036","Cholesterol esters in small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00036",NA,NA,NA,NA,NA,"cholesterol esters in small vldl_mmol_l__s5","BM00036","BM00036",TRUE,FALSE
+"199","BM00037","[W1 Finland NMR Metabolomics] Free cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00037",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in small vldl_mmol_l","BM00037","BM00037",TRUE,FALSE
+"200","BM00037","Free cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00037",NA,NA,NA,NA,NA,"free cholesterol in small vldl_mmol_l","BM00037","BM00037",TRUE,FALSE
+"201","BM00037","Free cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00037",NA,NA,NA,NA,NA,"free cholesterol in small vldl_mmol_l","BM00037","BM00037",TRUE,FALSE
+"202","BM00037","Free cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00037",NA,NA,NA,NA,NA,"free cholesterol in small vldl_mmol_l","BM00037","BM00037",TRUE,FALSE
+"203","BM00037","Free cholesterol in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00037",NA,NA,NA,NA,NA,"free cholesterol in small vldl_mmol_l","BM00037","BM00037",TRUE,FALSE
+"204","BM00037","Free cholesterol in small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00037",NA,NA,NA,NA,NA,"free cholesterol in small vldl_mmol_l__s5","BM00037","BM00037",TRUE,FALSE
+"205","BM00038","[W1 Finland NMR Metabolomics] Triglycerides in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00038",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in small vldl_mmol_l","BM00038","BM00038",TRUE,FALSE
+"206","BM00038","Triglycerides in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00038",NA,NA,NA,NA,NA,"triglycerides in small vldl_mmol_l","BM00038","BM00038",TRUE,FALSE
+"207","BM00038","Triglycerides in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00038",NA,NA,NA,NA,NA,"triglycerides in small vldl_mmol_l","BM00038","BM00038",TRUE,FALSE
+"208","BM00038","Triglycerides in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00038",NA,NA,NA,NA,NA,"triglycerides in small vldl_mmol_l","BM00038","BM00038",TRUE,FALSE
+"209","BM00038","Triglycerides in small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00038",NA,NA,NA,NA,NA,"triglycerides in small vldl_mmol_l","BM00038","BM00038",TRUE,FALSE
+"210","BM00038","Triglycerides in small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00038",NA,NA,NA,NA,NA,"triglycerides in small vldl_mmol_l__s5","BM00038","BM00038",TRUE,FALSE
+"211","BM00039","[W1 Finland NMR Metabolomics] Concentration of very small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00039",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of very small vldl particles_mol_l","BM00039","BM00039",TRUE,FALSE
+"212","BM00039","Concentration of very small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00039",NA,NA,NA,NA,NA,"concentration of very small vldl particles_mol_l","BM00039","BM00039",TRUE,FALSE
+"213","BM00039","Concentration of very small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00039",NA,NA,NA,NA,NA,"concentration of very small vldl particles_mol_l","BM00039","BM00039",TRUE,FALSE
+"214","BM00039","Concentration of very small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00039",NA,NA,NA,NA,NA,"concentration of very small vldl particles_mol_l","BM00039","BM00039",TRUE,FALSE
+"215","BM00039","Concentration of very small VLDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00039",NA,NA,NA,NA,NA,"concentration of very small vldl particles_mol_l","BM00039","BM00039",TRUE,FALSE
+"216","BM00039","Concentration of very small VLDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00039",NA,NA,NA,NA,NA,"concentration of very small vldl particles_mol_l__s5","BM00039","BM00039",TRUE,FALSE
+"217","BM00040","[W1 Finland NMR Metabolomics] Total lipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00040",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in very small vldl_mmol_l","BM00040","BM00040",TRUE,FALSE
+"218","BM00040","Total lipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00040",NA,NA,NA,NA,NA,"total lipids in very small vldl_mmol_l","BM00040","BM00040",TRUE,FALSE
+"219","BM00040","Total lipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00040",NA,NA,NA,NA,NA,"total lipids in very small vldl_mmol_l","BM00040","BM00040",TRUE,FALSE
+"220","BM00040","Total lipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00040",NA,NA,NA,NA,NA,"total lipids in very small vldl_mmol_l","BM00040","BM00040",TRUE,FALSE
+"221","BM00040","Total lipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00040",NA,NA,NA,NA,NA,"total lipids in very small vldl_mmol_l","BM00040","BM00040",TRUE,FALSE
+"222","BM00040","Total lipids in very small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00040",NA,NA,NA,NA,NA,"total lipids in very small vldl_mmol_l__s5","BM00040","BM00040",TRUE,FALSE
+"223","BM00041","[W1 Finland NMR Metabolomics] Phospholipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00041",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in very small vldl_mmol_l","BM00041","BM00041",TRUE,FALSE
+"224","BM00041","Phospholipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00041",NA,NA,NA,NA,NA,"phospholipids in very small vldl_mmol_l","BM00041","BM00041",TRUE,FALSE
+"225","BM00041","Phospholipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00041",NA,NA,NA,NA,NA,"phospholipids in very small vldl_mmol_l","BM00041","BM00041",TRUE,FALSE
+"226","BM00041","Phospholipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00041",NA,NA,NA,NA,NA,"phospholipids in very small vldl_mmol_l","BM00041","BM00041",TRUE,FALSE
+"227","BM00041","Phospholipids in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00041",NA,NA,NA,NA,NA,"phospholipids in very small vldl_mmol_l","BM00041","BM00041",TRUE,FALSE
+"228","BM00041","Phospholipids in very small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00041",NA,NA,NA,NA,NA,"phospholipids in very small vldl_mmol_l__s5","BM00041","BM00041",TRUE,FALSE
+"229","BM00042","[W1 Finland NMR Metabolomics] Total cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00042",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in very small vldl_mmol_l","BM00042","BM00042",TRUE,FALSE
+"230","BM00042","Total cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00042",NA,NA,NA,NA,NA,"total cholesterol in very small vldl_mmol_l","BM00042","BM00042",TRUE,FALSE
+"231","BM00042","Total cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00042",NA,NA,NA,NA,NA,"total cholesterol in very small vldl_mmol_l","BM00042","BM00042",TRUE,FALSE
+"232","BM00042","Total cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00042",NA,NA,NA,NA,NA,"total cholesterol in very small vldl_mmol_l","BM00042","BM00042",TRUE,FALSE
+"233","BM00042","Total cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00042",NA,NA,NA,NA,NA,"total cholesterol in very small vldl_mmol_l","BM00042","BM00042",TRUE,FALSE
+"234","BM00042","Total cholesterol in very small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00042",NA,NA,NA,NA,NA,"total cholesterol in very small vldl_mmol_l__s5","BM00042","BM00042",TRUE,FALSE
+"235","BM00043","[W1 Finland NMR Metabolomics] Cholesterol esters in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00043",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in very small vldl_mmol_l","BM00043","BM00043",TRUE,FALSE
+"236","BM00043","Cholesterol esters in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00043",NA,NA,NA,NA,NA,"cholesterol esters in very small vldl_mmol_l","BM00043","BM00043",TRUE,FALSE
+"237","BM00043","Cholesterol esters in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00043",NA,NA,NA,NA,NA,"cholesterol esters in very small vldl_mmol_l","BM00043","BM00043",TRUE,FALSE
+"238","BM00043","Cholesterol esters in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00043",NA,NA,NA,NA,NA,"cholesterol esters in very small vldl_mmol_l","BM00043","BM00043",TRUE,FALSE
+"239","BM00043","Cholesterol esters in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00043",NA,NA,NA,NA,NA,"cholesterol esters in very small vldl_mmol_l","BM00043","BM00043",TRUE,FALSE
+"240","BM00043","Cholesterol esters in very small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00043",NA,NA,NA,NA,NA,"cholesterol esters in very small vldl_mmol_l__s5","BM00043","BM00043",TRUE,FALSE
+"241","BM00044","[W1 Finland NMR Metabolomics] Free cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00044",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in very small vldl_mmol_l","BM00044","BM00044",TRUE,FALSE
+"242","BM00044","Free cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00044",NA,NA,NA,NA,NA,"free cholesterol in very small vldl_mmol_l","BM00044","BM00044",TRUE,FALSE
+"243","BM00044","Free cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00044",NA,NA,NA,NA,NA,"free cholesterol in very small vldl_mmol_l","BM00044","BM00044",TRUE,FALSE
+"244","BM00044","Free cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00044",NA,NA,NA,NA,NA,"free cholesterol in very small vldl_mmol_l","BM00044","BM00044",TRUE,FALSE
+"245","BM00044","Free cholesterol in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00044",NA,NA,NA,NA,NA,"free cholesterol in very small vldl_mmol_l","BM00044","BM00044",TRUE,FALSE
+"246","BM00044","Free cholesterol in very small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00044",NA,NA,NA,NA,NA,"free cholesterol in very small vldl_mmol_l__s5","BM00044","BM00044",TRUE,FALSE
+"247","BM00045","[W1 Finland NMR Metabolomics] Triglycerides in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00045",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in very small vldl_mmol_l","BM00045","BM00045",TRUE,FALSE
+"248","BM00045","Triglycerides in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00045",NA,NA,NA,NA,NA,"triglycerides in very small vldl_mmol_l","BM00045","BM00045",TRUE,FALSE
+"249","BM00045","Triglycerides in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00045",NA,NA,NA,NA,NA,"triglycerides in very small vldl_mmol_l","BM00045","BM00045",TRUE,FALSE
+"250","BM00045","Triglycerides in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00045",NA,NA,NA,NA,NA,"triglycerides in very small vldl_mmol_l","BM00045","BM00045",TRUE,FALSE
+"251","BM00045","Triglycerides in very small VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00045",NA,NA,NA,NA,NA,"triglycerides in very small vldl_mmol_l","BM00045","BM00045",TRUE,FALSE
+"252","BM00045","Triglycerides in very small VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00045",NA,NA,NA,NA,NA,"triglycerides in very small vldl_mmol_l__s5","BM00045","BM00045",TRUE,FALSE
+"253","BM00046","[W1 Finland NMR Metabolomics] Concentration of IDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00046",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of idl particles_mol_l","BM00046","BM00046",TRUE,FALSE
+"254","BM00046","Concentration of IDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00046",NA,NA,NA,NA,NA,"concentration of idl particles_mol_l","BM00046","BM00046",TRUE,FALSE
+"255","BM00046","Concentration of IDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00046",NA,NA,NA,NA,NA,"concentration of idl particles_mol_l","BM00046","BM00046",TRUE,FALSE
+"256","BM00046","Concentration of IDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00046",NA,NA,NA,NA,NA,"concentration of idl particles_mol_l","BM00046","BM00046",TRUE,FALSE
+"257","BM00046","Concentration of IDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00046",NA,NA,NA,NA,NA,"concentration of idl particles_mol_l","BM00046","BM00046",TRUE,FALSE
+"258","BM00046","Concentration of IDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00046",NA,NA,NA,NA,NA,"concentration of idl particles_mol_l__s5","BM00046","BM00046",TRUE,FALSE
+"259","BM00047","[W1 Finland NMR Metabolomics] Total lipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00047",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in idl_mmol_l","BM00047","BM00047",TRUE,FALSE
+"260","BM00047","Total lipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00047",NA,NA,NA,NA,NA,"total lipids in idl_mmol_l","BM00047","BM00047",TRUE,FALSE
+"261","BM00047","Total lipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00047",NA,NA,NA,NA,NA,"total lipids in idl_mmol_l","BM00047","BM00047",TRUE,FALSE
+"262","BM00047","Total lipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00047",NA,NA,NA,NA,NA,"total lipids in idl_mmol_l","BM00047","BM00047",TRUE,FALSE
+"263","BM00047","Total lipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00047",NA,NA,NA,NA,NA,"total lipids in idl_mmol_l","BM00047","BM00047",TRUE,FALSE
+"264","BM00047","Total lipids in IDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00047",NA,NA,NA,NA,NA,"total lipids in idl_mmol_l__s5","BM00047","BM00047",TRUE,FALSE
+"265","BM00048","[W1 Finland NMR Metabolomics] Phospholipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00048",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in idl_mmol_l","BM00048","BM00048",TRUE,FALSE
+"266","BM00048","Phospholipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00048",NA,NA,NA,NA,NA,"phospholipids in idl_mmol_l","BM00048","BM00048",TRUE,FALSE
+"267","BM00048","Phospholipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00048",NA,NA,NA,NA,NA,"phospholipids in idl_mmol_l","BM00048","BM00048",TRUE,FALSE
+"268","BM00048","Phospholipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00048",NA,NA,NA,NA,NA,"phospholipids in idl_mmol_l","BM00048","BM00048",TRUE,FALSE
+"269","BM00048","Phospholipids in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00048",NA,NA,NA,NA,NA,"phospholipids in idl_mmol_l","BM00048","BM00048",TRUE,FALSE
+"270","BM00048","Phospholipids in IDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00048",NA,NA,NA,NA,NA,"phospholipids in idl_mmol_l__s5","BM00048","BM00048",TRUE,FALSE
+"271","BM00049","[W1 Finland NMR Metabolomics] Total cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00049",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in idl_mmol_l","BM00049","BM00049",TRUE,FALSE
+"272","BM00049","Total cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00049",NA,NA,NA,NA,NA,"total cholesterol in idl_mmol_l","BM00049","BM00049",TRUE,FALSE
+"273","BM00049","Total cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00049",NA,NA,NA,NA,NA,"total cholesterol in idl_mmol_l","BM00049","BM00049",TRUE,FALSE
+"274","BM00049","Total cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00049",NA,NA,NA,NA,NA,"total cholesterol in idl_mmol_l","BM00049","BM00049",TRUE,FALSE
+"275","BM00049","Total cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00049",NA,NA,NA,NA,NA,"total cholesterol in idl_mmol_l","BM00049","BM00049",TRUE,FALSE
+"276","BM00049","Total cholesterol in IDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00049",NA,NA,NA,NA,NA,"total cholesterol in idl_mmol_l__s5","BM00049","BM00049",TRUE,FALSE
+"277","BM00050","[W1 Finland NMR Metabolomics] Cholesterol esters in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00050",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in idl_mmol_l","BM00050","BM00050",TRUE,FALSE
+"278","BM00050","Cholesterol esters in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00050",NA,NA,NA,NA,NA,"cholesterol esters in idl_mmol_l","BM00050","BM00050",TRUE,FALSE
+"279","BM00050","Cholesterol esters in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00050",NA,NA,NA,NA,NA,"cholesterol esters in idl_mmol_l","BM00050","BM00050",TRUE,FALSE
+"280","BM00050","Cholesterol esters in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00050",NA,NA,NA,NA,NA,"cholesterol esters in idl_mmol_l","BM00050","BM00050",TRUE,FALSE
+"281","BM00050","Cholesterol esters in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00050",NA,NA,NA,NA,NA,"cholesterol esters in idl_mmol_l","BM00050","BM00050",TRUE,FALSE
+"282","BM00050","Cholesterol esters in IDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00050",NA,NA,NA,NA,NA,"cholesterol esters in idl_mmol_l__s5","BM00050","BM00050",TRUE,FALSE
+"283","BM00051","[W1 Finland NMR Metabolomics] Free cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00051",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in idl_mmol_l","BM00051","BM00051",TRUE,FALSE
+"284","BM00051","Free cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00051",NA,NA,NA,NA,NA,"free cholesterol in idl_mmol_l","BM00051","BM00051",TRUE,FALSE
+"285","BM00051","Free cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00051",NA,NA,NA,NA,NA,"free cholesterol in idl_mmol_l","BM00051","BM00051",TRUE,FALSE
+"286","BM00051","Free cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00051",NA,NA,NA,NA,NA,"free cholesterol in idl_mmol_l","BM00051","BM00051",TRUE,FALSE
+"287","BM00051","Free cholesterol in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00051",NA,NA,NA,NA,NA,"free cholesterol in idl_mmol_l","BM00051","BM00051",TRUE,FALSE
+"288","BM00051","Free cholesterol in IDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00051",NA,NA,NA,NA,NA,"free cholesterol in idl_mmol_l__s5","BM00051","BM00051",TRUE,FALSE
+"289","BM00052","[W1 Finland NMR Metabolomics] Triglycerides in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00052",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in idl_mmol_l","BM00052","BM00052",TRUE,FALSE
+"290","BM00052","Triglycerides in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00052",NA,NA,NA,NA,NA,"triglycerides in idl_mmol_l","BM00052","BM00052",TRUE,FALSE
+"291","BM00052","Triglycerides in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00052",NA,NA,NA,NA,NA,"triglycerides in idl_mmol_l","BM00052","BM00052",TRUE,FALSE
+"292","BM00052","Triglycerides in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00052",NA,NA,NA,NA,NA,"triglycerides in idl_mmol_l","BM00052","BM00052",TRUE,FALSE
+"293","BM00052","Triglycerides in IDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00052",NA,NA,NA,NA,NA,"triglycerides in idl_mmol_l","BM00052","BM00052",TRUE,FALSE
+"294","BM00052","Triglycerides in IDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00052",NA,NA,NA,NA,NA,"triglycerides in idl_mmol_l__s5","BM00052","BM00052",TRUE,FALSE
+"295","BM00053","[W1 Finland NMR Metabolomics] Concentration of large LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00053",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of large ldl particles_mol_l","BM00053","BM00053",TRUE,FALSE
+"296","BM00053","Concentration of large LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00053",NA,NA,NA,NA,NA,"concentration of large ldl particles_mol_l","BM00053","BM00053",TRUE,FALSE
+"297","BM00053","Concentration of large LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00053",NA,NA,NA,NA,NA,"concentration of large ldl particles_mol_l","BM00053","BM00053",TRUE,FALSE
+"298","BM00053","Concentration of large LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00053",NA,NA,NA,NA,NA,"concentration of large ldl particles_mol_l","BM00053","BM00053",TRUE,FALSE
+"299","BM00053","Concentration of large LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00053",NA,NA,NA,NA,NA,"concentration of large ldl particles_mol_l","BM00053","BM00053",TRUE,FALSE
+"300","BM00053","Concentration of large LDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00053",NA,NA,NA,NA,NA,"concentration of large ldl particles_mol_l__s5","BM00053","BM00053",TRUE,FALSE
+"301","BM00054","[W1 Finland NMR Metabolomics] Total lipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00054",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in large ldl_mmol_l","BM00054","BM00054",TRUE,FALSE
+"302","BM00054","Total lipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00054",NA,NA,NA,NA,NA,"total lipids in large ldl_mmol_l","BM00054","BM00054",TRUE,FALSE
+"303","BM00054","Total lipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00054",NA,NA,NA,NA,NA,"total lipids in large ldl_mmol_l","BM00054","BM00054",TRUE,FALSE
+"304","BM00054","Total lipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00054",NA,NA,NA,NA,NA,"total lipids in large ldl_mmol_l","BM00054","BM00054",TRUE,FALSE
+"305","BM00054","Total lipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00054",NA,NA,NA,NA,NA,"total lipids in large ldl_mmol_l","BM00054","BM00054",TRUE,FALSE
+"306","BM00054","Total lipids in large LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00054",NA,NA,NA,NA,NA,"total lipids in large ldl_mmol_l__s5","BM00054","BM00054",TRUE,FALSE
+"307","BM00055","[W1 Finland NMR Metabolomics] Phospholipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00055",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in large ldl_mmol_l","BM00055","BM00055",TRUE,FALSE
+"308","BM00055","Phospholipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00055",NA,NA,NA,NA,NA,"phospholipids in large ldl_mmol_l","BM00055","BM00055",TRUE,FALSE
+"309","BM00055","Phospholipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00055",NA,NA,NA,NA,NA,"phospholipids in large ldl_mmol_l","BM00055","BM00055",TRUE,FALSE
+"310","BM00055","Phospholipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00055",NA,NA,NA,NA,NA,"phospholipids in large ldl_mmol_l","BM00055","BM00055",TRUE,FALSE
+"311","BM00055","Phospholipids in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00055",NA,NA,NA,NA,NA,"phospholipids in large ldl_mmol_l","BM00055","BM00055",TRUE,FALSE
+"312","BM00055","Phospholipids in large LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00055",NA,NA,NA,NA,NA,"phospholipids in large ldl_mmol_l__s5","BM00055","BM00055",TRUE,FALSE
+"313","BM00056","[W1 Finland NMR Metabolomics] Total cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00056",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in large ldl_mmol_l","BM00056","BM00056",TRUE,FALSE
+"314","BM00056","Total cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00056",NA,NA,NA,NA,NA,"total cholesterol in large ldl_mmol_l","BM00056","BM00056",TRUE,FALSE
+"315","BM00056","Total cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00056",NA,NA,NA,NA,NA,"total cholesterol in large ldl_mmol_l","BM00056","BM00056",TRUE,FALSE
+"316","BM00056","Total cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00056",NA,NA,NA,NA,NA,"total cholesterol in large ldl_mmol_l","BM00056","BM00056",TRUE,FALSE
+"317","BM00056","Total cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00056",NA,NA,NA,NA,NA,"total cholesterol in large ldl_mmol_l","BM00056","BM00056",TRUE,FALSE
+"318","BM00056","Total cholesterol in large LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00056",NA,NA,NA,NA,NA,"total cholesterol in large ldl_mmol_l__s5","BM00056","BM00056",TRUE,FALSE
+"319","BM00057","[W1 Finland NMR Metabolomics] Cholesterol esters in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00057",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in large ldl_mmol_l","BM00057","BM00057",TRUE,FALSE
+"320","BM00057","Cholesterol esters in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00057",NA,NA,NA,NA,NA,"cholesterol esters in large ldl_mmol_l","BM00057","BM00057",TRUE,FALSE
+"321","BM00057","Cholesterol esters in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00057",NA,NA,NA,NA,NA,"cholesterol esters in large ldl_mmol_l","BM00057","BM00057",TRUE,FALSE
+"322","BM00057","Cholesterol esters in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00057",NA,NA,NA,NA,NA,"cholesterol esters in large ldl_mmol_l","BM00057","BM00057",TRUE,FALSE
+"323","BM00057","Cholesterol esters in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00057",NA,NA,NA,NA,NA,"cholesterol esters in large ldl_mmol_l","BM00057","BM00057",TRUE,FALSE
+"324","BM00057","Cholesterol esters in large LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00057",NA,NA,NA,NA,NA,"cholesterol esters in large ldl_mmol_l__s5","BM00057","BM00057",TRUE,FALSE
+"325","BM00058","[W1 Finland NMR Metabolomics] Free cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00058",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in large ldl_mmol_l","BM00058","BM00058",TRUE,FALSE
+"326","BM00058","Free cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00058",NA,NA,NA,NA,NA,"free cholesterol in large ldl_mmol_l","BM00058","BM00058",TRUE,FALSE
+"327","BM00058","Free cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00058",NA,NA,NA,NA,NA,"free cholesterol in large ldl_mmol_l","BM00058","BM00058",TRUE,FALSE
+"328","BM00058","Free cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00058",NA,NA,NA,NA,NA,"free cholesterol in large ldl_mmol_l","BM00058","BM00058",TRUE,FALSE
+"329","BM00058","Free cholesterol in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00058",NA,NA,NA,NA,NA,"free cholesterol in large ldl_mmol_l","BM00058","BM00058",TRUE,FALSE
+"330","BM00058","Free cholesterol in large LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00058",NA,NA,NA,NA,NA,"free cholesterol in large ldl_mmol_l__s5","BM00058","BM00058",TRUE,FALSE
+"331","BM00059","[W1 Finland NMR Metabolomics] Triglycerides in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00059",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in large ldl_mmol_l","BM00059","BM00059",TRUE,FALSE
+"332","BM00059","Triglycerides in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00059",NA,NA,NA,NA,NA,"triglycerides in large ldl_mmol_l","BM00059","BM00059",TRUE,FALSE
+"333","BM00059","Triglycerides in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00059",NA,NA,NA,NA,NA,"triglycerides in large ldl_mmol_l","BM00059","BM00059",TRUE,FALSE
+"334","BM00059","Triglycerides in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00059",NA,NA,NA,NA,NA,"triglycerides in large ldl_mmol_l","BM00059","BM00059",TRUE,FALSE
+"335","BM00059","Triglycerides in large LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00059",NA,NA,NA,NA,NA,"triglycerides in large ldl_mmol_l","BM00059","BM00059",TRUE,FALSE
+"336","BM00059","Triglycerides in large LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00059",NA,NA,NA,NA,NA,"triglycerides in large ldl_mmol_l__s5","BM00059","BM00059",TRUE,FALSE
+"337","BM00060","[W1 Finland NMR Metabolomics] Concentration of medium LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00060",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of medium ldl particles_mol_l","BM00060","BM00060",TRUE,FALSE
+"338","BM00060","Concentration of medium LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00060",NA,NA,NA,NA,NA,"concentration of medium ldl particles_mol_l","BM00060","BM00060",TRUE,FALSE
+"339","BM00060","Concentration of medium LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00060",NA,NA,NA,NA,NA,"concentration of medium ldl particles_mol_l","BM00060","BM00060",TRUE,FALSE
+"340","BM00060","Concentration of medium LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00060",NA,NA,NA,NA,NA,"concentration of medium ldl particles_mol_l","BM00060","BM00060",TRUE,FALSE
+"341","BM00060","Concentration of medium LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00060",NA,NA,NA,NA,NA,"concentration of medium ldl particles_mol_l","BM00060","BM00060",TRUE,FALSE
+"342","BM00060","Concentration of medium LDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00060",NA,NA,NA,NA,NA,"concentration of medium ldl particles_mol_l__s5","BM00060","BM00060",TRUE,FALSE
+"343","BM00061","[W1 Finland NMR Metabolomics] Total lipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00061",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in medium ldl_mmol_l","BM00061","BM00061",TRUE,FALSE
+"344","BM00061","Total lipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00061",NA,NA,NA,NA,NA,"total lipids in medium ldl_mmol_l","BM00061","BM00061",TRUE,FALSE
+"345","BM00061","Total lipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00061",NA,NA,NA,NA,NA,"total lipids in medium ldl_mmol_l","BM00061","BM00061",TRUE,FALSE
+"346","BM00061","Total lipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00061",NA,NA,NA,NA,NA,"total lipids in medium ldl_mmol_l","BM00061","BM00061",TRUE,FALSE
+"347","BM00061","Total lipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00061",NA,NA,NA,NA,NA,"total lipids in medium ldl_mmol_l","BM00061","BM00061",TRUE,FALSE
+"348","BM00061","Total lipids in medium LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00061",NA,NA,NA,NA,NA,"total lipids in medium ldl_mmol_l__s5","BM00061","BM00061",TRUE,FALSE
+"349","BM00062","[W1 Finland NMR Metabolomics] Phospholipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00062",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in medium ldl_mmol_l","BM00062","BM00062",TRUE,FALSE
+"350","BM00062","Phospholipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00062",NA,NA,NA,NA,NA,"phospholipids in medium ldl_mmol_l","BM00062","BM00062",TRUE,FALSE
+"351","BM00062","Phospholipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00062",NA,NA,NA,NA,NA,"phospholipids in medium ldl_mmol_l","BM00062","BM00062",TRUE,FALSE
+"352","BM00062","Phospholipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00062",NA,NA,NA,NA,NA,"phospholipids in medium ldl_mmol_l","BM00062","BM00062",TRUE,FALSE
+"353","BM00062","Phospholipids in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00062",NA,NA,NA,NA,NA,"phospholipids in medium ldl_mmol_l","BM00062","BM00062",TRUE,FALSE
+"354","BM00062","Phospholipids in medium LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00062",NA,NA,NA,NA,NA,"phospholipids in medium ldl_mmol_l__s5","BM00062","BM00062",TRUE,FALSE
+"355","BM00063","[W1 Finland NMR Metabolomics] Total cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00063",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in medium ldl_mmol_l","BM00063","BM00063",TRUE,FALSE
+"356","BM00063","Total cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00063",NA,NA,NA,NA,NA,"total cholesterol in medium ldl_mmol_l","BM00063","BM00063",TRUE,FALSE
+"357","BM00063","Total cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00063",NA,NA,NA,NA,NA,"total cholesterol in medium ldl_mmol_l","BM00063","BM00063",TRUE,FALSE
+"358","BM00063","Total cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00063",NA,NA,NA,NA,NA,"total cholesterol in medium ldl_mmol_l","BM00063","BM00063",TRUE,FALSE
+"359","BM00063","Total cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00063",NA,NA,NA,NA,NA,"total cholesterol in medium ldl_mmol_l","BM00063","BM00063",TRUE,FALSE
+"360","BM00063","Total cholesterol in medium LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00063",NA,NA,NA,NA,NA,"total cholesterol in medium ldl_mmol_l__s5","BM00063","BM00063",TRUE,FALSE
+"361","BM00064","[W1 Finland NMR Metabolomics] Cholesterol esters in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00064",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in medium ldl_mmol_l","BM00064","BM00064",TRUE,FALSE
+"362","BM00064","Cholesterol esters in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00064",NA,NA,NA,NA,NA,"cholesterol esters in medium ldl_mmol_l","BM00064","BM00064",TRUE,FALSE
+"363","BM00064","Cholesterol esters in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00064",NA,NA,NA,NA,NA,"cholesterol esters in medium ldl_mmol_l","BM00064","BM00064",TRUE,FALSE
+"364","BM00064","Cholesterol esters in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00064",NA,NA,NA,NA,NA,"cholesterol esters in medium ldl_mmol_l","BM00064","BM00064",TRUE,FALSE
+"365","BM00064","Cholesterol esters in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00064",NA,NA,NA,NA,NA,"cholesterol esters in medium ldl_mmol_l","BM00064","BM00064",TRUE,FALSE
+"366","BM00064","Cholesterol esters in medium LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00064",NA,NA,NA,NA,NA,"cholesterol esters in medium ldl_mmol_l__s5","BM00064","BM00064",TRUE,FALSE
+"367","BM00065","[W1 Finland NMR Metabolomics] Free cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00065",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in medium ldl_mmol_l","BM00065","BM00065",TRUE,FALSE
+"368","BM00065","Free cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00065",NA,NA,NA,NA,NA,"free cholesterol in medium ldl_mmol_l","BM00065","BM00065",TRUE,FALSE
+"369","BM00065","Free cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00065",NA,NA,NA,NA,NA,"free cholesterol in medium ldl_mmol_l","BM00065","BM00065",TRUE,FALSE
+"370","BM00065","Free cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00065",NA,NA,NA,NA,NA,"free cholesterol in medium ldl_mmol_l","BM00065","BM00065",TRUE,FALSE
+"371","BM00065","Free cholesterol in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00065",NA,NA,NA,NA,NA,"free cholesterol in medium ldl_mmol_l","BM00065","BM00065",TRUE,FALSE
+"372","BM00065","Free cholesterol in medium LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00065",NA,NA,NA,NA,NA,"free cholesterol in medium ldl_mmol_l__s5","BM00065","BM00065",TRUE,FALSE
+"373","BM00066","[W1 Finland NMR Metabolomics] Triglycerides in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00066",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in medium ldl_mmol_l","BM00066","BM00066",TRUE,FALSE
+"374","BM00066","Triglycerides in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00066",NA,NA,NA,NA,NA,"triglycerides in medium ldl_mmol_l","BM00066","BM00066",TRUE,FALSE
+"375","BM00066","Triglycerides in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00066",NA,NA,NA,NA,NA,"triglycerides in medium ldl_mmol_l","BM00066","BM00066",TRUE,FALSE
+"376","BM00066","Triglycerides in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00066",NA,NA,NA,NA,NA,"triglycerides in medium ldl_mmol_l","BM00066","BM00066",TRUE,FALSE
+"377","BM00066","Triglycerides in medium LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00066",NA,NA,NA,NA,NA,"triglycerides in medium ldl_mmol_l","BM00066","BM00066",TRUE,FALSE
+"378","BM00066","Triglycerides in medium LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00066",NA,NA,NA,NA,NA,"triglycerides in medium ldl_mmol_l__s5","BM00066","BM00066",TRUE,FALSE
+"379","BM00067","[W1 Finland NMR Metabolomics] Concentration of small LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00067",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of small ldl particles_mol_l","BM00067","BM00067",TRUE,FALSE
+"380","BM00067","Concentration of small LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00067",NA,NA,NA,NA,NA,"concentration of small ldl particles_mol_l","BM00067","BM00067",TRUE,FALSE
+"381","BM00067","Concentration of small LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00067",NA,NA,NA,NA,NA,"concentration of small ldl particles_mol_l","BM00067","BM00067",TRUE,FALSE
+"382","BM00067","Concentration of small LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00067",NA,NA,NA,NA,NA,"concentration of small ldl particles_mol_l","BM00067","BM00067",TRUE,FALSE
+"383","BM00067","Concentration of small LDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00067",NA,NA,NA,NA,NA,"concentration of small ldl particles_mol_l","BM00067","BM00067",TRUE,FALSE
+"384","BM00067","Concentration of small LDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00067",NA,NA,NA,NA,NA,"concentration of small ldl particles_mol_l__s5","BM00067","BM00067",TRUE,FALSE
+"385","BM00068","[W1 Finland NMR Metabolomics] Total lipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00068",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in small ldl_mmol_l","BM00068","BM00068",TRUE,FALSE
+"386","BM00068","Total lipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00068",NA,NA,NA,NA,NA,"total lipids in small ldl_mmol_l","BM00068","BM00068",TRUE,FALSE
+"387","BM00068","Total lipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00068",NA,NA,NA,NA,NA,"total lipids in small ldl_mmol_l","BM00068","BM00068",TRUE,FALSE
+"388","BM00068","Total lipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00068",NA,NA,NA,NA,NA,"total lipids in small ldl_mmol_l","BM00068","BM00068",TRUE,FALSE
+"389","BM00068","Total lipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00068",NA,NA,NA,NA,NA,"total lipids in small ldl_mmol_l","BM00068","BM00068",TRUE,FALSE
+"390","BM00068","Total lipids in small LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00068",NA,NA,NA,NA,NA,"total lipids in small ldl_mmol_l__s5","BM00068","BM00068",TRUE,FALSE
+"391","BM00069","[W1 Finland NMR Metabolomics] Phospholipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00069",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in small ldl_mmol_l","BM00069","BM00069",TRUE,FALSE
+"392","BM00069","Phospholipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00069",NA,NA,NA,NA,NA,"phospholipids in small ldl_mmol_l","BM00069","BM00069",TRUE,FALSE
+"393","BM00069","Phospholipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00069",NA,NA,NA,NA,NA,"phospholipids in small ldl_mmol_l","BM00069","BM00069",TRUE,FALSE
+"394","BM00069","Phospholipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00069",NA,NA,NA,NA,NA,"phospholipids in small ldl_mmol_l","BM00069","BM00069",TRUE,FALSE
+"395","BM00069","Phospholipids in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00069",NA,NA,NA,NA,NA,"phospholipids in small ldl_mmol_l","BM00069","BM00069",TRUE,FALSE
+"396","BM00069","Phospholipids in small LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00069",NA,NA,NA,NA,NA,"phospholipids in small ldl_mmol_l__s5","BM00069","BM00069",TRUE,FALSE
+"397","BM00070","[W1 Finland NMR Metabolomics] Total cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00070",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in small ldl_mmol_l","BM00070","BM00070",TRUE,FALSE
+"398","BM00070","Total cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00070",NA,NA,NA,NA,NA,"total cholesterol in small ldl_mmol_l","BM00070","BM00070",TRUE,FALSE
+"399","BM00070","Total cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00070",NA,NA,NA,NA,NA,"total cholesterol in small ldl_mmol_l","BM00070","BM00070",TRUE,FALSE
+"400","BM00070","Total cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00070",NA,NA,NA,NA,NA,"total cholesterol in small ldl_mmol_l","BM00070","BM00070",TRUE,FALSE
+"401","BM00070","Total cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00070",NA,NA,NA,NA,NA,"total cholesterol in small ldl_mmol_l","BM00070","BM00070",TRUE,FALSE
+"402","BM00070","Total cholesterol in small LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00070",NA,NA,NA,NA,NA,"total cholesterol in small ldl_mmol_l__s5","BM00070","BM00070",TRUE,FALSE
+"403","BM00071","[W1 Finland NMR Metabolomics] Cholesterol esters in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00071",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in small ldl_mmol_l","BM00071","BM00071",TRUE,FALSE
+"404","BM00071","Cholesterol esters in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00071",NA,NA,NA,NA,NA,"cholesterol esters in small ldl_mmol_l","BM00071","BM00071",TRUE,FALSE
+"405","BM00071","Cholesterol esters in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00071",NA,NA,NA,NA,NA,"cholesterol esters in small ldl_mmol_l","BM00071","BM00071",TRUE,FALSE
+"406","BM00071","Cholesterol esters in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00071",NA,NA,NA,NA,NA,"cholesterol esters in small ldl_mmol_l","BM00071","BM00071",TRUE,FALSE
+"407","BM00071","Cholesterol esters in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00071",NA,NA,NA,NA,NA,"cholesterol esters in small ldl_mmol_l","BM00071","BM00071",TRUE,FALSE
+"408","BM00071","Cholesterol esters in small LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00071",NA,NA,NA,NA,NA,"cholesterol esters in small ldl_mmol_l__s5","BM00071","BM00071",TRUE,FALSE
+"409","BM00072","[W1 Finland NMR Metabolomics] Free cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00072",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in small ldl_mmol_l","BM00072","BM00072",TRUE,FALSE
+"410","BM00072","Free cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00072",NA,NA,NA,NA,NA,"free cholesterol in small ldl_mmol_l","BM00072","BM00072",TRUE,FALSE
+"411","BM00072","Free cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00072",NA,NA,NA,NA,NA,"free cholesterol in small ldl_mmol_l","BM00072","BM00072",TRUE,FALSE
+"412","BM00072","Free cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00072",NA,NA,NA,NA,NA,"free cholesterol in small ldl_mmol_l","BM00072","BM00072",TRUE,FALSE
+"413","BM00072","Free cholesterol in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00072",NA,NA,NA,NA,NA,"free cholesterol in small ldl_mmol_l","BM00072","BM00072",TRUE,FALSE
+"414","BM00072","Free cholesterol in small LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00072",NA,NA,NA,NA,NA,"free cholesterol in small ldl_mmol_l__s5","BM00072","BM00072",TRUE,FALSE
+"415","BM00073","[W1 Finland NMR Metabolomics] Triglycerides in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00073",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in small ldl_mmol_l","BM00073","BM00073",TRUE,FALSE
+"416","BM00073","Triglycerides in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00073",NA,NA,NA,NA,NA,"triglycerides in small ldl_mmol_l","BM00073","BM00073",TRUE,FALSE
+"417","BM00073","Triglycerides in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00073",NA,NA,NA,NA,NA,"triglycerides in small ldl_mmol_l","BM00073","BM00073",TRUE,FALSE
+"418","BM00073","Triglycerides in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00073",NA,NA,NA,NA,NA,"triglycerides in small ldl_mmol_l","BM00073","BM00073",TRUE,FALSE
+"419","BM00073","Triglycerides in small LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00073",NA,NA,NA,NA,NA,"triglycerides in small ldl_mmol_l","BM00073","BM00073",TRUE,FALSE
+"420","BM00073","Triglycerides in small LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00073",NA,NA,NA,NA,NA,"triglycerides in small ldl_mmol_l__s5","BM00073","BM00073",TRUE,FALSE
+"421","BM00074","[W1 Finland NMR Metabolomics] Concentration of very large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00074",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of very large hdl particles_mol_l","BM00074","BM00074",TRUE,FALSE
+"422","BM00074","Concentration of very large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00074",NA,NA,NA,NA,NA,"concentration of very large hdl particles_mol_l","BM00074","BM00074",TRUE,FALSE
+"423","BM00074","Concentration of very large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00074",NA,NA,NA,NA,NA,"concentration of very large hdl particles_mol_l","BM00074","BM00074",TRUE,FALSE
+"424","BM00074","Concentration of very large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00074",NA,NA,NA,NA,NA,"concentration of very large hdl particles_mol_l","BM00074","BM00074",TRUE,FALSE
+"425","BM00074","Concentration of very large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00074",NA,NA,NA,NA,NA,"concentration of very large hdl particles_mol_l","BM00074","BM00074",TRUE,FALSE
+"426","BM00074","Concentration of very large HDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00074",NA,NA,NA,NA,NA,"concentration of very large hdl particles_mol_l__s5","BM00074","BM00074",TRUE,FALSE
+"427","BM00075","[W1 Finland NMR Metabolomics] Total lipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00075",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in very large hdl_mmol_l","BM00075","BM00075",TRUE,FALSE
+"428","BM00075","Total lipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00075",NA,NA,NA,NA,NA,"total lipids in very large hdl_mmol_l","BM00075","BM00075",TRUE,FALSE
+"429","BM00075","Total lipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00075",NA,NA,NA,NA,NA,"total lipids in very large hdl_mmol_l","BM00075","BM00075",TRUE,FALSE
+"430","BM00075","Total lipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00075",NA,NA,NA,NA,NA,"total lipids in very large hdl_mmol_l","BM00075","BM00075",TRUE,FALSE
+"431","BM00075","Total lipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00075",NA,NA,NA,NA,NA,"total lipids in very large hdl_mmol_l","BM00075","BM00075",TRUE,FALSE
+"432","BM00075","Total lipids in very large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00075",NA,NA,NA,NA,NA,"total lipids in very large hdl_mmol_l__s5","BM00075","BM00075",TRUE,FALSE
+"433","BM00076","[W1 Finland NMR Metabolomics] Phospholipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00076",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in very large hdl_mmol_l","BM00076","BM00076",TRUE,FALSE
+"434","BM00076","Phospholipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00076",NA,NA,NA,NA,NA,"phospholipids in very large hdl_mmol_l","BM00076","BM00076",TRUE,FALSE
+"435","BM00076","Phospholipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00076",NA,NA,NA,NA,NA,"phospholipids in very large hdl_mmol_l","BM00076","BM00076",TRUE,FALSE
+"436","BM00076","Phospholipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00076",NA,NA,NA,NA,NA,"phospholipids in very large hdl_mmol_l","BM00076","BM00076",TRUE,FALSE
+"437","BM00076","Phospholipids in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00076",NA,NA,NA,NA,NA,"phospholipids in very large hdl_mmol_l","BM00076","BM00076",TRUE,FALSE
+"438","BM00076","Phospholipids in very large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00076",NA,NA,NA,NA,NA,"phospholipids in very large hdl_mmol_l__s5","BM00076","BM00076",TRUE,FALSE
+"439","BM00077","[W1 Finland NMR Metabolomics] Total cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00077",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in very large hdl_mmol_l","BM00077","BM00077",TRUE,FALSE
+"440","BM00077","Total cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00077",NA,NA,NA,NA,NA,"total cholesterol in very large hdl_mmol_l","BM00077","BM00077",TRUE,FALSE
+"441","BM00077","Total cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00077",NA,NA,NA,NA,NA,"total cholesterol in very large hdl_mmol_l","BM00077","BM00077",TRUE,FALSE
+"442","BM00077","Total cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00077",NA,NA,NA,NA,NA,"total cholesterol in very large hdl_mmol_l","BM00077","BM00077",TRUE,FALSE
+"443","BM00077","Total cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00077",NA,NA,NA,NA,NA,"total cholesterol in very large hdl_mmol_l","BM00077","BM00077",TRUE,FALSE
+"444","BM00077","Total cholesterol in very large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00077",NA,NA,NA,NA,NA,"total cholesterol in very large hdl_mmol_l__s5","BM00077","BM00077",TRUE,FALSE
+"445","BM00078","[W1 Finland NMR Metabolomics] Cholesterol esters in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00078",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in very large hdl_mmol_l","BM00078","BM00078",TRUE,FALSE
+"446","BM00078","Cholesterol esters in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00078",NA,NA,NA,NA,NA,"cholesterol esters in very large hdl_mmol_l","BM00078","BM00078",TRUE,FALSE
+"447","BM00078","Cholesterol esters in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00078",NA,NA,NA,NA,NA,"cholesterol esters in very large hdl_mmol_l","BM00078","BM00078",TRUE,FALSE
+"448","BM00078","Cholesterol esters in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00078",NA,NA,NA,NA,NA,"cholesterol esters in very large hdl_mmol_l","BM00078","BM00078",TRUE,FALSE
+"449","BM00078","Cholesterol esters in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00078",NA,NA,NA,NA,NA,"cholesterol esters in very large hdl_mmol_l","BM00078","BM00078",TRUE,FALSE
+"450","BM00078","Cholesterol esters in very large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00078",NA,NA,NA,NA,NA,"cholesterol esters in very large hdl_mmol_l__s5","BM00078","BM00078",TRUE,FALSE
+"451","BM00079","[W1 Finland NMR Metabolomics] Free cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00079",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in very large hdl_mmol_l","BM00079","BM00079",TRUE,FALSE
+"452","BM00079","Free cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00079",NA,NA,NA,NA,NA,"free cholesterol in very large hdl_mmol_l","BM00079","BM00079",TRUE,FALSE
+"453","BM00079","Free cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00079",NA,NA,NA,NA,NA,"free cholesterol in very large hdl_mmol_l","BM00079","BM00079",TRUE,FALSE
+"454","BM00079","Free cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00079",NA,NA,NA,NA,NA,"free cholesterol in very large hdl_mmol_l","BM00079","BM00079",TRUE,FALSE
+"455","BM00079","Free cholesterol in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00079",NA,NA,NA,NA,NA,"free cholesterol in very large hdl_mmol_l","BM00079","BM00079",TRUE,FALSE
+"456","BM00079","Free cholesterol in very large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00079",NA,NA,NA,NA,NA,"free cholesterol in very large hdl_mmol_l__s5","BM00079","BM00079",TRUE,FALSE
+"457","BM00080","[W1 Finland NMR Metabolomics] Triglycerides in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00080",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in very large hdl_mmol_l","BM00080","BM00080",TRUE,FALSE
+"458","BM00080","Triglycerides in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00080",NA,NA,NA,NA,NA,"triglycerides in very large hdl_mmol_l","BM00080","BM00080",TRUE,FALSE
+"459","BM00080","Triglycerides in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00080",NA,NA,NA,NA,NA,"triglycerides in very large hdl_mmol_l","BM00080","BM00080",TRUE,FALSE
+"460","BM00080","Triglycerides in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00080",NA,NA,NA,NA,NA,"triglycerides in very large hdl_mmol_l","BM00080","BM00080",TRUE,FALSE
+"461","BM00080","Triglycerides in very large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00080",NA,NA,NA,NA,NA,"triglycerides in very large hdl_mmol_l","BM00080","BM00080",TRUE,FALSE
+"462","BM00080","Triglycerides in very large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00080",NA,NA,NA,NA,NA,"triglycerides in very large hdl_mmol_l__s5","BM00080","BM00080",TRUE,FALSE
+"463","BM00081","[W1 Finland NMR Metabolomics] Concentration of large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00081",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of large hdl particles_mol_l","BM00081","BM00081",TRUE,FALSE
+"464","BM00081","Concentration of large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00081",NA,NA,NA,NA,NA,"concentration of large hdl particles_mol_l","BM00081","BM00081",TRUE,FALSE
+"465","BM00081","Concentration of large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00081",NA,NA,NA,NA,NA,"concentration of large hdl particles_mol_l","BM00081","BM00081",TRUE,FALSE
+"466","BM00081","Concentration of large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00081",NA,NA,NA,NA,NA,"concentration of large hdl particles_mol_l","BM00081","BM00081",TRUE,FALSE
+"467","BM00081","Concentration of large HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00081",NA,NA,NA,NA,NA,"concentration of large hdl particles_mol_l","BM00081","BM00081",TRUE,FALSE
+"468","BM00081","Concentration of large HDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00081",NA,NA,NA,NA,NA,"concentration of large hdl particles_mol_l__s5","BM00081","BM00081",TRUE,FALSE
+"469","BM00082","[W1 Finland NMR Metabolomics] Total lipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00082",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in large hdl_mmol_l","BM00082","BM00082",TRUE,FALSE
+"470","BM00082","Total lipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00082",NA,NA,NA,NA,NA,"total lipids in large hdl_mmol_l","BM00082","BM00082",TRUE,FALSE
+"471","BM00082","Total lipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00082",NA,NA,NA,NA,NA,"total lipids in large hdl_mmol_l","BM00082","BM00082",TRUE,FALSE
+"472","BM00082","Total lipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00082",NA,NA,NA,NA,NA,"total lipids in large hdl_mmol_l","BM00082","BM00082",TRUE,FALSE
+"473","BM00082","Total lipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00082",NA,NA,NA,NA,NA,"total lipids in large hdl_mmol_l","BM00082","BM00082",TRUE,FALSE
+"474","BM00082","Total lipids in large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00082",NA,NA,NA,NA,NA,"total lipids in large hdl_mmol_l__s5","BM00082","BM00082",TRUE,FALSE
+"475","BM00083","[W1 Finland NMR Metabolomics] Phospholipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00083",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in large hdl_mmol_l","BM00083","BM00083",TRUE,FALSE
+"476","BM00083","Phospholipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00083",NA,NA,NA,NA,NA,"phospholipids in large hdl_mmol_l","BM00083","BM00083",TRUE,FALSE
+"477","BM00083","Phospholipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00083",NA,NA,NA,NA,NA,"phospholipids in large hdl_mmol_l","BM00083","BM00083",TRUE,FALSE
+"478","BM00083","Phospholipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00083",NA,NA,NA,NA,NA,"phospholipids in large hdl_mmol_l","BM00083","BM00083",TRUE,FALSE
+"479","BM00083","Phospholipids in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00083",NA,NA,NA,NA,NA,"phospholipids in large hdl_mmol_l","BM00083","BM00083",TRUE,FALSE
+"480","BM00083","Phospholipids in large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00083",NA,NA,NA,NA,NA,"phospholipids in large hdl_mmol_l__s5","BM00083","BM00083",TRUE,FALSE
+"481","BM00084","[W1 Finland NMR Metabolomics] Total cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00084",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in large hdl_mmol_l","BM00084","BM00084",TRUE,FALSE
+"482","BM00084","Total cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00084",NA,NA,NA,NA,NA,"total cholesterol in large hdl_mmol_l","BM00084","BM00084",TRUE,FALSE
+"483","BM00084","Total cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00084",NA,NA,NA,NA,NA,"total cholesterol in large hdl_mmol_l","BM00084","BM00084",TRUE,FALSE
+"484","BM00084","Total cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00084",NA,NA,NA,NA,NA,"total cholesterol in large hdl_mmol_l","BM00084","BM00084",TRUE,FALSE
+"485","BM00084","Total cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00084",NA,NA,NA,NA,NA,"total cholesterol in large hdl_mmol_l","BM00084","BM00084",TRUE,FALSE
+"486","BM00084","Total cholesterol in large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00084",NA,NA,NA,NA,NA,"total cholesterol in large hdl_mmol_l__s5","BM00084","BM00084",TRUE,FALSE
+"487","BM00085","[W1 Finland NMR Metabolomics] Cholesterol esters in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00085",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in large hdl_mmol_l","BM00085","BM00085",TRUE,FALSE
+"488","BM00085","Cholesterol esters in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00085",NA,NA,NA,NA,NA,"cholesterol esters in large hdl_mmol_l","BM00085","BM00085",TRUE,FALSE
+"489","BM00085","Cholesterol esters in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00085",NA,NA,NA,NA,NA,"cholesterol esters in large hdl_mmol_l","BM00085","BM00085",TRUE,FALSE
+"490","BM00085","Cholesterol esters in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00085",NA,NA,NA,NA,NA,"cholesterol esters in large hdl_mmol_l","BM00085","BM00085",TRUE,FALSE
+"491","BM00085","Cholesterol esters in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00085",NA,NA,NA,NA,NA,"cholesterol esters in large hdl_mmol_l","BM00085","BM00085",TRUE,FALSE
+"492","BM00085","Cholesterol esters in large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00085",NA,NA,NA,NA,NA,"cholesterol esters in large hdl_mmol_l__s5","BM00085","BM00085",TRUE,FALSE
+"493","BM00086","[W1 Finland NMR Metabolomics] Free cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00086",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in large hdl_mmol_l","BM00086","BM00086",TRUE,FALSE
+"494","BM00086","Free cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00086",NA,NA,NA,NA,NA,"free cholesterol in large hdl_mmol_l","BM00086","BM00086",TRUE,FALSE
+"495","BM00086","Free cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00086",NA,NA,NA,NA,NA,"free cholesterol in large hdl_mmol_l","BM00086","BM00086",TRUE,FALSE
+"496","BM00086","Free cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00086",NA,NA,NA,NA,NA,"free cholesterol in large hdl_mmol_l","BM00086","BM00086",TRUE,FALSE
+"497","BM00086","Free cholesterol in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00086",NA,NA,NA,NA,NA,"free cholesterol in large hdl_mmol_l","BM00086","BM00086",TRUE,FALSE
+"498","BM00086","Free cholesterol in large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00086",NA,NA,NA,NA,NA,"free cholesterol in large hdl_mmol_l__s5","BM00086","BM00086",TRUE,FALSE
+"499","BM00087","[W1 Finland NMR Metabolomics] Triglycerides in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00087",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in large hdl_mmol_l","BM00087","BM00087",TRUE,FALSE
+"500","BM00087","Triglycerides in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00087",NA,NA,NA,NA,NA,"triglycerides in large hdl_mmol_l","BM00087","BM00087",TRUE,FALSE
+"501","BM00087","Triglycerides in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00087",NA,NA,NA,NA,NA,"triglycerides in large hdl_mmol_l","BM00087","BM00087",TRUE,FALSE
+"502","BM00087","Triglycerides in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00087",NA,NA,NA,NA,NA,"triglycerides in large hdl_mmol_l","BM00087","BM00087",TRUE,FALSE
+"503","BM00087","Triglycerides in large HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00087",NA,NA,NA,NA,NA,"triglycerides in large hdl_mmol_l","BM00087","BM00087",TRUE,FALSE
+"504","BM00087","Triglycerides in large HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00087",NA,NA,NA,NA,NA,"triglycerides in large hdl_mmol_l__s5","BM00087","BM00087",TRUE,FALSE
+"505","BM00088","[W1 Finland NMR Metabolomics] Concentration of medium HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00088",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of medium hdl particles_mol_l","BM00088","BM00088",TRUE,FALSE
+"506","BM00088","Concentration of medium HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00088",NA,NA,NA,NA,NA,"concentration of medium hdl particles_mol_l","BM00088","BM00088",TRUE,FALSE
+"507","BM00088","Concentration of medium HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00088",NA,NA,NA,NA,NA,"concentration of medium hdl particles_mol_l","BM00088","BM00088",TRUE,FALSE
+"508","BM00088","Concentration of medium HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00088",NA,NA,NA,NA,NA,"concentration of medium hdl particles_mol_l","BM00088","BM00088",TRUE,FALSE
+"509","BM00088","Concentration of medium HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00088",NA,NA,NA,NA,NA,"concentration of medium hdl particles_mol_l","BM00088","BM00088",TRUE,FALSE
+"510","BM00088","Concentration of medium HDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00088",NA,NA,NA,NA,NA,"concentration of medium hdl particles_mol_l__s5","BM00088","BM00088",TRUE,FALSE
+"511","BM00089","[W1 Finland NMR Metabolomics] Total lipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00089",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in medium hdl_mmol_l","BM00089","BM00089",TRUE,FALSE
+"512","BM00089","Total lipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00089",NA,NA,NA,NA,NA,"total lipids in medium hdl_mmol_l","BM00089","BM00089",TRUE,FALSE
+"513","BM00089","Total lipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00089",NA,NA,NA,NA,NA,"total lipids in medium hdl_mmol_l","BM00089","BM00089",TRUE,FALSE
+"514","BM00089","Total lipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00089",NA,NA,NA,NA,NA,"total lipids in medium hdl_mmol_l","BM00089","BM00089",TRUE,FALSE
+"515","BM00089","Total lipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00089",NA,NA,NA,NA,NA,"total lipids in medium hdl_mmol_l","BM00089","BM00089",TRUE,FALSE
+"516","BM00089","Total lipids in medium HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00089",NA,NA,NA,NA,NA,"total lipids in medium hdl_mmol_l__s5","BM00089","BM00089",TRUE,FALSE
+"517","BM00090","[W1 Finland NMR Metabolomics] Phospholipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00090",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in medium hdl_mmol_l","BM00090","BM00090",TRUE,FALSE
+"518","BM00090","Phospholipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00090",NA,NA,NA,NA,NA,"phospholipids in medium hdl_mmol_l","BM00090","BM00090",TRUE,FALSE
+"519","BM00090","Phospholipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00090",NA,NA,NA,NA,NA,"phospholipids in medium hdl_mmol_l","BM00090","BM00090",TRUE,FALSE
+"520","BM00090","Phospholipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00090",NA,NA,NA,NA,NA,"phospholipids in medium hdl_mmol_l","BM00090","BM00090",TRUE,FALSE
+"521","BM00090","Phospholipids in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00090",NA,NA,NA,NA,NA,"phospholipids in medium hdl_mmol_l","BM00090","BM00090",TRUE,FALSE
+"522","BM00090","Phospholipids in medium HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00090",NA,NA,NA,NA,NA,"phospholipids in medium hdl_mmol_l__s5","BM00090","BM00090",TRUE,FALSE
+"523","BM00091","[W1 Finland NMR Metabolomics] Total cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00091",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in medium hdl_mmol_l","BM00091","BM00091",TRUE,FALSE
+"524","BM00091","Total cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00091",NA,NA,NA,NA,NA,"total cholesterol in medium hdl_mmol_l","BM00091","BM00091",TRUE,FALSE
+"525","BM00091","Total cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00091",NA,NA,NA,NA,NA,"total cholesterol in medium hdl_mmol_l","BM00091","BM00091",TRUE,FALSE
+"526","BM00091","Total cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00091",NA,NA,NA,NA,NA,"total cholesterol in medium hdl_mmol_l","BM00091","BM00091",TRUE,FALSE
+"527","BM00091","Total cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00091",NA,NA,NA,NA,NA,"total cholesterol in medium hdl_mmol_l","BM00091","BM00091",TRUE,FALSE
+"528","BM00091","Total cholesterol in medium HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00091",NA,NA,NA,NA,NA,"total cholesterol in medium hdl_mmol_l__s5","BM00091","BM00091",TRUE,FALSE
+"529","BM00092","[W1 Finland NMR Metabolomics] Cholesterol esters in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00092",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in medium hdl_mmol_l","BM00092","BM00092",TRUE,FALSE
+"530","BM00092","Cholesterol esters in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00092",NA,NA,NA,NA,NA,"cholesterol esters in medium hdl_mmol_l","BM00092","BM00092",TRUE,FALSE
+"531","BM00092","Cholesterol esters in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00092",NA,NA,NA,NA,NA,"cholesterol esters in medium hdl_mmol_l","BM00092","BM00092",TRUE,FALSE
+"532","BM00092","Cholesterol esters in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00092",NA,NA,NA,NA,NA,"cholesterol esters in medium hdl_mmol_l","BM00092","BM00092",TRUE,FALSE
+"533","BM00092","Cholesterol esters in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00092",NA,NA,NA,NA,NA,"cholesterol esters in medium hdl_mmol_l","BM00092","BM00092",TRUE,FALSE
+"534","BM00092","Cholesterol esters in medium HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00092",NA,NA,NA,NA,NA,"cholesterol esters in medium hdl_mmol_l__s5","BM00092","BM00092",TRUE,FALSE
+"535","BM00093","[W1 Finland NMR Metabolomics] Free cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00093",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in medium hdl_mmol_l","BM00093","BM00093",TRUE,FALSE
+"536","BM00093","Free cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00093",NA,NA,NA,NA,NA,"free cholesterol in medium hdl_mmol_l","BM00093","BM00093",TRUE,FALSE
+"537","BM00093","Free cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00093",NA,NA,NA,NA,NA,"free cholesterol in medium hdl_mmol_l","BM00093","BM00093",TRUE,FALSE
+"538","BM00093","Free cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00093",NA,NA,NA,NA,NA,"free cholesterol in medium hdl_mmol_l","BM00093","BM00093",TRUE,FALSE
+"539","BM00093","Free cholesterol in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00093",NA,NA,NA,NA,NA,"free cholesterol in medium hdl_mmol_l","BM00093","BM00093",TRUE,FALSE
+"540","BM00093","Free cholesterol in medium HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00093",NA,NA,NA,NA,NA,"free cholesterol in medium hdl_mmol_l__s5","BM00093","BM00093",TRUE,FALSE
+"541","BM00094","[W1 Finland NMR Metabolomics] Triglycerides in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00094",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in medium hdl_mmol_l","BM00094","BM00094",TRUE,FALSE
+"542","BM00094","Triglycerides in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00094",NA,NA,NA,NA,NA,"triglycerides in medium hdl_mmol_l","BM00094","BM00094",TRUE,FALSE
+"543","BM00094","Triglycerides in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00094",NA,NA,NA,NA,NA,"triglycerides in medium hdl_mmol_l","BM00094","BM00094",TRUE,FALSE
+"544","BM00094","Triglycerides in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00094",NA,NA,NA,NA,NA,"triglycerides in medium hdl_mmol_l","BM00094","BM00094",TRUE,FALSE
+"545","BM00094","Triglycerides in medium HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00094",NA,NA,NA,NA,NA,"triglycerides in medium hdl_mmol_l","BM00094","BM00094",TRUE,FALSE
+"546","BM00094","Triglycerides in medium HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00094",NA,NA,NA,NA,NA,"triglycerides in medium hdl_mmol_l__s5","BM00094","BM00094",TRUE,FALSE
+"547","BM00095","[W1 Finland NMR Metabolomics] Concentration of small HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00095",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_concentration of small hdl particles_mol_l","BM00095","BM00095",TRUE,FALSE
+"548","BM00095","Concentration of small HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00095",NA,NA,NA,NA,NA,"concentration of small hdl particles_mol_l","BM00095","BM00095",TRUE,FALSE
+"549","BM00095","Concentration of small HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00095",NA,NA,NA,NA,NA,"concentration of small hdl particles_mol_l","BM00095","BM00095",TRUE,FALSE
+"550","BM00095","Concentration of small HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00095",NA,NA,NA,NA,NA,"concentration of small hdl particles_mol_l","BM00095","BM00095",TRUE,FALSE
+"551","BM00095","Concentration of small HDL particles (mol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00095",NA,NA,NA,NA,NA,"concentration of small hdl particles_mol_l","BM00095","BM00095",TRUE,FALSE
+"552","BM00095","Concentration of small HDL particles (mol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00095",NA,NA,NA,NA,NA,"concentration of small hdl particles_mol_l__s5","BM00095","BM00095",TRUE,FALSE
+"553","BM00096","[W1 Finland NMR Metabolomics] Total lipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00096",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total lipids in small hdl_mmol_l","BM00096","BM00096",TRUE,FALSE
+"554","BM00096","Total lipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00096",NA,NA,NA,NA,NA,"total lipids in small hdl_mmol_l","BM00096","BM00096",TRUE,FALSE
+"555","BM00096","Total lipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00096",NA,NA,NA,NA,NA,"total lipids in small hdl_mmol_l","BM00096","BM00096",TRUE,FALSE
+"556","BM00096","Total lipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00096",NA,NA,NA,NA,NA,"total lipids in small hdl_mmol_l","BM00096","BM00096",TRUE,FALSE
+"557","BM00096","Total lipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00096",NA,NA,NA,NA,NA,"total lipids in small hdl_mmol_l","BM00096","BM00096",TRUE,FALSE
+"558","BM00096","Total lipids in small HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00096",NA,NA,NA,NA,NA,"total lipids in small hdl_mmol_l__s5","BM00096","BM00096",TRUE,FALSE
+"559","BM00097","[W1 Finland NMR Metabolomics] Phospholipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00097",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phospholipids in small hdl_mmol_l","BM00097","BM00097",TRUE,FALSE
+"560","BM00097","Phospholipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00097",NA,NA,NA,NA,NA,"phospholipids in small hdl_mmol_l","BM00097","BM00097",TRUE,FALSE
+"561","BM00097","Phospholipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00097",NA,NA,NA,NA,NA,"phospholipids in small hdl_mmol_l","BM00097","BM00097",TRUE,FALSE
+"562","BM00097","Phospholipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00097",NA,NA,NA,NA,NA,"phospholipids in small hdl_mmol_l","BM00097","BM00097",TRUE,FALSE
+"563","BM00097","Phospholipids in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00097",NA,NA,NA,NA,NA,"phospholipids in small hdl_mmol_l","BM00097","BM00097",TRUE,FALSE
+"564","BM00097","Phospholipids in small HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00097",NA,NA,NA,NA,NA,"phospholipids in small hdl_mmol_l__s5","BM00097","BM00097",TRUE,FALSE
+"565","BM00098","[W1 Finland NMR Metabolomics] Total cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00098",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in small hdl_mmol_l","BM00098","BM00098",TRUE,FALSE
+"566","BM00098","Total cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00098",NA,NA,NA,NA,NA,"total cholesterol in small hdl_mmol_l","BM00098","BM00098",TRUE,FALSE
+"567","BM00098","Total cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00098",NA,NA,NA,NA,NA,"total cholesterol in small hdl_mmol_l","BM00098","BM00098",TRUE,FALSE
+"568","BM00098","Total cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00098",NA,NA,NA,NA,NA,"total cholesterol in small hdl_mmol_l","BM00098","BM00098",TRUE,FALSE
+"569","BM00098","Total cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00098",NA,NA,NA,NA,NA,"total cholesterol in small hdl_mmol_l","BM00098","BM00098",TRUE,FALSE
+"570","BM00098","Total cholesterol in small HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00098",NA,NA,NA,NA,NA,"total cholesterol in small hdl_mmol_l__s5","BM00098","BM00098",TRUE,FALSE
+"571","BM00099","[W1 Finland NMR Metabolomics] Cholesterol esters in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00099",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_cholesterol esters in small hdl_mmol_l","BM00099","BM00099",TRUE,FALSE
+"572","BM00099","Cholesterol esters in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00099",NA,NA,NA,NA,NA,"cholesterol esters in small hdl_mmol_l","BM00099","BM00099",TRUE,FALSE
+"573","BM00099","Cholesterol esters in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00099",NA,NA,NA,NA,NA,"cholesterol esters in small hdl_mmol_l","BM00099","BM00099",TRUE,FALSE
+"574","BM00099","Cholesterol esters in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00099",NA,NA,NA,NA,NA,"cholesterol esters in small hdl_mmol_l","BM00099","BM00099",TRUE,FALSE
+"575","BM00099","Cholesterol esters in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00099",NA,NA,NA,NA,NA,"cholesterol esters in small hdl_mmol_l","BM00099","BM00099",TRUE,FALSE
+"576","BM00099","Cholesterol esters in small HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00099",NA,NA,NA,NA,NA,"cholesterol esters in small hdl_mmol_l__s5","BM00099","BM00099",TRUE,FALSE
+"577","BM00100","[W1 Finland NMR Metabolomics] Free cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00100",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol in small hdl_mmol_l","BM00100","BM00100",TRUE,FALSE
+"578","BM00100","Free cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00100",NA,NA,NA,NA,NA,"free cholesterol in small hdl_mmol_l","BM00100","BM00100",TRUE,FALSE
+"579","BM00100","Free cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00100",NA,NA,NA,NA,NA,"free cholesterol in small hdl_mmol_l","BM00100","BM00100",TRUE,FALSE
+"580","BM00100","Free cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00100",NA,NA,NA,NA,NA,"free cholesterol in small hdl_mmol_l","BM00100","BM00100",TRUE,FALSE
+"581","BM00100","Free cholesterol in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00100",NA,NA,NA,NA,NA,"free cholesterol in small hdl_mmol_l","BM00100","BM00100",TRUE,FALSE
+"582","BM00100","Free cholesterol in small HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00100",NA,NA,NA,NA,NA,"free cholesterol in small hdl_mmol_l__s5","BM00100","BM00100",TRUE,FALSE
+"583","BM00101","[W1 Finland NMR Metabolomics] Triglycerides in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00101",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in small hdl_mmol_l","BM00101","BM00101",TRUE,FALSE
+"584","BM00101","Triglycerides in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00101",NA,NA,NA,NA,NA,"triglycerides in small hdl_mmol_l","BM00101","BM00101",TRUE,FALSE
+"585","BM00101","Triglycerides in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00101",NA,NA,NA,NA,NA,"triglycerides in small hdl_mmol_l","BM00101","BM00101",TRUE,FALSE
+"586","BM00101","Triglycerides in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00101",NA,NA,NA,NA,NA,"triglycerides in small hdl_mmol_l","BM00101","BM00101",TRUE,FALSE
+"587","BM00101","Triglycerides in small HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00101",NA,NA,NA,NA,NA,"triglycerides in small hdl_mmol_l","BM00101","BM00101",TRUE,FALSE
+"588","BM00101","Triglycerides in small HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00101",NA,NA,NA,NA,NA,"triglycerides in small hdl_mmol_l__s5","BM00101","BM00101",TRUE,FALSE
+"589","BM00175","[W1 Finland NMR Metabolomics] Serum total cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_serum total cholesterol_mmol_l","BM00175","BM00175",TRUE,FALSE
+"590","BM00175","Serum total cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol_mmol_l","BM00175","BM00175",TRUE,FALSE
+"591","BM00175","Serum total cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol_mmol_l","BM00175","BM00175",TRUE,FALSE
+"592","BM00175","Serum total cholesterol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol","BM00175","BM00175",TRUE,FALSE
+"593","BM00175","Serum total cholesterol ( Serum-C )",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol_serum_c ","BM00175","BM00175",TRUE,FALSE
+"594","BM00175","Serum total cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol_mmol_l","BM00175","BM00175",TRUE,FALSE
+"595","BM00175","Serum total cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol_mmol_l","BM00175","BM00175",TRUE,FALSE
+"596","BM00175","Serum total cholesterol (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00175",NA,NA,NA,NA,NA,"serum total cholesterol_mmol_l__s5","BM00175","BM00175",TRUE,FALSE
+"597","BM00176","[W1 Finland NMR Metabolomics] Total cholesterol in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00176",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in vldl_mmol_l","BM00176","BM00176",TRUE,FALSE
+"598","BM00176","Total cholesterol in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00176",NA,NA,NA,NA,NA,"total cholesterol in vldl_mmol_l","BM00176","BM00176",TRUE,FALSE
+"599","BM00176","Total cholesterol in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00176",NA,NA,NA,NA,NA,"total cholesterol in vldl_mmol_l","BM00176","BM00176",TRUE,FALSE
+"600","BM00176","Total cholesterol in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00176",NA,NA,NA,NA,NA,"total cholesterol in vldl_mmol_l","BM00176","BM00176",TRUE,FALSE
+"601","BM00176","Total cholesterol in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00176",NA,NA,NA,NA,NA,"total cholesterol in vldl_mmol_l","BM00176","BM00176",TRUE,FALSE
+"602","BM00176","Total cholesterol in VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00176",NA,NA,NA,NA,NA,"total cholesterol in vldl_mmol_l__s5","BM00176","BM00176",TRUE,FALSE
+"603","BM00177","[W1 Finland NMR Metabolomics] Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00177",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_remnant cholesterol_non_hdl_non_ldl_cholesterol__mmol_l","BM00177","BM00177",TRUE,FALSE
+"604","BM00177","Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00177",NA,NA,NA,NA,NA,"remnant cholesterol_non_hdl_non_ldl_cholesterol__mmol_l","BM00177","BM00177",TRUE,FALSE
+"605","BM00177","Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00177",NA,NA,NA,NA,NA,"remnant cholesterol_non_hdl_non_ldl_cholesterol__mmol_l","BM00177","BM00177",TRUE,FALSE
+"606","BM00177","Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00177",NA,NA,NA,NA,NA,"remnant cholesterol_non_hdl_non_ldl_cholesterol__mmol_l","BM00177","BM00177",TRUE,FALSE
+"607","BM00177","RemNAt cholesterol (non-HDL, non-LDL -cholesterol) (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00177",NA,NA,NA,NA,NA,"remnat cholesterol_non_hdl_non_ldl_cholesterol__mmol_l","BM00177","BM00177",TRUE,FALSE
+"608","BM00177","Remnant cholesterol (non-HDL, non-LDL -cholesterol) (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00177",NA,NA,NA,NA,NA,"remnant cholesterol_non_hdl_non_ldl_cholesterol__mmol_l__s5","BM00177","BM00177",TRUE,FALSE
+"609","BM00178","[W1 Finland NMR Metabolomics] Total cholesterol in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00178",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in ldl_mmol_l","BM00178","BM00178",TRUE,FALSE
+"610","BM00178","Total cholesterol in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00178",NA,NA,NA,NA,NA,"total cholesterol in ldl_mmol_l","BM00178","BM00178",TRUE,FALSE
+"611","BM00178","Total cholesterol in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00178",NA,NA,NA,NA,NA,"total cholesterol in ldl_mmol_l","BM00178","BM00178",TRUE,FALSE
+"612","BM00178","Total cholesterol in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00178",NA,NA,NA,NA,NA,"total cholesterol in ldl_mmol_l","BM00178","BM00178",TRUE,FALSE
+"613","BM00178","Total cholesterol in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00178",NA,NA,NA,NA,NA,"total cholesterol in ldl_mmol_l","BM00178","BM00178",TRUE,FALSE
+"614","BM00178","Total cholesterol in LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00178",NA,NA,NA,NA,NA,"total cholesterol in ldl_mmol_l__s5","BM00178","BM00178",TRUE,FALSE
+"615","BM00179","[W1 Finland NMR Metabolomics] Total cholesterol in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00179",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in hdl_mmol_l","BM00179","BM00179",TRUE,FALSE
+"616","BM00179","Total cholesterol in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00179",NA,NA,NA,NA,NA,"total cholesterol in hdl_mmol_l","BM00179","BM00179",TRUE,FALSE
+"617","BM00179","Total cholesterol in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00179",NA,NA,NA,NA,NA,"total cholesterol in hdl_mmol_l","BM00179","BM00179",TRUE,FALSE
+"618","BM00179","Total cholesterol in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00179",NA,NA,NA,NA,NA,"total cholesterol in hdl_mmol_l","BM00179","BM00179",TRUE,FALSE
+"619","BM00179","Total cholesterol in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00179",NA,NA,NA,NA,NA,"total cholesterol in hdl_mmol_l","BM00179","BM00179",TRUE,FALSE
+"620","BM00179","Total cholesterol in HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00179",NA,NA,NA,NA,NA,"total cholesterol in hdl_mmol_l__s5","BM00179","BM00179",TRUE,FALSE
+"621","BM00180","[W1 Finland NMR Metabolomics] Total cholesterol in HDL2 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00180",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in hdl2_mmol_l","BM00180","BM00180",TRUE,FALSE
+"622","BM00180","Total cholesterol in HDL2 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00180",NA,NA,NA,NA,NA,"total cholesterol in hdl2_mmol_l","BM00180","BM00180",TRUE,FALSE
+"623","BM00180","Total cholesterol in HDL2 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00180",NA,NA,NA,NA,NA,"total cholesterol in hdl2_mmol_l","BM00180","BM00180",TRUE,FALSE
+"624","BM00180","Total cholesterol in HDL2 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00180",NA,NA,NA,NA,NA,"total cholesterol in hdl2_mmol_l","BM00180","BM00180",TRUE,FALSE
+"625","BM00180","Total cholesterol in HDL2 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00180",NA,NA,NA,NA,NA,"total cholesterol in hdl2_mmol_l","BM00180","BM00180",TRUE,FALSE
+"626","BM00180","Total cholesterol in HDL2 (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00180",NA,NA,NA,NA,NA,"total cholesterol in hdl2_mmol_l__s5","BM00180","BM00180",TRUE,FALSE
+"627","BM00181","[W1 Finland NMR Metabolomics] Total cholesterol in HDL3 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00181",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholesterol in hdl3_mmol_l","BM00181","BM00181",TRUE,FALSE
+"628","BM00181","Total cholesterol in HDL3 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00181",NA,NA,NA,NA,NA,"total cholesterol in hdl3_mmol_l","BM00181","BM00181",TRUE,FALSE
+"629","BM00181","Total cholesterol in HDL3 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00181",NA,NA,NA,NA,NA,"total cholesterol in hdl3_mmol_l","BM00181","BM00181",TRUE,FALSE
+"630","BM00181","Total cholesterol in HDL3 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00181",NA,NA,NA,NA,NA,"total cholesterol in hdl3_mmol_l","BM00181","BM00181",TRUE,FALSE
+"631","BM00181","Total cholesterol in HDL3 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00181",NA,NA,NA,NA,NA,"total cholesterol in hdl3_mmol_l","BM00181","BM00181",TRUE,FALSE
+"632","BM00181","Total cholesterol in HDL3 (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00181",NA,NA,NA,NA,NA,"total cholesterol in hdl3_mmol_l__s5","BM00181","BM00181",TRUE,FALSE
+"633","BM00182","[W1 Finland NMR Metabolomics] Esterified cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00182",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_esterified cholesterol_mmol_l","BM00182","BM00182",TRUE,FALSE
+"634","BM00182","Esterified cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00182",NA,NA,NA,NA,NA,"esterified cholesterol_mmol_l","BM00182","BM00182",TRUE,FALSE
+"635","BM00182","Esterified cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00182",NA,NA,NA,NA,NA,"esterified cholesterol_mmol_l","BM00182","BM00182",TRUE,FALSE
+"636","BM00182","Esterified cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00182",NA,NA,NA,NA,NA,"esterified cholesterol_mmol_l","BM00182","BM00182",TRUE,FALSE
+"637","BM00182","Esterified cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00182",NA,NA,NA,NA,NA,"esterified cholesterol_mmol_l","BM00182","BM00182",TRUE,FALSE
+"638","BM00182","Esterified cholesterol (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00182",NA,NA,NA,NA,NA,"esterified cholesterol_mmol_l__s5","BM00182","BM00182",TRUE,FALSE
+"639","BM00183","[W1 Finland NMR Metabolomics] Free cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_free cholesterol_mmol_l","BM00183","BM00183",TRUE,FALSE
+"640","BM00183","Free cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"free cholesterol_mmol_l","BM00183","BM00183",TRUE,FALSE
+"641","BM00183","Free cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"free cholesterol_mmol_l","BM00183","BM00183",TRUE,FALSE
+"642","BM00183","Free cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"free cholesterol_mmol_l","BM00183","BM00183",TRUE,FALSE
+"643","BM00183","Free cholesterol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"free cholesterol_mmol_l","BM00183","BM00183",TRUE,FALSE
+"644","BM00183","Free cholesterol (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"free cholesterol_mmol_l__s5","BM00183","BM00183",TRUE,FALSE
+"645","BM00183","Total Plasma Free Cholesterol mg/dL",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00183",NA,NA,NA,NA,NA,"total plasma free cholesterol mg_dl","BM00183","BM00183",TRUE,FALSE
+"646","BM00184","[W1 Finland NMR Metabolomics] Serum total triglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_serum total triglycerides_mmol_l","BM00184","BM00184",TRUE,FALSE
+"647","BM00184","Serum total triglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides_mmol_l","BM00184","BM00184",TRUE,FALSE
+"648","BM00184","Serum total triglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides_mmol_l","BM00184","BM00184",TRUE,FALSE
+"649","BM00184","Serum total triglycerides",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides","BM00184","BM00184",TRUE,FALSE
+"650","BM00184","Serum total triglycerides ( Serum-TG )",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides_serum_tg ","BM00184","BM00184",TRUE,FALSE
+"651","BM00184","Serum total triglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides_mmol_l","BM00184","BM00184",TRUE,FALSE
+"652","BM00184","Serum total triglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides_mmol_l","BM00184","BM00184",TRUE,FALSE
+"653","BM00184","Serum total triglycerides (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"serum total triglycerides_mmol_l__s5","BM00184","BM00184",TRUE,FALSE
+"654","BM00184","Total Plasma Triglycerides mg/dL",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00184",NA,NA,NA,NA,NA,"total plasma triglycerides mg_dl","BM00184","BM00184",TRUE,FALSE
+"655","BM00185","[W1 Finland NMR Metabolomics] Triglycerides in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00185",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in vldl_mmol_l","BM00185","BM00185",TRUE,FALSE
+"656","BM00185","Triglycerides in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00185",NA,NA,NA,NA,NA,"triglycerides in vldl_mmol_l","BM00185","BM00185",TRUE,FALSE
+"657","BM00185","Triglycerides in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00185",NA,NA,NA,NA,NA,"triglycerides in vldl_mmol_l","BM00185","BM00185",TRUE,FALSE
+"658","BM00185","Triglycerides in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00185",NA,NA,NA,NA,NA,"triglycerides in vldl_mmol_l","BM00185","BM00185",TRUE,FALSE
+"659","BM00185","Triglycerides in VLDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00185",NA,NA,NA,NA,NA,"triglycerides in vldl_mmol_l","BM00185","BM00185",TRUE,FALSE
+"660","BM00185","Triglycerides in VLDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00185",NA,NA,NA,NA,NA,"triglycerides in vldl_mmol_l__s5","BM00185","BM00185",TRUE,FALSE
+"661","BM00186","[W1 Finland NMR Metabolomics] Triglycerides in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00186",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in ldl_mmol_l","BM00186","BM00186",TRUE,FALSE
+"662","BM00186","Triglycerides in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00186",NA,NA,NA,NA,NA,"triglycerides in ldl_mmol_l","BM00186","BM00186",TRUE,FALSE
+"663","BM00186","Triglycerides in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00186",NA,NA,NA,NA,NA,"triglycerides in ldl_mmol_l","BM00186","BM00186",TRUE,FALSE
+"664","BM00186","Triglycerides in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00186",NA,NA,NA,NA,NA,"triglycerides in ldl_mmol_l","BM00186","BM00186",TRUE,FALSE
+"665","BM00186","Triglycerides in LDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00186",NA,NA,NA,NA,NA,"triglycerides in ldl_mmol_l","BM00186","BM00186",TRUE,FALSE
+"666","BM00186","Triglycerides in LDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00186",NA,NA,NA,NA,NA,"triglycerides in ldl_mmol_l__s5","BM00186","BM00186",TRUE,FALSE
+"667","BM00187","[W1 Finland NMR Metabolomics] Triglycerides in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00187",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_triglycerides in hdl_mmol_l","BM00187","BM00187",TRUE,FALSE
+"668","BM00187","Triglycerides in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00187",NA,NA,NA,NA,NA,"triglycerides in hdl_mmol_l","BM00187","BM00187",TRUE,FALSE
+"669","BM00187","Triglycerides in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00187",NA,NA,NA,NA,NA,"triglycerides in hdl_mmol_l","BM00187","BM00187",TRUE,FALSE
+"670","BM00187","Triglycerides in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00187",NA,NA,NA,NA,NA,"triglycerides in hdl_mmol_l","BM00187","BM00187",TRUE,FALSE
+"671","BM00187","Triglycerides in HDL (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00187",NA,NA,NA,NA,NA,"triglycerides in hdl_mmol_l","BM00187","BM00187",TRUE,FALSE
+"672","BM00187","Triglycerides in HDL (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00187",NA,NA,NA,NA,NA,"triglycerides in hdl_mmol_l__s5","BM00187","BM00187",TRUE,FALSE
+"673","BM00188","[W1 Finland NMR Metabolomics] Total phosphoglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00188",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total phosphoglycerides_mmol_l","BM00188","BM00188",TRUE,FALSE
+"674","BM00188","Total phosphoglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00188",NA,NA,NA,NA,NA,"total phosphoglycerides_mmol_l","BM00188","BM00188",TRUE,FALSE
+"675","BM00188","Total phosphoglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00188",NA,NA,NA,NA,NA,"total phosphoglycerides_mmol_l","BM00188","BM00188",TRUE,FALSE
+"676","BM00188","Total phosphoglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00188",NA,NA,NA,NA,NA,"total phosphoglycerides_mmol_l","BM00188","BM00188",TRUE,FALSE
+"677","BM00188","Total phosphoglycerides (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00188",NA,NA,NA,NA,NA,"total phosphoglycerides_mmol_l","BM00188","BM00188",TRUE,FALSE
+"678","BM00188","Total phosphoglycerides (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00188",NA,NA,NA,NA,NA,"total phosphoglycerides_mmol_l__s5","BM00188","BM00188",TRUE,FALSE
+"679","BM00190","[W1 Finland NMR Metabolomics] Phosphatidylcholine and other cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00190",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phosphatidylcholine and other cholines_mmol_l","BM00190","BM00190",TRUE,FALSE
+"680","BM00190","Phosphatidylcholine and other cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00190",NA,NA,NA,NA,NA,"phosphatidylcholine and other cholines_mmol_l","BM00190","BM00190",TRUE,FALSE
+"681","BM00190","Phosphatidylcholine and other cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00190",NA,NA,NA,NA,NA,"phosphatidylcholine and other cholines_mmol_l","BM00190","BM00190",TRUE,FALSE
+"682","BM00190","Phosphatidylcholine and other cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00190",NA,NA,NA,NA,NA,"phosphatidylcholine and other cholines_mmol_l","BM00190","BM00190",TRUE,FALSE
+"683","BM00190","Phosphatidylcholine and other cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00190",NA,NA,NA,NA,NA,"phosphatidylcholine and other cholines_mmol_l","BM00190","BM00190",TRUE,FALSE
+"684","BM00190","Phosphatidylcholine and other cholines (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00190",NA,NA,NA,NA,NA,"phosphatidylcholine and other cholines_mmol_l__s5","BM00190","BM00190",TRUE,FALSE
+"685","BM00191","[W1 Finland NMR Metabolomics] Sphingomyelins (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00191",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_sphingomyelins_mmol_l","BM00191","BM00191",TRUE,FALSE
+"686","BM00191","Sphingomyelins (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00191",NA,NA,NA,NA,NA,"sphingomyelins_mmol_l","BM00191","BM00191",TRUE,FALSE
+"687","BM00191","Sphingomyelins (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00191",NA,NA,NA,NA,NA,"sphingomyelins_mmol_l","BM00191","BM00191",TRUE,FALSE
+"688","BM00191","Sphingomyelins (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00191",NA,NA,NA,NA,NA,"sphingomyelins_mmol_l","BM00191","BM00191",TRUE,FALSE
+"689","BM00191","Sphingomyelins (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00191",NA,NA,NA,NA,NA,"sphingomyelins_mmol_l__s5","BM00191","BM00191",TRUE,FALSE
+"690","BM00192","[W1 Finland NMR Metabolomics] Total cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00192",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total cholines_mmol_l","BM00192","BM00192",TRUE,FALSE
+"691","BM00192","Total cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00192",NA,NA,NA,NA,NA,"total cholines_mmol_l","BM00192","BM00192",TRUE,FALSE
+"692","BM00192","Total cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00192",NA,NA,NA,NA,NA,"total cholines_mmol_l","BM00192","BM00192",TRUE,FALSE
+"693","BM00192","Total cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00192",NA,NA,NA,NA,NA,"total cholines_mmol_l","BM00192","BM00192",TRUE,FALSE
+"694","BM00192","Total cholines (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00192",NA,NA,NA,NA,NA,"total cholines_mmol_l","BM00192","BM00192",TRUE,FALSE
+"695","BM00192","Total cholines (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00192",NA,NA,NA,NA,NA,"total cholines_mmol_l__s5","BM00192","BM00192",TRUE,FALSE
+"696","BM00196","[W1 Finland NMR Metabolomics] Total fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00196",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_total fatty acids_mmol_l","BM00196","BM00196",TRUE,FALSE
+"697","BM00196","Total fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00196",NA,NA,NA,NA,NA,"total fatty acids_mmol_l","BM00196","BM00196",TRUE,FALSE
+"698","BM00196","Total fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00196",NA,NA,NA,NA,NA,"total fatty acids_mmol_l","BM00196","BM00196",TRUE,FALSE
+"699","BM00196","Total fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00196",NA,NA,NA,NA,NA,"total fatty acids_mmol_l","BM00196","BM00196",TRUE,FALSE
+"700","BM00196","Total fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00196",NA,NA,NA,NA,NA,"total fatty acids_mmol_l","BM00196","BM00196",TRUE,FALSE
+"701","BM00196","Total fatty acids (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00196",NA,NA,NA,NA,NA,"total fatty acids_mmol_l__s5","BM00196","BM00196",TRUE,FALSE
+"702","BM00199","[W1 Finland NMR Metabolomics] 18:2, linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00199",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_18_2_linoleic acid_mmol_l","BM00199","BM00199",TRUE,FALSE
+"703","BM00199","18:2, linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00199",NA,NA,NA,NA,NA,"18_2_linoleic acid_mmol_l","BM00199","BM00199",TRUE,FALSE
+"704","BM00199","18:2, linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00199",NA,NA,NA,NA,NA,"18_2_linoleic acid_mmol_l","BM00199","BM00199",TRUE,FALSE
+"705","BM00199","18:2, linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00199",NA,NA,NA,NA,NA,"18_2_linoleic acid_mmol_l","BM00199","BM00199",TRUE,FALSE
+"706","BM00199","18:2, linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00199",NA,NA,NA,NA,NA,"18_2_linoleic acid_mmol_l","BM00199","BM00199",TRUE,FALSE
+"707","BM00199","18:2, linoleic acid (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00199",NA,NA,NA,NA,NA,"18_2_linoleic acid_mmol_l__s5","BM00199","BM00199",TRUE,FALSE
+"708","BM00200","[W1 Finland NMR Metabolomics] Omega-3 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00200",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_omega_3 fatty acids_mmol_l","BM00200","BM00200",TRUE,FALSE
+"709","BM00200","Omega-3 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00200",NA,NA,NA,NA,NA,"omega_3 fatty acids_mmol_l","BM00200","BM00200",TRUE,FALSE
+"710","BM00200","Omega-3 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00200",NA,NA,NA,NA,NA,"omega_3 fatty acids_mmol_l","BM00200","BM00200",TRUE,FALSE
+"711","BM00200","Omega-3 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00200",NA,NA,NA,NA,NA,"omega_3 fatty acids_mmol_l","BM00200","BM00200",TRUE,FALSE
+"712","BM00200","Omega-3 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00200",NA,NA,NA,NA,NA,"omega_3 fatty acids_mmol_l","BM00200","BM00200",TRUE,FALSE
+"713","BM00200","Omega-3 fatty acids (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00200",NA,NA,NA,NA,NA,"omega_3 fatty acids_mmol_l__s5","BM00200","BM00200",TRUE,FALSE
+"714","BM00201","[W1 Finland NMR Metabolomics] Omega-6 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00201",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_omega_6 fatty acids_mmol_l","BM00201","BM00201",TRUE,FALSE
+"715","BM00201","Omega-6 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00201",NA,NA,NA,NA,NA,"omega_6 fatty acids_mmol_l","BM00201","BM00201",TRUE,FALSE
+"716","BM00201","Omega-6 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00201",NA,NA,NA,NA,NA,"omega_6 fatty acids_mmol_l","BM00201","BM00201",TRUE,FALSE
+"717","BM00201","Omega-6 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00201",NA,NA,NA,NA,NA,"omega_6 fatty acids_mmol_l","BM00201","BM00201",TRUE,FALSE
+"718","BM00201","Omega-6 fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00201",NA,NA,NA,NA,NA,"omega_6 fatty acids_mmol_l","BM00201","BM00201",TRUE,FALSE
+"719","BM00201","Omega-6 fatty acids (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00201",NA,NA,NA,NA,NA,"omega_6 fatty acids_mmol_l__s5","BM00201","BM00201",TRUE,FALSE
+"720","BM00202","[W1 Finland NMR Metabolomics] Polyunsaturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00202",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_polyunsaturated fatty acids_mmol_l","BM00202","BM00202",TRUE,FALSE
+"721","BM00202","Polyunsaturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00202",NA,NA,NA,NA,NA,"polyunsaturated fatty acids_mmol_l","BM00202","BM00202",TRUE,FALSE
+"722","BM00202","Polyunsaturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00202",NA,NA,NA,NA,NA,"polyunsaturated fatty acids_mmol_l","BM00202","BM00202",TRUE,FALSE
+"723","BM00202","Polyunsaturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00202",NA,NA,NA,NA,NA,"polyunsaturated fatty acids_mmol_l","BM00202","BM00202",TRUE,FALSE
+"724","BM00202","Polyunsaturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00202",NA,NA,NA,NA,NA,"polyunsaturated fatty acids_mmol_l","BM00202","BM00202",TRUE,FALSE
+"725","BM00202","Polyunsaturated fatty acids (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00202",NA,NA,NA,NA,NA,"polyunsaturated fatty acids_mmol_l__s5","BM00202","BM00202",TRUE,FALSE
+"726","BM00203","[W1 Finland NMR Metabolomics] Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00203",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_monounsaturated fatty acids_16_1_18_1_mmol_l","BM00203","BM00203",TRUE,FALSE
+"727","BM00203","Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00203",NA,NA,NA,NA,NA,"monounsaturated fatty acids_16_1_18_1_mmol_l","BM00203","BM00203",TRUE,FALSE
+"728","BM00203","Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00203",NA,NA,NA,NA,NA,"monounsaturated fatty acids_16_1_18_1_mmol_l","BM00203","BM00203",TRUE,FALSE
+"729","BM00203","Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00203",NA,NA,NA,NA,NA,"monounsaturated fatty acids_16_1_18_1_mmol_l","BM00203","BM00203",TRUE,FALSE
+"730","BM00203","Monounsaturated fatty acids; 16:1, 18:1 (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00203",NA,NA,NA,NA,NA,"monounsaturated fatty acids_16_1_18_1_mmol_l","BM00203","BM00203",TRUE,FALSE
+"731","BM00203","Monounsaturated fatty acids; 16:1, 18:1 (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00203",NA,NA,NA,NA,NA,"monounsaturated fatty acids_16_1_18_1_mmol_l__s5","BM00203","BM00203",TRUE,FALSE
+"732","BM00204","[W1 Finland NMR Metabolomics] Saturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00204",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_saturated fatty acids_mmol_l","BM00204","BM00204",TRUE,FALSE
+"733","BM00204","Saturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00204",NA,NA,NA,NA,NA,"saturated fatty acids_mmol_l","BM00204","BM00204",TRUE,FALSE
+"734","BM00204","Saturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00204",NA,NA,NA,NA,NA,"saturated fatty acids_mmol_l","BM00204","BM00204",TRUE,FALSE
+"735","BM00204","Saturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00204",NA,NA,NA,NA,NA,"saturated fatty acids_mmol_l","BM00204","BM00204",TRUE,FALSE
+"736","BM00204","Saturated fatty acids (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00204",NA,NA,NA,NA,NA,"saturated fatty acids_mmol_l","BM00204","BM00204",TRUE,FALSE
+"737","BM00204","Saturated fatty acids (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00204",NA,NA,NA,NA,NA,"saturated fatty acids_mmol_l__s5","BM00204","BM00204",TRUE,FALSE
+"738","BM00231","[W1 Finland NMR Metabolomics] Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00231",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_glycoprotein acetyls_mainly a1_acid glycoprotein_mmol_l","BM00231","BM00231",TRUE,FALSE
+"739","BM00231","Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00231",NA,NA,NA,NA,NA,"glycoprotein acetyls_mainly a1_acid glycoprotein_mmol_l","BM00231","BM00231",TRUE,FALSE
+"740","BM00231","Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00231",NA,NA,NA,NA,NA,"glycoprotein acetyls_mainly a1_acid glycoprotein_mmol_l","BM00231","BM00231",TRUE,FALSE
+"741","BM00231","Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00231",NA,NA,NA,NA,NA,"glycoprotein acetyls_mainly a1_acid glycoprotein_mmol_l","BM00231","BM00231",TRUE,FALSE
+"742","BM00231","Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00231",NA,NA,NA,NA,NA,"glycoprotein acetyls_mainly a1_acid glycoprotein_mmol_l","BM00231","BM00231",TRUE,FALSE
+"743","BM00231","Glycoprotein acetyls, mainly a1-acid glycoprotein (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"BM00231",NA,NA,NA,NA,NA,"glycoprotein acetyls_mainly a1_acid glycoprotein_mmol_l__s5","BM00231","BM00231",TRUE,FALSE
+"744","C00165","Diacylglycerol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"C00165",NA,NA,NA,NA,NA,"diacylglycerol_mmol_l","C00165","C00165",TRUE,FALSE
+"745","C00165","Diacylglycerol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"C00165",NA,NA,NA,NA,NA,"diacylglycerol_mmol_l","C00165","C00165",TRUE,FALSE
+"746","CHEBI61159","Conjugated linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHEBI61159",NA,NA,NA,NA,NA,"conjugated linoleic acid_mmol_l","CHEBI61159","CHEBI61159",TRUE,FALSE
+"747","CHEBI61159","Conjugated linoleic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHEBI61159",NA,NA,NA,NA,NA,"conjugated linoleic acid_mmol_l","CHEBI61159","CHEBI61159",TRUE,FALSE
+"748","CSID4940699","pcaac341 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID4940699",NA,NA,NA,NA,NA,"pcaac341 in plasma_micromole_l","CSID4940699","CSID4940699",TRUE,FALSE
+"749","CSID4942851","pcaac364 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID4942851",NA,NA,NA,NA,NA,"pcaac364 in plasma_micromole_l","CSID4942851","CSID4942851",TRUE,FALSE
+"750","CSID4946694","pcaac366 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID4946694",NA,NA,NA,NA,NA,"pcaac366 in plasma_micromole_l","CSID4946694","CSID4946694",TRUE,FALSE
+"751","CSID4947173","pcaec364 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID4947173",NA,NA,NA,NA,NA,"pcaec364 in plasma_micromole_l","CSID4947173","CSID4947173",TRUE,FALSE
+"752","CSID4956085","smc180 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID4956085",NA,NA,NA,NA,NA,"smc180 in plasma_micromole_l","CSID4956085","CSID4956085",TRUE,FALSE
+"753","CSID8660716","pcaec365 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID8660716",NA,NA,NA,NA,NA,"pcaec365 in plasma_micromole_l","CSID8660716","CSID8660716",TRUE,FALSE
+"754","CSID8708435","pcaec343 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID8708435",NA,NA,NA,NA,NA,"pcaec343 in plasma_micromole_l","CSID8708435","CSID8708435",TRUE,FALSE
+"755","CSID8756279","pcaec340 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID8756279",NA,NA,NA,NA,NA,"pcaec340 in plasma_micromole_l","CSID8756279","CSID8756279",TRUE,FALSE
+"756","CSID18953394","lysopcac180 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID18953394",NA,NA,NA,NA,NA,"lysopcac180 in plasma_micromole_l","CSID18953394","CSID18953394",TRUE,FALSE
+"757","CSID24608218","pcaec406 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24608218",NA,NA,NA,NA,NA,"pcaec406 in plasma_micromole_l","CSID24608218","CSID24608218",TRUE,FALSE
+"758","CSID24822210","pcaac281 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822210",NA,NA,NA,NA,NA,"pcaac281 in plasma_micromole_l","CSID24822210","CSID24822210",TRUE,FALSE
+"759","CSID24822213","pcaac300 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822213",NA,NA,NA,NA,NA,"pcaac300 in plasma_micromole_l","CSID24822213","CSID24822213",TRUE,FALSE
+"760","CSID24822327","pcaac360 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822327",NA,NA,NA,NA,NA,"pcaac360 in plasma_micromole_l","CSID24822327","CSID24822327",TRUE,FALSE
+"761","CSID24822407","pcaac343 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822407",NA,NA,NA,NA,NA,"pcaac343 in plasma_micromole_l","CSID24822407","CSID24822407",TRUE,FALSE
+"762","CSID24822409","pcaac365 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822409",NA,NA,NA,NA,NA,"pcaac365 in plasma_micromole_l","CSID24822409","CSID24822409",TRUE,FALSE
+"763","CSID24822417","pcaac320 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822417",NA,NA,NA,NA,NA,"pcaac320 in plasma_micromole_l","CSID24822417","CSID24822417",TRUE,FALSE
+"764","CSID24822448","pcaac342 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822448",NA,NA,NA,NA,NA,"pcaac342 in plasma_micromole_l","CSID24822448","CSID24822448",TRUE,FALSE
+"765","CSID24822459","pcaac361 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822459",NA,NA,NA,NA,NA,"pcaac361 in plasma_micromole_l","CSID24822459","CSID24822459",TRUE,FALSE
+"766","CSID24822466","pcaac363 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822466",NA,NA,NA,NA,NA,"pcaac363 in plasma_micromole_l","CSID24822466","CSID24822466",TRUE,FALSE
+"767","CSID24822473","pcaac380 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822473",NA,NA,NA,NA,NA,"pcaac380 in plasma_micromole_l","CSID24822473","CSID24822473",TRUE,FALSE
+"768","CSID24822488","pcaac384 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822488",NA,NA,NA,NA,NA,"pcaac384 in plasma_micromole_l","CSID24822488","CSID24822488",TRUE,FALSE
+"769","CSID24822495","pcaac405 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822495",NA,NA,NA,NA,NA,"pcaac405 in plasma_micromole_l","CSID24822495","CSID24822495",TRUE,FALSE
+"770","CSID24822532","pcaac362 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822532",NA,NA,NA,NA,NA,"pcaac362 in plasma_micromole_l","CSID24822532","CSID24822532",TRUE,FALSE
+"771","CSID24822573","pcaac344 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822573",NA,NA,NA,NA,NA,"pcaac344 in plasma_micromole_l","CSID24822573","CSID24822573",TRUE,FALSE
+"772","CSID24822578","pcaac383 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822578",NA,NA,NA,NA,NA,"pcaac383 in plasma_micromole_l","CSID24822578","CSID24822578",TRUE,FALSE
+"773","CSID24822638","pcaac403 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822638",NA,NA,NA,NA,NA,"pcaac403 in plasma_micromole_l","CSID24822638","CSID24822638",TRUE,FALSE
+"774","CSID24822650","pcaac402 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822650",NA,NA,NA,NA,NA,"pcaac402 in plasma_micromole_l","CSID24822650","CSID24822650",TRUE,FALSE
+"775","CSID24822657","pcaac386 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822657",NA,NA,NA,NA,NA,"pcaac386 in plasma_micromole_l","CSID24822657","CSID24822657",TRUE,FALSE
+"776","CSID24822678","pcaac422 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822678",NA,NA,NA,NA,NA,"pcaac422 in plasma_micromole_l","CSID24822678","CSID24822678",TRUE,FALSE
+"777","CSID24822837","pcaec300 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822837",NA,NA,NA,NA,NA,"pcaec300 in plasma_micromole_l","CSID24822837","CSID24822837",TRUE,FALSE
+"778","CSID24822840","pcaec321 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822840",NA,NA,NA,NA,NA,"pcaec321 in plasma_micromole_l","CSID24822840","CSID24822840",TRUE,FALSE
+"779","CSID24822863","pcaec361 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822863",NA,NA,NA,NA,NA,"pcaec361 in plasma_micromole_l","CSID24822863","CSID24822863",TRUE,FALSE
+"780","CSID24822871","pcaec385 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822871",NA,NA,NA,NA,NA,"pcaec385 in plasma_micromole_l","CSID24822871","CSID24822871",TRUE,FALSE
+"781","CSID24822888","pcaec341 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822888",NA,NA,NA,NA,NA,"pcaec341 in plasma_micromole_l","CSID24822888","CSID24822888",TRUE,FALSE
+"782","CSID24822898","pcaec384 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822898",NA,NA,NA,NA,NA,"pcaec384 in plasma_micromole_l","CSID24822898","CSID24822898",TRUE,FALSE
+"783","CSID24822903","pcaec405 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822903",NA,NA,NA,NA,NA,"pcaec405 in plasma_micromole_l","CSID24822903","CSID24822903",TRUE,FALSE
+"784","CSID24822939","pcaec322 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24822939",NA,NA,NA,NA,NA,"pcaec322 in plasma_micromole_l","CSID24822939","CSID24822939",TRUE,FALSE
+"785","CSID24823031","lysopcac181 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24823031",NA,NA,NA,NA,NA,"lysopcac181 in plasma_micromole_l","CSID24823031","CSID24823031",TRUE,FALSE
+"786","CSID24846875","smc240 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24846875",NA,NA,NA,NA,NA,"smc240 in plasma_micromole_l","CSID24846875","CSID24846875",TRUE,FALSE
+"787","CSID24958570","pcaec363 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CSID24958570",NA,NA,NA,NA,NA,"pcaec363 in plasma_micromole_l","CSID24958570","CSID24958570",TRUE,FALSE
+"788","HEXOSES","hexose in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HEXOSES",NA,NA,NA,NA,NA,"hexose in plasma_micromole_l","HEXOSES","HEXOSES",TRUE,FALSE
+"789","HMDB00011","[W1 Finland NMR Metabolomics] 3-hydroxybutyrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00011",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_3_hydroxybutyrate_mmol_l","HMDB00011","HMDB00011",TRUE,FALSE
+"790","HMDB00011","3-hydroxybutyrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00011",NA,NA,NA,NA,NA,"3_hydroxybutyrate_mmol_l","HMDB00011","HMDB00011",TRUE,FALSE
+"791","HMDB00011","3-hydroxybutyrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00011",NA,NA,NA,NA,NA,"3_hydroxybutyrate_mmol_l","HMDB00011","HMDB00011",TRUE,FALSE
+"792","HMDB00011","3-hydroxybutyrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00011",NA,NA,NA,NA,NA,"3_hydroxybutyrate_mmol_l","HMDB00011","HMDB00011",TRUE,FALSE
+"793","HMDB00011","3-hydroxybutyrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00011",NA,NA,NA,NA,NA,"3_hydroxybutyrate_mmol_l","HMDB00011","HMDB00011",TRUE,FALSE
+"794","HMDB00011","8 3-hydroxybutyrate (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00011",NA,NA,NA,NA,NA,"8 3_hydroxybutyrate_mmol_l__s5","HMDB00011","HMDB00011",TRUE,FALSE
+"795","HMDB00056","Alanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00056",NA,NA,NA,NA,NA,"alanine_mmol_l","HMDB00056","HMDB00056",TRUE,FALSE
+"796","HMDB00060","[W1 Finland NMR Metabolomics] Acetoacetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00060",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_acetoacetate_mmol_l","HMDB00060","HMDB00060",TRUE,FALSE
+"797","HMDB00060","Acetoacetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00060",NA,NA,NA,NA,NA,"acetoacetate_mmol_l","HMDB00060","HMDB00060",TRUE,FALSE
+"798","HMDB00060","Acetoacetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00060",NA,NA,NA,NA,NA,"acetoacetate_mmol_l","HMDB00060","HMDB00060",TRUE,FALSE
+"799","HMDB00060","Acetoacetate (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00060",NA,NA,NA,NA,NA,"acetoacetate_mmol_l__s5","HMDB00060","HMDB00060",TRUE,FALSE
+"800","HMDB00062","c0 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00062",NA,NA,NA,NA,NA,"c0 in plasma_micromole_l","HMDB00062","HMDB00062",TRUE,FALSE
+"801","HMDB00067","Total Plasma Cholesterol mg/dL",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00067",NA,NA,NA,NA,NA,"total plasma cholesterol mg_dl","HMDB00067","HMDB00067",TRUE,FALSE
+"802","HMDB00094","[W1 Finland NMR Metabolomics] Citrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00094",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_citrate_mmol_l","HMDB00094","HMDB00094",TRUE,FALSE
+"803","HMDB00094","Citrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00094",NA,NA,NA,NA,NA,"citrate_mmol_l","HMDB00094","HMDB00094",TRUE,FALSE
+"804","HMDB00094","Citrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00094",NA,NA,NA,NA,NA,"citrate_mmol_l","HMDB00094","HMDB00094",TRUE,FALSE
+"805","HMDB00094","Citrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00094",NA,NA,NA,NA,NA,"citrate_mmol_l","HMDB00094","HMDB00094",TRUE,FALSE
+"806","HMDB00122","[W1 Finland NMR Metabolomics] Glucose (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00122",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_glucose_mmol_l","HMDB00122","HMDB00122",TRUE,FALSE
+"807","HMDB00122","Glucose (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00122",NA,NA,NA,NA,NA,"glucose_mmol_l","HMDB00122","HMDB00122",TRUE,FALSE
+"808","HMDB00122","Glucose (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00122",NA,NA,NA,NA,NA,"glucose_mmol_l","HMDB00122","HMDB00122",TRUE,FALSE
+"809","HMDB00122","Glucose (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00122",NA,NA,NA,NA,NA,"glucose_mmol_l","HMDB00122","HMDB00122",TRUE,FALSE
+"810","HMDB00122","Glucose (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00122",NA,NA,NA,NA,NA,"glucose_mmol_l__s5","HMDB00122","HMDB00122",TRUE,FALSE
+"811","HMDB00123","[W1 Finland NMR Metabolomics] Glycine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00123",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_glycine_mmol_l","HMDB00123","HMDB00123",TRUE,FALSE
+"812","HMDB00123","Glycine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00123",NA,NA,NA,NA,NA,"glycine_mmol_l","HMDB00123","HMDB00123",TRUE,FALSE
+"813","HMDB00123","Glycine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00123",NA,NA,NA,NA,NA,"glycine in plasma_micromole_l","HMDB00123","HMDB00123",TRUE,FALSE
+"814","HMDB00123","Glycine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00123",NA,NA,NA,NA,NA,"glycine_mmol_l","HMDB00123","HMDB00123",TRUE,FALSE
+"815","HMDB00123","Glycine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00123",NA,NA,NA,NA,NA,"glycine_mmol_l__s5","HMDB00123","HMDB00123",TRUE,FALSE
+"816","HMDB00131","[W1 Finland NMR Metabolomics] Glycerol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00131",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_glycerol_mmol_l","HMDB00131","HMDB00131",TRUE,FALSE
+"817","HMDB00131","Glycerol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00131",NA,NA,NA,NA,NA,"glycerol_mmol_l","HMDB00131","HMDB00131",TRUE,FALSE
+"818","HMDB00131","Glycerol (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00131",NA,NA,NA,NA,NA,"glycerol_mmol_l","HMDB00131","HMDB00131",TRUE,FALSE
+"819","HMDB00131","Glycerol (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00131",NA,NA,NA,NA,NA,"glycerol_mmol_l__s5","HMDB00131","HMDB00131",TRUE,FALSE
+"820","HMDB00148_HMDB03339","Glutamate in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00148_HMDB03339",NA,NA,NA,NA,NA,"glutamate in plasma_micromole_l","HMDB00148_HMDB03339","HMDB00148",TRUE,FALSE
+"821","HMDB00158","[W1 Finland NMR Metabolomics] Tyrosine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_tyrosine_mmol_l","HMDB00158","HMDB00158",TRUE,FALSE
+"822","HMDB00158","Tyrosine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"tyrosine_mmol_l","HMDB00158","HMDB00158",TRUE,FALSE
+"823","HMDB00158","Tyrosine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"tyrosine_mmol_l","HMDB00158","HMDB00158",TRUE,FALSE
+"824","HMDB00158","Tyrosine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"tyrosine in plasma_micromole_l","HMDB00158","HMDB00158",TRUE,FALSE
+"825","HMDB00158","Tyrosine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"tyrosine_mmol_l","HMDB00158","HMDB00158",TRUE,FALSE
+"826","HMDB00158","Tyrosine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"tyrosine_mmol_l","HMDB00158","HMDB00158",TRUE,FALSE
+"827","HMDB00158","Tyrosine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00158",NA,NA,NA,NA,NA,"tyrosine_mmol_l__s5","HMDB00158","HMDB00158",TRUE,FALSE
+"828","HMDB00159","[W1 Finland NMR Metabolomics] Phenylalanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_phenylalanine_mmol_l","HMDB00159","HMDB00159",TRUE,FALSE
+"829","HMDB00159","Phenylalanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"phenylalanine_mmol_l","HMDB00159","HMDB00159",TRUE,FALSE
+"830","HMDB00159","Phenylalanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"phenylalanine_mmol_l","HMDB00159","HMDB00159",TRUE,FALSE
+"831","HMDB00159","Phenylalanine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"phenylalanine in plasma_micromole_l","HMDB00159","HMDB00159",TRUE,FALSE
+"832","HMDB00159","Phenylalanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"phenylalanine_mmol_l","HMDB00159","HMDB00159",TRUE,FALSE
+"833","HMDB00159","Phenylalanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"phenylalanine_mmol_l","HMDB00159","HMDB00159",TRUE,FALSE
+"834","HMDB00159","Phenylalanine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00159",NA,NA,NA,NA,NA,"phenylalanine_mmol_l__s5","HMDB00159","HMDB00159",TRUE,FALSE
+"835","HMDB00161","[W1 Finland NMR Metabolomics] Alanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00161",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_alanine_mmol_l","HMDB00161","HMDB00161",TRUE,FALSE
+"836","HMDB00161","Alanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00161",NA,NA,NA,NA,NA,"alanine_mmol_l","HMDB00161","HMDB00161",TRUE,FALSE
+"837","HMDB00161","Alanine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00161",NA,NA,NA,NA,NA,"alanine in plasma_micromole_l","HMDB00161","HMDB00161",TRUE,FALSE
+"838","HMDB00161","Alanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00161",NA,NA,NA,NA,NA,"alanine_mmol_l","HMDB00161","HMDB00161",TRUE,FALSE
+"839","HMDB00161","Alanine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00161",NA,NA,NA,NA,NA,"alanine_mmol_l","HMDB00161","HMDB00161",TRUE,FALSE
+"840","HMDB00161","Alanine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00161",NA,NA,NA,NA,NA,"alanine_mmol_l__s5","HMDB00161","HMDB00161",TRUE,FALSE
+"841","HMDB00162","Proline in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00162",NA,NA,NA,NA,NA,"proline in plasma_micromole_l","HMDB00162","HMDB00162",TRUE,FALSE
+"842","HMDB00167","Threonine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00167",NA,NA,NA,NA,NA,"threonine in plasma_micromole_l","HMDB00167","HMDB00167",TRUE,FALSE
+"843","HMDB00168","Asparagine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00168",NA,NA,NA,NA,NA,"asparagine in plasma_micromole_l","HMDB00168","HMDB00168",TRUE,FALSE
+"844","HMDB00172","[W1 Finland NMR Metabolomics] Isoleucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_isoleucine_mmol_l","HMDB00172","HMDB00172",TRUE,FALSE
+"845","HMDB00172","Isoleucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"isoleucine_mmol_l","HMDB00172","HMDB00172",TRUE,FALSE
+"846","HMDB00172","Isoleucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"isoleucine_mmol_l","HMDB00172","HMDB00172",TRUE,FALSE
+"847","HMDB00172","Isoleucine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"isoleucine in plasma_micromole_l","HMDB00172","HMDB00172",TRUE,FALSE
+"848","HMDB00172","Isoleucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"isoleucine_mmol_l","HMDB00172","HMDB00172",TRUE,FALSE
+"849","HMDB00172","Isoleucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"isoleucine_mmol_l","HMDB00172","HMDB00172",TRUE,FALSE
+"850","HMDB00172","Isoleucine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00172",NA,NA,NA,NA,NA,"isoleucine_mmol_l__s5","HMDB00172","HMDB00172",TRUE,FALSE
+"851","HMDB00177","[W1 Finland NMR Metabolomics] Histidine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_histidine_mmol_l","HMDB00177","HMDB00177",TRUE,FALSE
+"852","HMDB00177","Histidine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"histidine_mmol_l","HMDB00177","HMDB00177",TRUE,FALSE
+"853","HMDB00177","Histidine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"histidine_mmol_l","HMDB00177","HMDB00177",TRUE,FALSE
+"854","HMDB00177","Histidine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"histidine in plasma_micromole_l","HMDB00177","HMDB00177",TRUE,FALSE
+"855","HMDB00177","Histidine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"histidine_mmol_l","HMDB00177","HMDB00177",TRUE,FALSE
+"856","HMDB00177","Histidine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"histidine_mmol_l","HMDB00177","HMDB00177",TRUE,FALSE
+"857","HMDB00177","Histidine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00177",NA,NA,NA,NA,NA,"histidine_mmol_l__s5","HMDB00177","HMDB00177",TRUE,FALSE
+"858","HMDB00187","Serine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00187",NA,NA,NA,NA,NA,"serine in plasma_micromole_l","HMDB00187","HMDB00187",TRUE,FALSE
+"859","HMDB00190","[W1 Finland NMR Metabolomics] Lactate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00190",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_lactate_mmol_l","HMDB00190","HMDB00190",TRUE,FALSE
+"860","HMDB00190","Lactate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00190",NA,NA,NA,NA,NA,"lactate_mmol_l","HMDB00190","HMDB00190",TRUE,FALSE
+"861","HMDB00190","Lactate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00190",NA,NA,NA,NA,NA,"lactate_mmol_l","HMDB00190","HMDB00190",TRUE,FALSE
+"862","HMDB00190","Lactate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00190",NA,NA,NA,NA,NA,"lactate_mmol_l","HMDB00190","HMDB00190",TRUE,FALSE
+"863","HMDB00190","Lactate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00190",NA,NA,NA,NA,NA,"lactate_mmol_l","HMDB00190","HMDB00190",TRUE,FALSE
+"864","HMDB00190","Lactate (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00190",NA,NA,NA,NA,NA,"lactate_mmol_l__s5","HMDB00190","HMDB00190",TRUE,FALSE
+"865","HMDB00201","c2 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00201",NA,NA,NA,NA,NA,"c2 in plasma_micromole_l","HMDB00201","HMDB00201",TRUE,FALSE
+"866","HMDB00237","[W1 Finland NMR Metabolomics] 22:6, docosahexaenoic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00237",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_22_6_docosahexaenoic acid_mmol_l","HMDB00237","HMDB00237",TRUE,FALSE
+"867","HMDB00237","22:6, docosahexaenoic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00237",NA,NA,NA,NA,NA,"22_6_docosahexaenoic acid_mmol_l","HMDB00237","HMDB00237",TRUE,FALSE
+"868","HMDB00237","22:6, docosahexaenoic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00237",NA,NA,NA,NA,NA,"22_6_docosahexaenoic acid_mmol_l","HMDB00237","HMDB00237",TRUE,FALSE
+"869","HMDB00237","22:6, docosahexaenoic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00237",NA,NA,NA,NA,NA,"22_6_docosahexaenoic acid_mmol_l","HMDB00237","HMDB00237",TRUE,FALSE
+"870","HMDB00237","22:6, docosahexaenoic acid (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00237",NA,NA,NA,NA,NA,"22_6_docosahexaenoic acid_mmol_l","HMDB00237","HMDB00237",TRUE,FALSE
+"871","HMDB00243","[W1 Finland NMR Metabolomics] Pyruvate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00243",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_pyruvate_mmol_l","HMDB00243","HMDB00243",TRUE,FALSE
+"872","HMDB00243","Pyruvate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00243",NA,NA,NA,NA,NA,"pyruvate_mmol_l","HMDB00243","HMDB00243",TRUE,FALSE
+"873","HMDB00243","Pyruvate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00243",NA,NA,NA,NA,NA,"pyruvate_mmol_l","HMDB00243","HMDB00243",TRUE,FALSE
+"874","HMDB00243","Pyruvate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00243",NA,NA,NA,NA,NA,"pyruvate_mmol_l","HMDB00243","HMDB00243",TRUE,FALSE
+"875","HMDB00243","Pyruvate (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00243",NA,NA,NA,NA,NA,"pyruvate_mmol_l__s5","HMDB00243","HMDB00243",TRUE,FALSE
+"876","HMDB00251","taurine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00251",NA,NA,NA,NA,NA,"taurine in plasma_micromole_l","HMDB00251","HMDB00251",TRUE,FALSE
+"877","HMDB00271","sarcosine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00271",NA,NA,NA,NA,NA,"sarcosine in plasma_micromole_l","HMDB00271","HMDB00271",TRUE,FALSE
+"878","HMDB00516","Glucose (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00516",NA,NA,NA,NA,NA,"glucose_mmol_l","HMDB00516","HMDB00516",TRUE,FALSE
+"879","HMDB00517","Arginine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00517",NA,NA,NA,NA,NA,"arginine in plasma_micromole_l","HMDB00517","HMDB00517",TRUE,FALSE
+"880","HMDB00562","[W1 Finland NMR Metabolomics] Creatinine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_creatinine_mmol_l","HMDB00562","HMDB00562",TRUE,FALSE
+"881","HMDB00562","Creatinine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"creatinine_mmol_l","HMDB00562","HMDB00562",TRUE,FALSE
+"882","HMDB00562","Creatinine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"creatinine_mmol_l","HMDB00562","HMDB00562",TRUE,FALSE
+"883","HMDB00562","creatinine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"creatinine in plasma_micromole_l","HMDB00562","HMDB00562",TRUE,FALSE
+"884","HMDB00562","Creatinine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"creatinine_mmol_l","HMDB00562","HMDB00562",TRUE,FALSE
+"885","HMDB00562","Creatinine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"creatinine_mmol_l","HMDB00562","HMDB00562",TRUE,FALSE
+"886","HMDB00562","Creatinine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00562",NA,NA,NA,NA,NA,"creatinine_mmol_l__s5","HMDB00562","HMDB00562",TRUE,FALSE
+"887","HMDB00641","[W1 Finland NMR Metabolomics] Glutamine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_glutamine_mmol_l","HMDB00641","HMDB00641",TRUE,FALSE
+"888","HMDB00641","Glutamine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"glutamine_mmol_l","HMDB00641","HMDB00641",TRUE,FALSE
+"889","HMDB00641","Glutamine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"glutamine_mmol_l","HMDB00641","HMDB00641",TRUE,FALSE
+"890","HMDB00641","Glutamine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"glutamine in plasma_micromole_l","HMDB00641","HMDB00641",TRUE,FALSE
+"891","HMDB00641","Glutamine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"glutamine_mmol_l","HMDB00641","HMDB00641",TRUE,FALSE
+"892","HMDB00641","Glutamine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"glutamine_mmol_l","HMDB00641","HMDB00641",TRUE,FALSE
+"893","HMDB00641","Glutamine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00641",NA,NA,NA,NA,NA,"glutamine_mmol_l__s5","HMDB00641","HMDB00641",TRUE,FALSE
+"894","HMDB00684","kynurenine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00684",NA,NA,NA,NA,NA,"kynurenine in plasma_micromole_l","HMDB00684","HMDB00684",TRUE,FALSE
+"895","HMDB00687","[W1 Finland NMR Metabolomics] Leucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_leucine_mmol_l","HMDB00687","HMDB00687",TRUE,FALSE
+"896","HMDB00687","Leucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"leucine_mmol_l","HMDB00687","HMDB00687",TRUE,FALSE
+"897","HMDB00687","Leucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"leucine_mmol_l","HMDB00687","HMDB00687",TRUE,FALSE
+"898","HMDB00687","Leucine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"leucine in plasma_micromole_l","HMDB00687","HMDB00687",TRUE,FALSE
+"899","HMDB00687","Leucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"leucine_mmol_l","HMDB00687","HMDB00687",TRUE,FALSE
+"900","HMDB00687","Leucine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"leucine_mmol_l","HMDB00687","HMDB00687",TRUE,FALSE
+"901","HMDB00687","Leucine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00687",NA,NA,NA,NA,NA,"leucine_mmol_l__s5","HMDB00687","HMDB00687",TRUE,FALSE
+"902","HMDB00696","Methionine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00696",NA,NA,NA,NA,NA,"methionine in plasma_micromole_l","HMDB00696","HMDB00696",TRUE,FALSE
+"903","HMDB00725","t4-OH-Pro in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00725",NA,NA,NA,NA,NA,"t4_oh_pro in plasma_micromole_l","HMDB00725","HMDB00725",TRUE,FALSE
+"904","HMDB00824","c3 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00824",NA,NA,NA,NA,NA,"c3 in plasma_micromole_l","HMDB00824","HMDB00824",TRUE,FALSE
+"905","HMDB00848","c18 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00848",NA,NA,NA,NA,NA,"c18 in plasma_micromole_l","HMDB00848","HMDB00848",TRUE,FALSE
+"906","HMDB00883","[W1 Finland NMR Metabolomics] Valine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_valine_mmol_l","HMDB00883","HMDB00883",TRUE,FALSE
+"907","HMDB00883","Valine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"valine_mmol_l","HMDB00883","HMDB00883",TRUE,FALSE
+"908","HMDB00883","Valine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"valine_mmol_l","HMDB00883","HMDB00883",TRUE,FALSE
+"909","HMDB00883","Valine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"valine in plasma_micromole_l","HMDB00883","HMDB00883",TRUE,FALSE
+"910","HMDB00883","Valine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"valine_mmol_l","HMDB00883","HMDB00883",TRUE,FALSE
+"911","HMDB00883","Valine (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"valine_mmol_l","HMDB00883","HMDB00883",TRUE,FALSE
+"912","HMDB00883","Valine (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00883",NA,NA,NA,NA,NA,"valine_mmol_l__s5","HMDB00883","HMDB00883",TRUE,FALSE
+"913","HMDB00904","Citrulline in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00904",NA,NA,NA,NA,NA,"citrulline in plasma_micromole_l","HMDB00904","HMDB00904",TRUE,FALSE
+"914","HMDB00904","Citrate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00904",NA,NA,NA,NA,NA,"citrate_mmol_l","HMDB00904","HMDB00904",TRUE,FALSE
+"915","HMDB00904","Citrate (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00904",NA,NA,NA,NA,NA,"citrate_mmol_l__s5","HMDB00904","HMDB00904",TRUE,FALSE
+"916","HMDB00929","Tryptophan in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB00929",NA,NA,NA,NA,NA,"tryptophan in plasma_micromole_l","HMDB00929","HMDB00929",TRUE,FALSE
+"917","HMDB01539","adma in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB01539",NA,NA,NA,NA,NA,"adma in plasma_micromole_l","HMDB01539","HMDB01539",TRUE,FALSE
+"918","HMDB02014","c141 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB02014",NA,NA,NA,NA,NA,"c141 in plasma_micromole_l","HMDB02014","HMDB02014",TRUE,FALSE
+"919","HMDB02183","22:6, docosahexaenoic acid (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB02183",NA,NA,NA,NA,NA,"22_6_docosahexaenoic acid_mmol_l__s5","HMDB02183","HMDB02183",TRUE,FALSE
+"920","HMDB03374","Ornithine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB03374",NA,NA,NA,NA,NA,"ornithine in plasma_micromole_l","HMDB03374","HMDB03374",TRUE,FALSE
+"921","HMDB03405","Lysine in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB03405",NA,NA,NA,NA,NA,"lysine in plasma_micromole_l","HMDB03405","HMDB03405",TRUE,FALSE
+"922","HMDB05065","c181 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB05065",NA,NA,NA,NA,NA,"c181 in plasma_micromole_l","HMDB05065","HMDB05065",TRUE,FALSE
+"923","HMDB07873","pcaac321 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB07873",NA,NA,NA,NA,NA,"pcaac321 in plasma_micromole_l","HMDB07873","HMDB07873",TRUE,FALSE
+"924","HMDB07876","pcaac323 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB07876",NA,NA,NA,NA,NA,"pcaac323 in plasma_micromole_l","HMDB07876","HMDB07876",TRUE,FALSE
+"925","HMDB07989","pcaac385 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB07989",NA,NA,NA,NA,NA,"pcaac385 in plasma_micromole_l","HMDB07989","HMDB07989",TRUE,FALSE
+"926","HMDB08054","pcaac404 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB08054",NA,NA,NA,NA,NA,"pcaac404 in plasma_micromole_l","HMDB08054","HMDB08054",TRUE,FALSE
+"927","HMDB08057","pcaac406 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB08057",NA,NA,NA,NA,NA,"pcaac406 in plasma_micromole_l","HMDB08057","HMDB08057",TRUE,FALSE
+"928","HMDB08058","pcaac420 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB08058",NA,NA,NA,NA,NA,"pcaac420 in plasma_micromole_l","HMDB08058","HMDB08058",TRUE,FALSE
+"929","HMDB08124","pcaac421 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB08124",NA,NA,NA,NA,NA,"pcaac421 in plasma_micromole_l","HMDB08124","HMDB08124",TRUE,FALSE
+"930","HMDB08287","pcaac425 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB08287",NA,NA,NA,NA,NA,"pcaac425 in plasma_micromole_l","HMDB08287","HMDB08287",TRUE,FALSE
+"931","HMDB08573","pcaac424 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB08573",NA,NA,NA,NA,NA,"pcaac424 in plasma_micromole_l","HMDB08573","HMDB08573",TRUE,FALSE
+"932","HMDB10169","smc160 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB10169",NA,NA,NA,NA,NA,"smc160 in plasma_micromole_l","HMDB10169","HMDB10169",TRUE,FALSE
+"933","HMDB10382","lysopcac160 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB10382",NA,NA,NA,NA,NA,"lysopcac160 in plasma_micromole_l","HMDB10382","HMDB10382",TRUE,FALSE
+"934","HMDB10383","lysopcac161 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB10383",NA,NA,NA,NA,NA,"lysopcac161 in plasma_micromole_l","HMDB10383","HMDB10383",TRUE,FALSE
+"935","HMDB10386","lysopcac182 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB10386",NA,NA,NA,NA,NA,"lysopcac182 in plasma_micromole_l","HMDB10386","HMDB10386",TRUE,FALSE
+"936","HMDB10393","lysopcac203 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB10393",NA,NA,NA,NA,NA,"lysopcac203 in plasma_micromole_l","HMDB10393","HMDB10393",TRUE,FALSE
+"937","HMDB10396","lysopcac204 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB10396",NA,NA,NA,NA,NA,"lysopcac204 in plasma_micromole_l","HMDB10396","HMDB10396",TRUE,FALSE
+"938","HMDB11151","pcaec342 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB11151",NA,NA,NA,NA,NA,"pcaec342 in plasma_micromole_l","HMDB11151","HMDB11151",TRUE,FALSE
+"939","HMDB11243","pcaec362 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB11243",NA,NA,NA,NA,NA,"pcaec362 in plasma_micromole_l","HMDB11243","HMDB11243",TRUE,FALSE
+"940","HMDB12100","smc181 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB12100",NA,NA,NA,NA,NA,"smc181 in plasma_micromole_l","HMDB12100","HMDB12100",TRUE,FALSE
+"941","HMDB12107","smc241 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB12107",NA,NA,NA,NA,NA,"smc241 in plasma_micromole_l","HMDB12107","HMDB12107",TRUE,FALSE
+"942","HMDB12108","lysopcac170 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB12108",NA,NA,NA,NA,NA,"lysopcac170 in plasma_micromole_l","HMDB12108","HMDB12108",TRUE,FALSE
+"943","HMDB13406","pcaec360 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13406",NA,NA,NA,NA,NA,"pcaec360 in plasma_micromole_l","HMDB13406","HMDB13406",TRUE,FALSE
+"944","HMDB13409","pcaec386 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13409",NA,NA,NA,NA,NA,"pcaec386 in plasma_micromole_l","HMDB13409","HMDB13409",TRUE,FALSE
+"945","HMDB13410","pcaec302 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13410",NA,NA,NA,NA,NA,"pcaec302 in plasma_micromole_l","HMDB13410","HMDB13410",TRUE,FALSE
+"946","HMDB13431","pcaec382 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13431",NA,NA,NA,NA,NA,"pcaec382 in plasma_micromole_l","HMDB13431","HMDB13431",TRUE,FALSE
+"947","HMDB13433","pcaec401 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13433",NA,NA,NA,NA,NA,"pcaec401 in plasma_micromole_l","HMDB13433","HMDB13433",TRUE,FALSE
+"948","HMDB13434","pcaec422 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13434",NA,NA,NA,NA,NA,"pcaec422 in plasma_micromole_l","HMDB13434","HMDB13434",TRUE,FALSE
+"949","HMDB13437","pcaec402 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13437",NA,NA,NA,NA,NA,"pcaec402 in plasma_micromole_l","HMDB13437","HMDB13437",TRUE,FALSE
+"950","HMDB13438","pcaec423 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13438",NA,NA,NA,NA,NA,"pcaec423 in plasma_micromole_l","HMDB13438","HMDB13438",TRUE,FALSE
+"951","HMDB13439","pcaec383 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13439",NA,NA,NA,NA,NA,"pcaec383 in plasma_micromole_l","HMDB13439","HMDB13439",TRUE,FALSE
+"952","HMDB13442","pcaec404 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13442",NA,NA,NA,NA,NA,"pcaec404 in plasma_micromole_l","HMDB13442","HMDB13442",TRUE,FALSE
+"953","HMDB13443","pcaec421 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13443",NA,NA,NA,NA,NA,"pcaec421 in plasma_micromole_l","HMDB13443","HMDB13443",TRUE,FALSE
+"954","HMDB13445","pcaec403 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13445",NA,NA,NA,NA,NA,"pcaec403 in plasma_micromole_l","HMDB13445","HMDB13445",TRUE,FALSE
+"955","HMDB13450","pcaec446 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13450",NA,NA,NA,NA,NA,"pcaec446 in plasma_micromole_l","HMDB13450","HMDB13450",TRUE,FALSE
+"956","HMDB13451","pcaec425 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13451",NA,NA,NA,NA,NA,"pcaec425 in plasma_micromole_l","HMDB13451","HMDB13451",TRUE,FALSE
+"957","HMDB13456","pcaec445 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13456",NA,NA,NA,NA,NA,"pcaec445 in plasma_micromole_l","HMDB13456","HMDB13456",TRUE,FALSE
+"958","HMDB13458","pcaec424 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13458",NA,NA,NA,NA,NA,"pcaec424 in plasma_micromole_l","HMDB13458","HMDB13458",TRUE,FALSE
+"959","HMDB13460","pcaec444 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13460",NA,NA,NA,NA,NA,"pcaec444 in plasma_micromole_l","HMDB13460","HMDB13460",TRUE,FALSE
+"960","HMDB13462","smohc141 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13462",NA,NA,NA,NA,NA,"smohc141 in plasma_micromole_l","HMDB13462","HMDB13462",TRUE,FALSE
+"961","HMDB13463","smohc161 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13463",NA,NA,NA,NA,NA,"smohc161 in plasma_micromole_l","HMDB13463","HMDB13463",TRUE,FALSE
+"962","HMDB13465","smc202 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13465",NA,NA,NA,NA,NA,"smc202 in plasma_micromole_l","HMDB13465","HMDB13465",TRUE,FALSE
+"963","HMDB13466","smohc221 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13466",NA,NA,NA,NA,NA,"smohc221 in plasma_micromole_l","HMDB13466","HMDB13466",TRUE,FALSE
+"964","HMDB13467","smohc222 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13467",NA,NA,NA,NA,NA,"smohc222 in plasma_micromole_l","HMDB13467","HMDB13467",TRUE,FALSE
+"965","HMDB13469","smohc241 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB13469",NA,NA,NA,NA,NA,"smohc241 in plasma_micromole_l","HMDB13469","HMDB13469",TRUE,FALSE
+"966","HMDB29216","smc161 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HMDB29216",NA,NA,NA,NA,NA,"smc161 in plasma_micromole_l","HMDB29216","HMDB29216",TRUE,FALSE
+"967","PUBCHEM175","[W1 Finland NMR Metabolomics] Acetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM175",NA,NA,NA,NA,NA,"w1 finland nmr metabolomics_acetate_mmol_l","PUBCHEM175","PUBCHEM175",TRUE,FALSE
+"968","PUBCHEM175","Acetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM175",NA,NA,NA,NA,NA,"acetate_mmol_l","PUBCHEM175","PUBCHEM175",TRUE,FALSE
+"969","PUBCHEM175","Acetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM175",NA,NA,NA,NA,NA,"acetate_mmol_l","PUBCHEM175","PUBCHEM175",TRUE,FALSE
+"970","PUBCHEM175","Acetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM175",NA,NA,NA,NA,NA,"acetate_mmol_l","PUBCHEM175","PUBCHEM175",TRUE,FALSE
+"971","PUBCHEM175","Acetate (mmol/l)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM175",NA,NA,NA,NA,NA,"acetate_mmol_l","PUBCHEM175","PUBCHEM175",TRUE,FALSE
+"972","PUBCHEM175","Acetate (mmol/L) (s5)",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM175",NA,NA,NA,NA,NA,"acetate_mmol_l__s5","PUBCHEM175","PUBCHEM175",TRUE,FALSE
+"973","PUBCHEM16902","c16 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM16902",NA,NA,NA,NA,NA,"c16 in plasma_micromole_l","PUBCHEM16902","PUBCHEM16902",TRUE,FALSE
+"974","PUBCHEM51000598","c182 in plasma, micromole/L",NA,NA,NA,NA,NA,NA,NA,NA,NA,"PUBCHEM51000598",NA,NA,NA,NA,NA,"c182 in plasma_micromole_l","PUBCHEM51000598","PUBCHEM51000598",TRUE,FALSE

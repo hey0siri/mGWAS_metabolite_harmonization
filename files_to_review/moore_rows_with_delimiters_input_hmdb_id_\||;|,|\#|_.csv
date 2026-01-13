@@ -1,0 +1,25 @@
+"metabolite_id","input_metabolite_name","input_hmdb_id","input_pubchem","input_chemspider","input_kegg","input_inchikey","input_chebi"
+"COMP54762","lamotrigine","HMDB14695,HMDB05043","3878",NA,"","",NA
+"HMDB00072_HMDB00958","aconitate [cis or trans]","HMDB00072,HMDB00958","",NA,"C00417,C02341","",NA
+"HMDB00148_HMDB03339","Glutamate","HMDB00148;HMDB03339","611",NA,"","",NA
+"HMDB00148_HMDB03339","glutamate","HMDB00148;HMDB03339","611",NA,"","",NA
+"HMDB00148_HMDB03339","glutamate","HMDB00148_HMDB03339","",NA,"","",NA
+"HMDB00417_HMDB00801","phytanate","HMDB00417,HMDB00801,HMDB00553","26840",NA,"C01607","",NA
+"HMDB01388_HMDB03073","Linolenate _alpha or gamma; (18:3n3 or 6)_","HMDB01388;HMDB03073","5280934",NA,"","",NA
+"HMDB01388_HMDB03073","linolenate [alpha or gamma; (18:3n3 or 6)]","HMDB01388;HMDB03073","5280934",NA,"","",NA
+"HMDB01388_HMDB03073","linolenate [alpha or gamma; (18:3n3 or 6)]","HMDB01388,HMDB03073","",NA,"","",NA
+"HMDB01388_HMDB03073","linolenate [alpha or gamma; (18:3n3 or 6)]","HMDB01388,HMDB03073","",NA,"","",NA
+"HMDB01539_HMDB03334","Dimethylarginine (SDMA + ADMA)","HMDB01539;HMDB03334","123831",NA,"","",NA
+"HMDB01539_HMDB03334","dimethylarginine (SDMA + ADMA)","HMDB01539;HMDB03334","123831",NA,"","",NA
+"HMDB02917_HMDB00568","Xylitol","HMDB02917;HMDB00568","6912",NA,"","",NA
+"HMDB02917_HMDB00568","xylitol","HMDB02917;HMDB00568","6912",NA,"","",NA
+"HMDB06528","Docosapentaenoate (n3 DPA; 22:5n3)","HMDB06528;HMDB01976","6441454",NA,"","",NA
+"HMDB06528","docosapentaenoate (n3 DPA; 22:5n3)","HMDB06528;HMDB01976","6441454",NA,"","",NA
+"HMDB06528","docosapentaenoate (n3 DPA; 22:5n3)","HMDB01976,HMDB06528","6441454",NA,"C16513","",NA
+"HMDB07103","1-palmitoyl-2-linoleoyl-glycerol (16:0/18:2)*","HMDB05207,HMDB07103","",NA,"","",NA
+"HMDB07131","1-palmitoleoyl-2-oleoyl-glycerol (16:1/18:1)*","HMDB05222,HMDB07131","",NA,"","",NA
+"HMDB11549_HMDB11572","1-arachidonylglycerol","HMDB11549;HMDB11572","5282281",NA,"","",NA
+"HMDB13448_HMDB13454","PC ae C42:4","HMDB13448_HMDB13454","",NA,"","",NA
+"HMDB13448_HMDB13454","PC ae C42:4","HMDB13448_HMDB13454","",NA,"","",NA
+"HMDB59911","4-acetaminophen sulfate","HMDB01859;HMDB59911","83939",NA,"","",NA
+"HMDB59911","4-acetaminophen sulfate","HMDB01859;HMDB59911","83939",NA,"","",NA

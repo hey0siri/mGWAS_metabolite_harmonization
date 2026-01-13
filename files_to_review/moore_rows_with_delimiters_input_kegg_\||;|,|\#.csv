@@ -1,0 +1,4 @@
+"metabolite_id","input_metabolite_name","input_hmdb_id","input_pubchem","input_chemspider","input_kegg","input_inchikey","input_chebi"
+"CHEM100001514","nifedipine","","4485",NA,"D00437,C07266","",NA
+"HMDB00072_HMDB00958","aconitate [cis or trans]","HMDB00072,HMDB00958","",NA,"C00417,C02341","",NA
+"HMDB01388_HMDB03073","linolenate [alpha or gamma; (18:3n3 or 6)]","HMDB03073","5280934",NA,"C06426,C06427","",NA

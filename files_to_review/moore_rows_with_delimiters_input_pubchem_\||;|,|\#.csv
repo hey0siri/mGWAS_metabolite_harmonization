@@ -1,0 +1,166 @@
+"metabolite_id","input_metabolite_name","input_hmdb_id","input_pubchem","input_chemspider","input_kegg","input_inchikey","input_chebi"
+"CHEM100000687","ciprofloxacin","","4011971;2764",NA,"","",NA
+"CHEM100001274","N-acetylthreonine","","152204;4651717",NA,"","",NA
+"CHEM100001274","N-acetylthreonine","","152204;4651717",NA,"","",NA
+"CHEM100001992","4-androsten-3beta,17beta-diol disulfate 1*","HMDB03818","10634;87120982;87120980",NA,"","",NA
+"CHEM100001992","4-androsten-3beta,17beta-diol disulfate 1*","HMDB03818","10634;87120982;87120980",NA,"","",NA
+"CHEM100001994","4-androsten-3beta,17beta-diol disulfate 2*","HMDB03818","10634;87120982;87120980",NA,"","",NA
+"CHEM100001994","4-androsten-3beta,17beta-diol disulfate 2*","HMDB03818","10634;87120982;87120980",NA,"","",NA
+"CHEM100003162","histidylleucine","","189008;6992010",164234,"","",NA
+"CHEM100003162","histidylleucine","","189008;6992010",NA,"","",NA
+"CHEM100003163","isoleucylalanine","","5246009;5246010",NA,"","",NA
+"CHEM100003178","isoleucylvaline","","5246011;435949",NA,"","",NA
+"CHEM100003184","leucylglutamate","","5259589;5259590",NA,"","",NA
+"CHEM100003184","leucylglutamate","","5259589;5259590",NA,"","",NA
+"CHEM100003208","tyrosylleucine","","87071;7009561",NA,"","",NA
+"CHEM100003589","phenylalanylalanine","","6993123;5488196",NA,"","",NA
+"CHEM100003589","phenylalanylalanine","","6993123;5488196",NA,"","",NA
+"CHEM100003645","valylphenylalanine","","6993119;6993120",NA,"","",NA
+"CHEM100003645","valylphenylalanine","","6993119;6993120",NA,"","",NA
+"CHEM100003645","valylphenylalanine","","6993119;6993120",NA,"","",NA
+"CHEM100003650","valylvaline","","409682;4280382",NA,"","",NA
+"CHEM100003892","lanthionine","","6994972;98504",88959,"","",NA
+"CHEM100003892","lanthionine","","6994972;98504",NA,"","",NA
+"CHEM100004056","N-methyltaurine","","6994586;7882",7594,"","",NA
+"CHEM100005383","N-methylpipecolate","","11862129;11286529",NA,"","",NA
+"CHEM100005383","N-methylpipecolate","","11862129;11286529",9461516,"","",NA
+"CHEM100005383","N-methylpipecolate","","11862129;11286529",NA,"","",NA
+"CHEM100005383","N-methylpipecolate","","11862129;11286529",NA,"","",NA
+"CHEM100005840","allo-isoleucine","","6950182;99288",NA,"","",NA
+"CHEM100005840","allo-isoleucine","","6950182;99288",NA,"","",NA
+"CHEM100005840","allo-isoleucine","","6950182;99288",NA,"","",NA
+"CHEM100006108","X - 18446","","101724840;101724800",NA,"","",NA
+"CHEM100006115","arabonate/xylonate","","122045;6602431",NA,"","",NA
+"CHEM100006430","arabitol/xylitol","","6912;94154",NA,"","",NA
+"CHEM100008928","2-hydroxybutyrate/2-hydroxyisobutyrate","","440864;11671",NA,"","",NA
+"CHEM100008930","oleate/vaccenate (18:1)","","445639;5282761;5281127",NA,"","",NA
+"CHEM100009232","thioproline","","93176;6973609",84120,"","",NA
+"COMP57814","(N(1) + N(8))-acetylspermidine","","123689;496",NA,"","",NA
+"COMP63738","ampicillin","","2174;5244176",NA,"","",NA
+"CSID18953394","1-stearoylglycerophosphocholine","HMDB10384","497299;24779527",NA,"","",NA
+"CSID18953394","1-stearoylglycerophosphocholine (18:0)","HMDB10384","497299;24779527",NA,"","",NA
+"HMDB00020","4-hydroxyphenylacetate","HMDB00020","4693933;127",NA,"","",NA
+"HMDB00020","4-hydroxyphenylacetate","HMDB00020","4693933;127",NA,"","",NA
+"HMDB00045","Adenosine 5'-monophosphate (AMP)","HMDB00045","15938965;6083",NA,"","",NA
+"HMDB00045","adenosine 5'-monophosphate (AMP)","HMDB00045","15938965;6083",NA,"","",NA
+"HMDB00056","Beta-alanine","HMDB00056","239;4755801",NA,"","",NA
+"HMDB00056","beta-alanine","HMDB00056","239;4755801",NA,"","",NA
+"HMDB00067","Cholesterol","HMDB00067","11025495;11025500",NA,"","",NA
+"HMDB00067","cholesterol","HMDB00067","11025495;11025500",NA,"","",NA
+"HMDB00086","Glycerophosphorylcholine (GPC)","HMDB00086","657272;71920",NA,"","",NA
+"HMDB00086","glycerophosphorylcholine (GPC)","HMDB00086","657272;71920",NA,"","",NA
+"HMDB00097","Choline","HMDB00097","170746;305",NA,"","",NA
+"HMDB00097","choline","HMDB00097","170746;305",NA,"","",NA
+"HMDB00098","Xylose","HMDB00098","135191;95259",NA,"","",NA
+"HMDB00098","xylose","HMDB00098","135191;95259",NA,"","",NA
+"HMDB00123","Glycine","HMDB00123","5257127;750",NA,"","",NA
+"HMDB00123","glycine","HMDB00123","5257127;750",NA,"","",NA
+"HMDB00163","maltose","HMDB00163","439341;10991489;10991490",NA,"","",NA
+"HMDB00169","Mannose","HMDB00169","161658;18950",NA,"","",NA
+"HMDB00169","mannose","HMDB00169","161658;18950",NA,"","",NA
+"HMDB00174","fucose","HMDB00174","3034656;19466",NA,"","",NA
+"HMDB00177","Histidine","HMDB00177","7733651426;6274",NA,"","",NA
+"HMDB00177","histidine","HMDB00177","7733651426;6274",NA,"","",NA
+"HMDB00187","Serine","HMDB00187","5951;6857581",NA,"","",NA
+"HMDB00187","serine","HMDB00187","5951;6857581",NA,"","",NA
+"HMDB00192","cystine","HMDB00192","595;67678",NA,"","",NA
+"HMDB00201","Acetylcarnitine","HMDB00201","1;7045767",NA,"","",NA
+"HMDB00201","acetylcarnitine","HMDB00201","1;7045767",NA,"","",NA
+"HMDB00222","Palmitoylcarnitine","HMDB00222","461;11953816",NA,"","",NA
+"HMDB00222","palmitoylcarnitine","HMDB00222","461;11953816",NA,"","",NA
+"HMDB00243","Pyruvate","HMDB00243","107735;1060",NA,"","",NA
+"HMDB00243","pyruvate","HMDB00243","107735;1060",NA,"","",NA
+"HMDB00247","Sorbitol","HMDB00247","107428;5780",NA,"","",NA
+"HMDB00247","sorbitol","HMDB00247","107428;5780",NA,"","",NA
+"HMDB00277","Erythro-sphingosine-1-phosphate","HMDB00277","5283560;10883396",NA,"","",NA
+"HMDB00277","sphingosine 1-phosphate","HMDB00277","5283560;10883396",NA,"","",NA
+"HMDB00336","3-hydroxyisobutyrate","HMDB00336","11966314;87",NA,"","",NA
+"HMDB00336","3-hydroxyisobutyrate","HMDB00336","11966314;87",NA,"","",NA
+"HMDB00574","Cysteine","HMDB00574","5862;6419722",NA,"","",NA
+"HMDB00574","cysteine","HMDB00574","5862;6419722",NA,"","",NA
+"HMDB00640","1,6-anhydroglucose","HMDB00640","11412545;2724705",NA,"","",NA
+"HMDB00640","1,6-anhydroglucose","HMDB00640","11412545;2724705",NA,"","",NA
+"HMDB00684","Kynurenine","HMDB00684","161166;6971029",NA,"","",NA
+"HMDB00684","kynurenine","HMDB00684","161166;6971029",NA,"","",NA
+"HMDB00687","Leucine","HMDB00687","6106;7045798",NA,"","",NA
+"HMDB00687","leucine","HMDB00687","6106;7045798",NA,"","",NA
+"HMDB00699","1-methylnicotinamide","HMDB00699","10129985;10129990",NA,"","",NA
+"HMDB00700","3-hydroxypropanoate","HMDB00700","5459847;68152",NA,"","",NA
+"HMDB00708","Glycoursodeoxycholate","HMDB00708","12310288;12310290",NA,"","",NA
+"HMDB00708","glycoursodeoxycholate","HMDB00708","12310288;12310290",NA,"","",NA
+"HMDB00734","Indoleacrylate","HMDB00734","15030923;5375048",NA,"","",NA
+"HMDB00847","Pelargonate (9:0)","HMDB00847","5461016;8158",NA,"","",NA
+"HMDB00847","pelargonate (9:0)","HMDB00847","5461016;8158",NA,"","",NA
+"HMDB00904","Citrulline","HMDB00904","833;9750",NA,"","",NA
+"HMDB00904","citrulline","HMDB00904","833;9750",NA,"","",NA
+"HMDB01138","N-acetylglutamate","HMDB01138","1549099;70914",NA,"","",NA
+"HMDB01161","Deoxycarnitine","HMDB01161","134;725",NA,"","",NA
+"HMDB01161","deoxycarnitine","HMDB01161","134;725",NA,"","",NA
+"HMDB01325","N-6-trimethyllysine","HMDB01325","159659;440120",NA,"","",NA
+"HMDB01434","3-methoxytyrosine","HMDB01434","1670;9307",NA,"","",NA
+"HMDB01434","3-methoxytyrosine","HMDB01434","1670;9307",NA,"","",NA
+"HMDB01565","choline phosphate","HMDB01565","135437;1014",NA,"","",NA
+"HMDB01929","Ofloxacin","HMDB01929","3288597;4583",NA,"","",NA
+"HMDB01929","ofloxacin","HMDB01929","3288597;4583",NA,"","",NA
+"HMDB02013","Butyrylcarnitine","HMDB02013","213144;439829",NA,"","",NA
+"HMDB02013","butyrylcarnitine","HMDB02013","213144;439829",NA,"","",NA
+"HMDB02068","erucate (22:1n9)","HMDB02068","5281116;8216",NA,"","",NA
+"HMDB02366","Tiglyl carnitine","HMDB02366","22833596;22833600",NA,"","",NA
+"HMDB02366","tiglyl carnitine","HMDB02366","22833596;22833600",NA,"","",NA
+"HMDB02925","Dihomo-linolenate (20:3n3 or n6)","HMDB02925","5312529;5280581",NA,"","",NA
+"HMDB02925","dihomo-linolenate (20:3n3 or n6)","HMDB02925","5312529;5280581",NA,"","",NA
+"HMDB03331","N1-methyladenosine","HMDB03331","5460178;27476",NA,"","",NA
+"HMDB03331","N1-methyladenosine","HMDB03331","5460178;27476",NA,"","",NA
+"HMDB03869","gamma-glutamyllysine","HMDB03869","65254;14284565",NA,"","",NA
+"HMDB03869","gamma-glutamyllysine","HMDB03869","6525414284565;7015685",NA,"","",NA
+"HMDB03869","gamma-glutamyl-epsilon-lysine","HMDB03869","7015684;7015685",5378717,"","",NA
+"HMDB03869","gamma-glutamyllysine","HMDB03869","65254;14284565",NA,"","",NA
+"HMDB03869","gamma-glutamyl-epsilon-lysine","","65254;14284565",NA,"","",NA
+"HMDB04044","N6-methyladenosine","HMDB04044","102175;1869",NA,"","",NA
+"HMDB04705","12,13-hydroxyoctadec-9(Z)-enoate","HMDB04705","10236635;10236640",NA,"","",NA
+"HMDB05015","gabapentin","HMDB05015","3446;6919078",NA,"","",NA
+"HMDB05015","gabapentin","HMDB05015","3446;6919078",3328,"D00332","",NA
+"HMDB05015","gabapentin","HMDB05015","3446;6919078",NA,"","",NA
+"HMDB05065","oleoylcarnitine","HMDB05065","6441392;53477789",NA,"","",NA
+"HMDB05065","Oleoylcarnitine","HMDB05065","6441392;53477789",NA,"","",NA
+"HMDB05065","oleoylcarnitine","HMDB05065","6441392;53477789",NA,"","",NA
+"HMDB05065","oleoylcarnitine (C18:1)","HMDB05065","6441392;53477789",21403150,"","",NA
+"HMDB05065","oleoylcarnitine","HMDB05065","6441392;53477789",NA,"","",NA
+"HMDB05065","oleoylcarnitine","","6441392;53477789",NA,"","",NA
+"HMDB05065","oleoylcarnitine","HMDB05065","6441392;53477789",NA,"","",NA
+"HMDB05065","oleoylcarnitine","","6441392;53477789",NA,"","",NA
+"HMDB05066","myristoylcarnitine","HMDB05066","6426854;53477791",NA,"","",NA
+"HMDB06344","Phenylacetylglutamine","HMDB06344","306137;92258",NA,"","",NA
+"HMDB06344","phenylacetylglutamine","HMDB06344","306137;92258",NA,"","",NA
+"HMDB08923","1,2-dipalmitoyl-GPE (16:0/16:0)*","","11802774;445468",393103,"","",NA
+"HMDB10316","P-acetamidophenylglucuronide","HMDB10316","4022661;83944",NA,"","",NA
+"HMDB10316","p-acetamidophenylglucuronide","HMDB10316","4022661;83944",NA,"","",NA
+"HMDB11170","Gamma-glutamylisoleucine*","HMDB11170","14253342;14253340",NA,"","",NA
+"HMDB11170","gamma-glutamylisoleucine*","HMDB11170","14253342;14253340",NA,"","",NA
+"HMDB11178","prolylglycine","","7408076;6426709",NA,"","",NA
+"HMDB11178","prolylglycine","","7408076;6426709",4932143,"","",NA
+"HMDB11178","prolylglycine","","7408076;6426709",NA,"","",NA
+"HMDB11635","P-cresol sulfate","HMDB11635","4615422;4615423",NA,"","",NA
+"HMDB11635","p-cresol sulfate","HMDB11635","4615422;4615423",NA,"","",NA
+"HMDB13127","X - 12465","HMDB13127","53481617;53481620",NA,"","",NA
+"HMDB13127","hydroxybutyrylcarnitine*","HMDB13127","53481617;53481620",NA,"","",NA
+"HMDB13130","Glutaroyl carnitine","HMDB13130","71464488;71464490",NA,"","",NA
+"HMDB13130","glutarylcarnitine (C5)","HMDB13130","71464488;71464490",NA,"","",NA
+"HMDB13302","phenylalanylphenylalanine","","6993090;6993089",NA,"","",NA
+"HMDB13302","phenylalanylphenylalanine","","6993090;6993089",NA,"","",NA
+"HMDB13302","phenylalanylphenylalanine","","6993090;6993089",NA,"","",NA
+"HMDB14707","cephalexin","HMDB14707","27447;6560168",NA,"","",NA
+"HMDB14707","cephalexin","HMDB14707","27447;6560168",NA,"","",NA
+"HMDB15109","EDTA","HMDB15109","5232305;6049",NA,"","",NA
+"HMDB15109","EDTA","HMDB15109","5232305;6049",NA,"","",NA
+"HMDB15193","amoxicillin","","2171;4663997",2086,"","",NA
+"HMDB29068","threonylphenylalanine","","4099799;4099798",NA,"","",NA
+"HMDB29068","threonylphenylalanine","HMDB29068","4099799;4099798",NA,"","",NA
+"HMDB29068","threonylphenylalanine","","4099799;4099798",NA,"","",NA
+"HMDB29068","threonylphenylalanine","","4099799;4099798",NA,"","",NA
+"HMDB29159","gamma-glutamylthreonine*","HMDB29159","76078708;76078700",NA,"","",NA
+"HMDB29160","gamma-glutamyltryptophan","HMDB29160","3038501;3989307",NA,"","",NA
+"HMDB29412","4-hydroxyproline betaine","HMDB29412","164642;1550239",NA,"","",NA
+"HMDB40594","furaneol","HMDB40594","19309;25200724",NA,"","",NA
+"HMDB61717","Succinylcarnitine","HMDB61717","71464481;71464480",NA,"","",NA
+"HMDB61717","succinylcarnitine","HMDB61717","71464481;71464480",NA,"","",NA
