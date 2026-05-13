@@ -2,6 +2,8 @@ library(dplyr)
 library(tidyverse)
 library(purrr)
 
+base_dir <- getwd()
+
 # =========================
 # Load MetLinkR (from GitHub)
 # =========================
@@ -31,85 +33,202 @@ rampDB <- RaMP(version = "2.5.4")
 # =========================
 # Load data
 # =========================
-merged_database <- read.csv("/Users/heysiri/Documents/mGWAS_metabolite_harmonization/output/comets_moore.merged.csv")
+#merged_database <- read.csv("/Users/heysiri/Documents/mGWAS_metabolite_harmonization/output/comets_moore.merged.csv")
 
-moore_list <- read.csv("/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/fromSteveMoore_metabolite_list.csv")
-comets_original <- load(file.path("/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/compileduids.RData"))
+moore_list.original <- read.csv("/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/fromSteveMoore_metabolite_list.csv")
+comets.original <- load(file.path("/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/compileduids.RData"))
+
+moore_list.preprocessed <- read.csv(file.path(base_dir, "output/moore_list_preprocessed_revised.csv"))
+comets.preprocessed <- read.csv(file.path(base_dir, "output/comets_preprocessed_revised.csv"))
 
 # =========================
 # Build input dataframe 
 # =========================
-#for comets, moore separately
-write.csv(comets_original, "/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/COMETS_metabolite_df.csv")
-COMETS_file_name <- "/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/COMETS_metabolite_df.csv"
-moore_file_name <- "/Users/heysiri/Documents/mGWAS_metabolite_harmonization/original_data/fromSteveMoore_metabolite_list.csv"
+#running comets and moore jointly (as a test)
+COMETS_file_name <- file.path(base_dir, "output/comets_preprocessed_revised.csv")
+moore_file_name <- file.path(base_dir, "output/moore_list_preprocessed_revised.csv")
 metlinkr_input_file <- data.frame("FileNames" = c(COMETS_file_name, moore_file_name),
                                   "ShortFileName" = c("COMETS", "Moore"),
                                   "HMDB" = c("hmdb_id", "input_hmdb_id"),
-                                  "Metabolite_Name" = c("biochemical", "input_metabolite_name"),
+                                  "Metabolite_Name" = c("biochemical_final", "input_metabolite_name_final"),
                                   "PubChem_CID" = c(NA, "input_pubchem"),
                                   "KEGG" = c(NA, "input_kegg"),
                                   "LIPIDMAPS" = c(NA, NA),
                                   "chebi" = c(NA, "input_chebi"))
 
-write.csv(metlinkr_input_file, "metlinkr_input_file_for_merging.csv")
-metLinkR::harmonizeInputSheets("metlinkr_input_file_for_merging.csv")
+write.csv(metlinkr_input_file, file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
+metLinkR::harmonizeInputSheets(file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
 
-#for merged database
-merged_database$hmdb_merged <- with(
-  merged_database,
-  ifelse(
-    is.na(input_hmdb_id_final) & is.na(hmdb_id_final),
-    NA,
-    ifelse(
-      is.na(input_hmdb_id_final),
-      hmdb_id_final,
-      ifelse(
-        is.na(hmdb_id_final),
-        input_hmdb_id_final,
-        ifelse(
-          input_hmdb_id_final == hmdb_id_final,
-          input_hmdb_id_final,
-          paste(input_hmdb_id_final, hmdb_id_final, sep = ";")
-        )
-      )
+# ================================
+# Output Sanity Check + COMETS Merging 
+# ================================
+metlinkr_output_file <- readxl::read_xlsx(file.path(base_dir, "metLinkR_output/mapping_library.xlsx"))
+comets_columns <- c("biochemical_final", "hmdb_id")
+
+metlinkr_lookup.comets <- metlinkr_output_file %>%
+  select(
+    Harmonized_Name = `Harmonized name`, 
+    match_value = `Input name (COMETS)`) %>%
+  filter(match_value != "-") %>% 
+  separate_rows(
+    match_value,
+    sep = "\\s*;\\s*"
+  ) %>%
+  mutate(
+    match_value = stringr::str_trim(match_value)
+  ) %>%
+  distinct()
+
+comets.hmdb_merged <- comets.preprocessed %>%
+  left_join(
+    metlinkr_lookup.comets,
+    by = c("hmdb_id" = "match_value")
+  ) %>%
+  rename(HMDB_Harmonized_Name = Harmonized_Name)
+
+
+comets.biochemical_merged <- comets.hmdb_merged %>%
+  left_join(
+    metlinkr_lookup.comets,
+    by = c("biochemical_final" = "match_value")
+  ) %>%
+  rename(Biochemical_final_Harmonized_Name = Harmonized_Name) %>%
+  left_join(
+    metlinkr_lookup.comets,
+    by = c("biochemical" = "match_value")
+  ) %>%
+  rename(Biochemical_orig_Harmonized_Name = Harmonized_Name) %>%
+  mutate(
+    Biochemical_Harmonized_Name = coalesce(
+      Biochemical_final_Harmonized_Name,
+      Biochemical_orig_Harmonized_Name
     )
+  ) %>%
+  
+  select(
+    -Biochemical_final_Harmonized_Name,
+    -Biochemical_orig_Harmonized_Name
   )
-)
-merged_database <-merged_database %>% select (-input_hmdb_id_final, -hmdb_id_final)
 
-merged_database$biochemical_merged <- with(
-  merged_database,
-  ifelse(
-    is.na(biochemical_final_final_final) & is.na(input_metabolite_name_final),
-    NA,
-    ifelse(
-      is.na(biochemical_final_final_final),
-      input_metabolite_name_final,
-      ifelse(
-        is.na(input_metabolite_name_final),
-        biochemical_final_final_final,
-        ifelse(
-          biochemical_final_final_final == input_metabolite_name_final,
-          biochemical_final_final_final,
-          paste(biochemical_final_final_final, input_metabolite_name_final, sep = ";")
-        )
-      )
+comets.metlinkr <- comets.biochemical_merged %>%
+  mutate(
+    MLR_Harmonized_Name = coalesce(
+      HMDB_Harmonized_Name,
+      Biochemical_Harmonized_Name
     )
-  )
+  ) %>%
+  select(-HMDB_Harmonized_Name, -Biochemical_Harmonized_Name) 
+
+
+# ================================
+# Output Sanity Check + MetLinkR Merging 
+# ================================
+id_cols <- c(
+  "input_hmdb_id",
+  "input_pubchem",
+  "input_chemspider",
+  "input_kegg",
+  "input_chebi"
 )
-merged_database <-merged_database %>% select (-biochemical_final_final_final, -input_metabolite_name_final)
-merged_file_name <- "/Users/heysiri/Documents/mGWAS_metabolite_harmonization/output/comets_moore_merged_collapsed.csv"
 
-write_csv(merged_database, merged_file_name)
-merged_metlinkr_input_file <- data.frame("FileNames" = merged_file_name,
-                                         "ShortFileName" = "moore_COMETS_merged",
-                                         "HMDB" = "hmdb_merged",
-                                         "Metabolite_Name" = "biochemical_merged",
-                                         "PubChem_CID" = "input_pubchem_final",
-                                         "KEGG" = "input_kegg_final",
-                                         "LIPIDMAPS" = NA,
-                                         "chebi" = "input_chebi_final")
-write.csv(merged_metlinkr_input_file, "metlinkr_input_file_merged_for_merging.csv")
-metLinkR::harmonizeInputSheets("metlinkr_input_file_merged_for_merging.csv")
+moore_list.preprocessed <- moore_list.preprocessed %>%
+  mutate(across(all_of(id_cols), as.character))
 
+metlinkr_lookup.moore <- metlinkr_output_file %>%
+  select(
+    Harmonized_Name = `Harmonized name`, 
+    match_value = `Input name (Moore)`) %>%
+  filter(match_value != "-") %>% 
+  separate_rows(
+    match_value,
+    sep = "\\s*;\\s*"
+  ) %>%
+  mutate(
+    match_value = stringr::str_trim(match_value)
+  ) %>%
+  distinct()
+
+moore.hmdb_merged <- moore_list.preprocessed %>%
+  left_join(
+    metlinkr_lookup.moore,
+    by = c("input_hmdb_id" = "match_value")
+  ) %>%
+  rename(HMDB_Harmonized_Name = Harmonized_Name)
+
+moore.pubchem_merged <- moore.hmdb_merged %>% 
+  left_join(
+    metlinkr_lookup.moore,
+    by = c("input_pubchem" = "match_value")
+  ) %>%
+  rename(Pubchem_Harmonized_Name = Harmonized_Name)
+
+moore.chemspider_merged <- moore.pubchem_merged %>% 
+  left_join(
+    metlinkr_lookup.moore,
+    by = c("input_chemspider" = "match_value")
+  ) %>%
+  rename(Chemspider_Harmonized_Name = Harmonized_Name)
+
+moore.kegg_merged <- moore.chemspider_merged %>% 
+  left_join(
+    metlinkr_lookup.moore,
+    by = c("input_kegg" = "match_value")
+  ) %>%
+  rename(Kegg_Harmonized_Name = Harmonized_Name)
+
+moore.chebi_merged <- moore.kegg_merged %>% 
+  left_join(
+    metlinkr_lookup.moore,
+    by = c("input_chebi" = "match_value")
+  ) %>%
+  rename(Chebi_Harmonized_Name = Harmonized_Name)
+
+
+moore.inchikey_merged <- moore.chebi_merged %>% 
+  left_join(
+    metlinkr_lookup.moore,
+    by = c("input_inchikey" = "match_value")
+  ) %>%
+  rename(Inchikey_Harmonized_Name = Harmonized_Name)
+
+
+
+moore.biochemical_merged <- moore.inchikey_merged %>%
+  left_join(
+    metlinkr_lookup,
+    by = c("input_metabolite_name_final" = "match_value")
+  ) %>%
+  rename(Biochemical_final_Harmonized_Name = Harmonized_Name) %>%
+  left_join(
+    metlinkr_lookup,
+    by = c("input_metabolite_name" = "match_value")
+  ) %>%
+  rename(Biochemical_orig_Harmonized_Name = Harmonized_Name) %>%
+  mutate(
+    Biochemical_Harmonized_Name = coalesce(
+      Biochemical_final_Harmonized_Name,
+      Biochemical_orig_Harmonized_Name
+    )
+  ) %>%
+  
+  select(
+    -Biochemical_final_Harmonized_Name,
+    -Biochemical_orig_Harmonized_Name
+  )
+
+moore.metlinkr <- moore.biochemical_merged %>%
+  mutate(
+    MLR_Harmonized_Name = coalesce(
+      HMDB_Harmonized_Name,
+      Biochemical_Harmonized_Name,
+      Inchikey_Harmonized_Name,
+      Chebi_Harmonized_Name, 
+      Kegg_Harmonized_Name,
+      Chemspider_Harmonized_Name,
+      Pubchem_Harmonized_Name
+    )
+  ) %>%
+  select(-HMDB_Harmonized_Name, -Biochemical_Harmonized_Name, -Inchikey_Harmonized_Name, -Chebi_Harmonized_Name, -Kegg_Harmonized_Name, -Chemspider_Harmonized_Name, -Pubchem_Harmonized_Name) 
+
+write.csv(comets.metlinkr, file.path(base_dir, "/output/comets_metlinkr_merged.csv"))
+write.csv(moore.metlinkr, file.path(base_dir, "/output/moore_metlinkr_merged.csv"))

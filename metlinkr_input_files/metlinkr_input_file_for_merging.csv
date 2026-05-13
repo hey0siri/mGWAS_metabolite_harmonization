@@ -1,0 +1,3 @@
+"","FileNames","ShortFileName","HMDB","Metabolite_Name","PubChem_CID","KEGG","LIPIDMAPS","chebi"
+"1","/Users/heysiri/Documents/mGWAS_metabolite_harmonization/output/comets_preprocessed_revised.csv","COMETS","hmdb_id","biochemical_final",NA,NA,NA,NA
+"2","/Users/heysiri/Documents/mGWAS_metabolite_harmonization/output/moore_list_preprocessed_revised.csv","Moore","input_hmdb_id","input_metabolite_name_final","input_pubchem","input_kegg",NA,"input_chebi"
