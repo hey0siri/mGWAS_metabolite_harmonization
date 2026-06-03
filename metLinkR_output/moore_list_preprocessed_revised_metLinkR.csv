@@ -3105,6 +3105,7 @@
 "d_glucose","4500",TRUE,FALSE,1,"HMDB0000122","HMDB00122",NA,"D-glucose",NA,NA,NA,NA,FALSE,FALSE,NA,"Glucose"
 "d_glucose","4500",TRUE,FALSE,1,"HMDB0000122","HMDB00122",NA,"D-glucose",NA,NA,NA,NA,FALSE,FALSE,NA,"Glucose"
 "d_glucose","4500",TRUE,FALSE,1,"HMDB0000122","HMDB00122",NA,"D-glucose",NA,NA,NA,NA,FALSE,FALSE,NA,"Glucose"
+"d_glucose","4500",TRUE,FALSE,1,"HMDB0000122","HMDB00122",NA,"D-glucose",NA,NA,NA,NA,FALSE,FALSE,NA,"Glucose"
 "d_lyxose","6267",TRUE,FALSE,1,"HMDB0003402","HMDB03402",NA,"D-lyxose",NA,NA,NA,NA,FALSE,FALSE,NA,"Galacturonic acid"
 "d_lyxose","6267",TRUE,FALSE,1,"HMDB0003402","HMDB03402",NA,"D-lyxose",NA,NA,NA,NA,FALSE,FALSE,NA,"Galacturonic acid"
 "d_lyxose","6267",TRUE,FALSE,1,"HMDB0003402","HMDB03402",NA,"D-lyxose",NA,NA,NA,NA,FALSE,FALSE,NA,"Galacturonic acid"
@@ -5636,7 +5637,7 @@
 "phenylalanylaspartate","1993",TRUE,FALSE,1,NA,"CHEM100003595","335051","phenylalanylaspartate",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Asp"
 "phenylalanylglutamate","1994",TRUE,FALSE,1,NA,"CHEM100003596","4422358","phenylalanylglutamate",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Glu"
 "phenylalanylglycine","7580",TRUE,FALSE,1,"HMDB0028995","HMDB28995","98207","phenylalanylglycine",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Gly"
-"phenylalanylhydroxyproline","3896",TRUE,FALSE,1,NA,"COMP63039",NA,"phenylalanylhydroxyproline*",NA,NA,NA,NA,FALSE,FALSE,NA,NA
+"phenylalanylhydroxyproline","3896",TRUE,FALSE,1,NA,"COMP63039",NA,"phenylalanylhydroxyproline*",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Hyp"
 "phenylalanylisoleucine","1952",TRUE,FALSE,1,NA,"CHEM100003199","7010566","phenylalanylisoleucine",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Ile"
 "phenylalanylleucine","1953",TRUE,FALSE,1,NA,"CHEM100003200","4078229","phenylalanylleucine",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Leu"
 "phenylalanylmethionine","1991",TRUE,FALSE,1,NA,"CHEM100003591",NA,"phenylalanylmethionine",NA,NA,NA,NA,FALSE,FALSE,NA,"Phe-Met"
