@@ -2,7 +2,7 @@ library(dplyr)
 library(tidyverse)
 library(purrr)
 base_dir <- getwd()
-
+source(file.path(base_dir, "scripts/helpers_metabolite_utils.R"))
 # =========================
 # Load preprocessed metabolite dataframes
 # =========================
@@ -164,67 +164,67 @@ all_merged <- all_merged %>% select(-X_moore, -X_comets)
 # [26] "n_source_rows_comets"        "multiple_identifiers_comets" "multiple_isomers_comets"     "biochemical_final"           "MLR_Harmonized_Name_comets" 
 # [31] ".row_id_comets"  
 
-group_cols <- c("input_metabolite_name_final", "biochemical_final")
-id_cols <- c("input_hmdb_id", "input_pubchem", "input_chemspider", "input_kegg", "input_inchikey", "input_chebi", "hmdb_id", "uid_01")
-
-mult_rows <- all_merged %>%
-  dplyr::filter(
-    Reduce(`|`, lapply(across(all_of(id_cols)), has_delimiter))
-  )
-df_clean <- all_merged %>%
-  dplyr::filter(
-    !Reduce(`|`, lapply(across(all_of(id_cols)), has_delimiter))
-  )
-expanded.test_df <- collapse_if_consistent_with_provenance(df_clean, group_cols, id_cols)
-
-
-collapse_unique <- function(x) {
-  
-  vals <- x %>%
-    as.character() %>%
-    na.omit() %>%
-    unique()
-  
-  vals <- vals[vals != ""]
-  
-  if(length(vals) == 0) return(NA)
-  
-  paste(vals, collapse = "|")
-}
-
-collapse_index <- function(x) {
-  
-  x %>%
-    as.character() %>%
-    str_split("\\|") %>%
-    unlist() %>%
-    unique() %>%
-    sort() %>%
-    paste(collapse="|")
-}
-
-group_cols <- c(
-  "input_hmdb_id",
-  "hmdb_id",
-  "MLR_Harmonized_Name_moore",
-  "MLR_Harmonized_Name_comets"
-)
-
-collapsed_merged <- all_merged %>%
-  
-  group_by(across(all_of(group_cols))) %>%
-  
-  summarise(
-    
-    across(
-      everything(),
-      collapse_index
-    ),
-    
-    n_merged_rows = n(),
-    
-    .groups = "drop"
-  )
-
-write.csv(collapsed_merged, file.path(base_dir, "/output/draft_comets_moore_merged_collapsed.csv"))
+# group_cols <- c("input_metabolite_name_final", "biochemical_final")
+# id_cols <- c("input_hmdb_id", "input_pubchem", "input_chemspider", "input_kegg", "input_inchikey", "input_chebi", "hmdb_id", "uid_01")
+# 
+# mult_rows <- all_merged %>%
+#   dplyr::filter(
+#     Reduce(`|`, lapply(across(all_of(id_cols)), has_delimiter))
+#   )
+# df_clean <- all_merged %>%
+#   dplyr::filter(
+#     !Reduce(`|`, lapply(across(all_of(id_cols)), has_delimiter))
+#   )
+# expanded.test_df <- collapse_if_consistent_with_provenance(df_clean, group_cols, id_cols)
+# 
+# 
+# collapse_unique <- function(x) {
+#   
+#   vals <- x %>%
+#     as.character() %>%
+#     na.omit() %>%
+#     unique()
+#   
+#   vals <- vals[vals != ""]
+#   
+#   if(length(vals) == 0) return(NA)
+#   
+#   paste(vals, collapse = "|")
+# }
+# 
+# collapse_index <- function(x) {
+#   
+#   x %>%
+#     as.character() %>%
+#     str_split("\\|") %>%
+#     unlist() %>%
+#     unique() %>%
+#     sort() %>%
+#     paste(collapse="|")
+# }
+# 
+# group_cols <- c(
+#   "input_hmdb_id",
+#   "hmdb_id",
+#   "MLR_Harmonized_Name_moore",
+#   "MLR_Harmonized_Name_comets"
+# )
+# 
+# collapsed_merged <- all_merged %>%
+#   
+#   group_by(across(all_of(group_cols))) %>%
+#   
+#   summarise(
+#     
+#     across(
+#       everything(),
+#       collapse_index
+#     ),
+#     
+#     n_merged_rows = n(),
+#     
+#     .groups = "drop"
+#   )
+# 
+# write.csv(collapsed_merged, file.path(base_dir, "/output/draft_comets_moore_merged_collapsed.csv"))
 write.csv(all_merged, file.path(base_dir, "/output/draft_comets_moore_merged.csv"))

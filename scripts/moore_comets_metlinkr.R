@@ -8,10 +8,17 @@ base_dir <- getwd()
 # Load MetLinkR (from GitHub)
 # =========================
 # Locally install RaMP
-install.packages("devtools")
+if (!requireNamespace("devtools", quietly = TRUE)) {
+  
+  install.packages("devtools", repos = "https://cloud.r-project.org")
+  
+}
+
+
 library(devtools)
-load_all("/Users/heysiri/MetLinkR")
+#load_all("/Users/heysiri/MetLinkR")
 #install_github("ncats/RAMP-DB")
+devtools::install_github("hey0siri/MetLinkR")
 
 # Load the package
 library(RaMP)
@@ -57,7 +64,24 @@ metlinkr_input_file <- data.frame("FileNames" = c(COMETS_file_name, moore_file_n
                                   "chebi" = c(NA, "input_chebi"))
 
 write.csv(metlinkr_input_file, file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
-metLinkR::harmonizeInputSheets(file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
+
+#metLinkR::harmonizeInputSheets(file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
+mapping_library_path <- file.path(base_dir, "metLinkR_output/mapping_library.xlsx")
+
+
+if (!file.exists(mapping_library_path)) {
+  
+  metLinkR::harmonizeInputSheets(
+    
+    file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv")
+    
+  )
+  
+} else {
+  
+  message("Using existing metLinkR_output/mapping_library.xlsx; skipping MetLinkR rerun.")
+  
+}
 
 # ================================
 # Output Sanity Check + COMETS Merging 
@@ -195,12 +219,12 @@ moore.inchikey_merged <- moore.chebi_merged %>%
 
 moore.biochemical_merged <- moore.inchikey_merged %>%
   left_join(
-    metlinkr_lookup,
+    metlinkr_lookup.moore,
     by = c("input_metabolite_name_final" = "match_value")
   ) %>%
   rename(Biochemical_final_Harmonized_Name = Harmonized_Name) %>%
   left_join(
-    metlinkr_lookup,
+    metlinkr_lookup.moore,
     by = c("input_metabolite_name" = "match_value")
   ) %>%
   rename(Biochemical_orig_Harmonized_Name = Harmonized_Name) %>%
