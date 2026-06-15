@@ -1,0 +1,250 @@
+"","input_hmdb_id","input_pubchem","metabolite_id","input_metabolite_name_final","original_index","contains_original","contains_derived","n_source_rows","input_metabolite_name","input_chemspider","input_kegg","input_inchikey","input_chebi","multiple_identifiers","multiple_isomers","original"
+"1","","","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","5846",TRUE,FALSE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"","",NA,FALSE,FALSE,TRUE
+"2","","","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","5847",TRUE,FALSE,NA,"Linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"","",NA,FALSE,FALSE,TRUE
+"3","","","HMDB02925","dihomo_linolenate_20_3n3 or n6","6183",TRUE,FALSE,NA,"dihomo-linolenate (20:3n3 or n6)",NA,"","",NA,FALSE,FALSE,TRUE
+"4","","","HMDB02925","dihomo_linolenate_20_3n3 or n6","6184",TRUE,FALSE,NA,"Dihomo-linolenate (20:3n3 or n6)",NA,"","",NA,FALSE,FALSE,TRUE
+"5","","11671","CHEM100008928","2_hydroxybutyrate_2_hydroxyisobutyrate","8007",FALSE,TRUE,1,"2-hydroxybutyrate/2-hydroxyisobutyrate",NA,NA,NA,NA,TRUE,FALSE,NA
+"6","","122045","CHEM100006115","arabonate_xylonate","8005",FALSE,TRUE,1,"arabonate/xylonate",NA,NA,NA,NA,TRUE,FALSE,NA
+"7","","440864","CHEM100008928","2_hydroxybutyrate_2_hydroxyisobutyrate","8007",FALSE,TRUE,NA,"2-hydroxybutyrate/2-hydroxyisobutyrate",NA,"","",NA,TRUE,FALSE,FALSE
+"8","","445639","CHEM100008930","oleate_vaccenate_18_1","8008",FALSE,TRUE,1,"oleate/vaccenate (18:1)",NA,NA,NA,NA,TRUE,FALSE,NA
+"9","","5280581","HMDB02925","dihomo_linolenate_20_3n3 or n6","6189",TRUE,FALSE,1,"dihomo-linolenate (20:3n3 or n6)",NA,NA,NA,NA,FALSE,FALSE,NA
+"10","","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","5850|5851",TRUE,FALSE,2,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"C06427",NA,NA,FALSE,FALSE,NA
+"11","","5281127","CHEM100008930","oleate_vaccenate_18_1","8008",FALSE,TRUE,1,"oleate/vaccenate (18:1)",NA,NA,NA,NA,TRUE,FALSE,NA
+"12","","5282761","CHEM100008930","oleate_vaccenate_18_1","8008",FALSE,TRUE,1,"oleate/vaccenate (18:1)",NA,NA,NA,NA,TRUE,FALSE,NA
+"13","","6602431","CHEM100006115","arabonate_xylonate","8005",FALSE,TRUE,1,"arabonate/xylonate",NA,NA,NA,NA,TRUE,FALSE,NA
+"14","","6912","CHEM100006430","arabitol_xylitol","8006",FALSE,TRUE,1,"arabitol/xylitol",NA,NA,NA,NA,TRUE,FALSE,NA
+"15","","94154","CHEM100006430","arabitol_xylitol","8006",FALSE,TRUE,1,"arabitol/xylitol",NA,NA,NA,NA,TRUE,FALSE,NA
+"16","HMDB0000072","","HMDB00072_HMDB00958","aconitate_cis or trans","8022",FALSE,TRUE,NA,"aconitate [cis or trans]",NA,"C00417","",NA,TRUE,TRUE,FALSE
+"17","HMDB0000072",NA,"HMDB00072_HMDB00958","aconitate_cis or trans","4423",TRUE,FALSE,NA,"aconitate [cis or trans]",NA,"C00417",NA,NA,FALSE,FALSE,TRUE
+"18","HMDB0000215","24139","HMDB0000212_HMDB00215","n_acetylglucosamine_n_acetylgalactosamine","4254",TRUE,FALSE,1,"N-acetylglucosamine/N-acetylgalactosamine",NA,NA,NA,NA,FALSE,FALSE,NA
+"19","HMDB0000247","5780","CHEM100001740","mannitol_sorbitol","1764",TRUE,FALSE,1,"mannitol/sorbitol",440,"C01507",NA,NA,FALSE,FALSE,NA
+"20","HMDB0000286",NA,"HMDB00286","udp_galactose_udp_glucose","5023",TRUE,FALSE,1,"UDP-galactose/UDP-glucose",NA,NA,NA,NA,FALSE,FALSE,NA
+"21","HMDB0000488","5799469","HMDB00488","bilirubin_e_z or z_e","5154",TRUE,FALSE,1,"bilirubin (E,Z or Z,E)*",4705847,NA,NA,NA,FALSE,FALSE,NA
+"22","HMDB0000626","440355","CHEM100002178","deoxycholate_chenodeoxycholate","1879",TRUE,FALSE,1,"deoxycholate/chenodeoxycholate",NA,NA,NA,NA,FALSE,FALSE,NA
+"23","HMDB0000631",NA,"HMDB00631","glycodeoxycholate_glycochenodeoxycholate","5249",TRUE,FALSE,1,"glycodeoxycholate/glycochenodeoxycholate",NA,NA,NA,NA,FALSE,FALSE,NA
+"24","HMDB0000874",NA,"HMDB00874","taurohyodeoxycholate_tauroursodeoxycholate","5640",TRUE,FALSE,1,"taurohyodeoxycholate/tauroursodeoxycholate",NA,NA,NA,NA,FALSE,FALSE,NA
+"25","HMDB0000958","","HMDB00072_HMDB00958","aconitate_cis or trans","8022",FALSE,TRUE,NA,"aconitate [cis or trans]",NA,"C02341","",NA,TRUE,TRUE,FALSE
+"26","HMDB0001388","","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","5849|8076",TRUE,TRUE,2,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"C06427",NA,NA,FALSE,FALSE,NA
+"27","HMDB0001388","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8074|8075",FALSE,TRUE,2,"Linolenate _alpha or gamma; (18:3n3 or 6)_",NA,NA,NA,NA,TRUE,FALSE,NA
+"28","HMDB0001388",NA,"HMDB01388","18_3n3 or 6","5842",TRUE,FALSE,1,"(18:3n3 or 6)]",NA,"Lipid",NA,NA,FALSE,FALSE,NA
+"29","HMDB0002231","5282768","HMDB02231","eicosenoate_20_1n9 or 11","6086",TRUE,FALSE,1,"eicosenoate (20:1n9 or 11)",NA,NA,NA,NA,FALSE,FALSE,NA
+"30","HMDB0002925","","HMDB02925","dihomo_linolenate_20_3n3 or n6","6185|6190",TRUE,FALSE,2,"dihomo-linolenate (20:3n3 or n6)",NA,"C03242",NA,NA,FALSE,FALSE,NA
+"31","HMDB0002925","5280581","HMDB02925","dihomo_linolenate_20_3n3 or n6","6182|6186|6188|8091|8092",TRUE,TRUE,5,"dihomo-linolenate (20:3n3 or n6)",4471954,"C03242",NA,NA,FALSE,FALSE,NA
+"32","HMDB0002925","5312529","HMDB02925","dihomo_linolenate_20_3n3 or n6","6187|8091|8092",TRUE,TRUE,3,"dihomo-linolenate (20:3n3 or n6)",NA,"C03242",NA,NA,FALSE,FALSE,NA
+"33","HMDB0003073","","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8076",FALSE,TRUE,1,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,NA,NA,NA,TRUE,FALSE,NA
+"34","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","5845",TRUE,FALSE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"","",NA,FALSE,FALSE,TRUE
+"35","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","5848",TRUE,FALSE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",4444437,"C06426","",NA,FALSE,FALSE,TRUE
+"36","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8074",FALSE,TRUE,NA,"Linolenate _alpha or gamma; (18:3n3 or 6)_",NA,"","",NA,TRUE,FALSE,FALSE
+"37","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8075",FALSE,TRUE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"","",NA,TRUE,FALSE,FALSE
+"38","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8077",FALSE,TRUE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"C06426","",NA,TRUE,FALSE,FALSE
+"39","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8077",FALSE,TRUE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"C06427","",NA,TRUE,FALSE,FALSE
+"40","HMDB0010394",NA,"HMDB10394","1_dihomo_linolenoyl_gpc_20_3n3 or 6","6949",TRUE,FALSE,1,"1-dihomo-linolenoyl-GPC (20:3n3 or 6)*",21403156,NA,NA,NA,FALSE,FALSE,NA
+"41","HMDB0037397","3083779","HMDB37397","16 or 17_methylstearate_a19_0 or i19_0","7658",TRUE,FALSE,1,"(16 or 17)-methylstearate (a19:0 or i19:0)",NA,NA,NA,NA,FALSE,FALSE,NA
+"42",NA,"146570","HMDB05028","citalopram_escitalopram","6396",TRUE,FALSE,1,"citalopram/escitalopram",NA,NA,NA,NA,FALSE,FALSE,NA
+"43",NA,"17903417","CHEM100002945","14 or 15_methylpalmitate_a17_0 or i17_0","1902",TRUE,FALSE,1,"(14 or 15)-methylpalmitate (a17:0 or i17:0)",NA,NA,NA,NA,FALSE,FALSE,NA
+"44",NA,"17903417","CHEM100002945","methyl palmitate_15 or 2","1906",TRUE,FALSE,1,"Methyl palmitate (15 or 2)",NA,NA,NA,NA,FALSE,FALSE,NA
+"45",NA,"264","COMP40605","butyrate_isobutyrate_4_0","3119",TRUE,FALSE,1,"butyrate/isobutyrate (4:0)",NA,NA,NA,NA,FALSE,FALSE,NA
+"46",NA,"5127902","CHEM100002015","5alpha_pregnan_3_alpha or beta_20beta_diol disulfate","1833",TRUE,FALSE,1,"5alpha-pregnan-3(alpha or beta),20beta-diol disulfate",4302261,NA,NA,NA,FALSE,FALSE,NA
+"47",NA,"5280581","HMDB02925","dihomolinolenate_20_3n3 or 3n6","6191",TRUE,FALSE,1,"dihomolinolenate (20:3n3 or 3n6)",NA,NA,NA,NA,FALSE,FALSE,NA
+"48",NA,"5280934","HMDB01388_HMDB03073","linolenate_18_3n3 or 3n6","5844",TRUE,FALSE,1,"linolenate (18:3n3 or 3n6)",NA,NA,NA,NA,FALSE,FALSE,NA
+"49",NA,"5282768","HMDB02231","eicosenoate_20_1n9 or 1n11","6087",TRUE,FALSE,1,"eicosenoate (20:1n9 or 1n11)",NA,NA,NA,NA,FALSE,FALSE,NA
+"50",NA,"6912","CHEM100006430","arabitol_xylitol","2194",TRUE,FALSE,1,"arabitol/xylitol",NA,NA,NA,NA,FALSE,FALSE,NA
+"51",NA,NA,"BIOCHEM_3HYDHEXTETCARNITINE","3_hydroxy_hexadecanoyl carnitine or tetradecanedioyl carnitine","20",TRUE,FALSE,1,"3-Hydroxy-hexadecanoyl carnitine or Tetradecanedioyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"52",NA,NA,"BIOCHEM_3HYDROXOCTHEXCARN","3_hydroxy_octadecanoyl carnitine or hexadecanedioyl carnitine_thapsoyl carnitine","21",TRUE,FALSE,1,"3-Hydroxy-octadecanoyl carnitine or Hexadecanedioyl carnitine, thapsoyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"53",NA,NA,"BIOCHEM_3HYDTETDODECARNITINE","3_hydroxy_tetradecanoyl carnitine or dodecanedioyl carnitine","23",TRUE,FALSE,1,"3-Hydroxy-tetradecanoyl carnitine or Dodecanedioyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"54",NA,NA,"BIOCHEM_ASPARA","asparatate_asparatime","26",TRUE,FALSE,1,"Asparatate/asparatime",NA,NA,NA,NA,FALSE,FALSE,NA
+"55",NA,NA,"BIOCHEM_HYDSEBCARNITINE","3_hydroxy_dodecanoyl carnitine or sebacoyl carnitine","35",TRUE,FALSE,1,"3-Hydroxy-dodecanoyl carnitine or Sebacoyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"56",NA,NA,"BM00183","total plasma free cholesterol mg_dl","793",TRUE,FALSE,1,"Total Plasma Free Cholesterol mg/dL",NA,NA,NA,NA,FALSE,FALSE,NA
+"57",NA,NA,"BM00184","total plasma triglycerides mg_dl","800",TRUE,FALSE,1,"Total Plasma Triglycerides mg/dL",NA,NA,NA,NA,FALSE,FALSE,NA
+"58",NA,NA,"BM00189","tg_pg","835",TRUE,FALSE,1,"TG/PG",NA,NA,NA,NA,FALSE,FALSE,NA
+"59",NA,NA,"BM00195","apob_apoa1","858",TRUE,FALSE,1,"ApoB/ApoA1",NA,NA,NA,NA,FALSE,FALSE,NA
+"60",NA,NA,"C4_DC","methylmalonyl_succinylcarnitine","1567",TRUE,FALSE,1,"methylmalonyl-/succinylcarnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"61",NA,NA,"CHEBI21949","butyryl carnitine or isobutyryl carnitine","1635",TRUE,FALSE,1,"Butyryl carnitine or Isobutyryl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"62",NA,NA,"CHEM100003926_HMDB02095","3_hydroxy_isovaleryl carnitine or malonyl carnitine","2022",TRUE,FALSE,1,"3-Hydroxy-isovaleryl carnitine or Malonyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"63",NA,NA,"CHEM100005371","1_dihomo_linolenoyl_gpe_20_3n3 or 6","2083",TRUE,FALSE,1,"1-dihomo-linolenoyl-GPE (20:3n3 or 6)*",NA,NA,NA,NA,FALSE,FALSE,NA
+"64",NA,NA,"CHEM100006115","arabonate_xylonate","2132",TRUE,FALSE,NA,"arabonate/xylonate",NA,NA,NA,NA,FALSE,FALSE,TRUE
+"65",NA,NA,"CHEM100006173","pregnanolone_allopregnanolone sulfate","2153",TRUE,FALSE,1,"pregnanolone/allopregnanolone sulfate",NA,NA,NA,NA,FALSE,FALSE,NA
+"66",NA,NA,"CHEM100006438","citraconate_glutaconate","2195",TRUE,FALSE,1,"citraconate/glutaconate",NA,NA,NA,NA,FALSE,FALSE,NA
+"67",NA,NA,"CHEM100006627_3HYDRO","3_hydroxy_decanoyl carnitine or suberoyl carnitine","2200",TRUE,FALSE,1,"3-Hydroxy-decanoyl carnitine or Suberoyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"68",NA,NA,"CHEM100008928","2_hydroxybutyrate_2_hydroxyisobutyrate","2212",TRUE,FALSE,NA,"2-hydroxybutyrate/2-hydroxyisobutyrate",NA,NA,NA,NA,FALSE,FALSE,TRUE
+"69",NA,NA,"CHEM100008929","2_methylcitrate_homocitrate","2213",TRUE,FALSE,1,"2-methylcitrate/homocitrate",NA,NA,NA,NA,FALSE,FALSE,NA
+"70",NA,NA,"CHEM100008930","oleate_vaccenate_18_1","2214",TRUE,FALSE,NA,"oleate/vaccenate (18:1)",NA,NA,NA,NA,FALSE,FALSE,TRUE
+"71",NA,NA,"CHEM100008985","1_palmitoyl_2_dihomo_linolenoyl_gpc_16_0_20_3n3 or 6","2224",TRUE,FALSE,1,"1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*",NA,NA,NA,NA,FALSE,FALSE,NA
+"72",NA,NA,"CHEM100008998","b_and_or g_tocopherol","2227",TRUE,FALSE,1,"b- and/or g-tocopherol",NA,NA,NA,NA,FALSE,FALSE,NA
+"73",NA,NA,"CHEM100008998","gamma_tocopherol_beta_tocopherol","2228",TRUE,FALSE,1,"gamma-tocopherol/beta-tocopherol",NA,NA,NA,NA,FALSE,FALSE,NA
+"74",NA,NA,"CHEM100009051","1_stearoyl_2_dihomo_linolenoyl_gpc_18_0_20_3n3 or 6","2244",TRUE,FALSE,1,"1-stearoyl-2-dihomo-linolenoyl-GPC (18:0/20:3n3 or 6)*",24766712,NA,NA,NA,FALSE,FALSE,NA
+"75",NA,NA,"CHEM100009278","14_hdohe_17_hdohe","2280",TRUE,FALSE,1,"14-HDoHE/17-HDoHE",NA,NA,NA,NA,FALSE,FALSE,NA
+"76",NA,NA,"CHEM100009407","pimeloylcarnitine_3_methyladipoylcarnitine_c7_dc","2294",TRUE,FALSE,1,"pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC)",NA,NA,NA,NA,FALSE,FALSE,NA
+"77",NA,NA,"CHEM100015840","dihomo_linolenoylcarnitine_20_3n3 or 6","2372",TRUE,FALSE,1,"dihomo-linolenoylcarnitine (20:3n3 or 6)*",NA,NA,NA,NA,FALSE,FALSE,NA
+"78",NA,NA,"CHEM100015840","dihomo_linolenoylcarnitine_c20_3n3 or 6","2373",TRUE,FALSE,1,"dihomo-linolenoylcarnitine (C20:3n3 or 6)*",NA,NA,NA,NA,FALSE,FALSE,NA
+"79",NA,NA,"CHEM302_CHENO","deoxycholic_acid_chenodeoxycholic_acid","2397",TRUE,FALSE,1,"Deoxycholic_acid/Chenodeoxycholic_acid",NA,NA,NA,NA,FALSE,FALSE,NA
+"80",NA,NA,"COMP39632_47658_AC38","3_hydroxy_cis_5_octenoyl carnitine or hexenedioyl carnitine","3025",TRUE,FALSE,1,"3-Hydroxy-cis-5-octenoyl carnitine or Hexenedioyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"81",NA,NA,"COMP46896","fructose 1_6_diphosphate_glucose 1_6_diphosphate_myo_inositol diphosphates_scal","3305",TRUE,FALSE,1,"fructose 1,6-diphosphate/glucose 1,6-diphosphate/myo-inositol diphosphates [scal",NA,NA,NA,NA,FALSE,FALSE,NA
+"82",NA,NA,"COMP52322","isoleucylleucine_leucylisoleucine","3445",TRUE,FALSE,1,"isoleucylleucine/leucylisoleucine",NA,NA,NA,NA,FALSE,FALSE,NA
+"83",NA,NA,"COMP52415","leucylphenylalanine_isoleucylphenylalanine","3446",TRUE,FALSE,1,"leucylphenylalanine/isoleucylphenylalanine",NA,NA,NA,NA,FALSE,FALSE,NA
+"84",NA,NA,"COMP54984","1_stearoyl_2_dihomo_linolenoyl_gpi_18_0_20_3n3 or 6","3554",TRUE,FALSE,1,"1-stearoyl-2-dihomo-linolenoyl-GPI (18:0/20:3n3 or 6)*",24767699,NA,NA,NA,FALSE,FALSE,NA
+"85",NA,NA,"COMP57336","1_stearoyl_2_dihomo_linolenoyl_gpe_18_0_20_3n3 or 6","3568",TRUE,FALSE,1,"1-stearoyl-2-dihomo-linolenoyl-GPE (18:0/20:3n3 or 6)*",24768480,NA,NA,NA,FALSE,FALSE,NA
+"86",NA,NA,"COMP61858","ribulonate_xylulonate","3610",TRUE,FALSE,1,"ribulonate/xylulonate*",NA,NA,NA,NA,FALSE,FALSE,NA
+"87",NA,NA,"COMP61858","ribulonate_xylulonate_lyxonate","3611",TRUE,FALSE,1,"ribulonate/xylulonate/lyxonate*",NA,NA,NA,NA,FALSE,FALSE,NA
+"88",NA,NA,"COMP61865_3HYDROX","3_hydroxy_eicosanoyl carnitine or octadecanedioyl carnitine","3625",TRUE,FALSE,1,"3-Hydroxy-eicosanoyl carnitine or Octadecanedioyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"89",NA,NA,"COMP62533","2_4 or 2_5_dimethylphenol sulfate","3762",TRUE,FALSE,1,"(2,4 or 2,5)-dimethylphenol sulfate",NA,NA,NA,NA,FALSE,FALSE,NA
+"90",NA,NA,"COMP63436","2 or 3_decenoate_10_1n7 or n8","3940",TRUE,FALSE,1,"(2 or 3)-decenoate (10:1n7 or n8)",NA,NA,NA,NA,FALSE,FALSE,NA
+"91",NA,NA,"COMP63688","deoxycholic acid_12 or 24_sulfate","3958",TRUE,FALSE,1,"deoxycholic acid (12 or 24)-sulfate*",NA,NA,NA,NA,FALSE,FALSE,NA
+"92",NA,NA,"CSID18953394","lysopcac180 in plasma_micromole_l","3976",TRUE,FALSE,1,"lysopcac180 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"93",NA,NA,"CSID24608218","pcaec406 in plasma_micromole_l","3987",TRUE,FALSE,1,"pcaec406 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"94",NA,NA,"CSID24822210","pcaac281 in plasma_micromole_l","3992",TRUE,FALSE,1,"pcaac281 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"95",NA,NA,"CSID24822213","pcaac300 in plasma_micromole_l","3997",TRUE,FALSE,1,"pcaac300 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"96",NA,NA,"CSID24822327","pcaac360 in plasma_micromole_l","4005",TRUE,FALSE,1,"pcaac360 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"97",NA,NA,"CSID24822407","pcaac343 in plasma_micromole_l","4014",TRUE,FALSE,1,"pcaac343 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"98",NA,NA,"CSID24822409","pcaac365 in plasma_micromole_l","4019",TRUE,FALSE,1,"pcaac365 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"99",NA,NA,"CSID24822417","pcaac320 in plasma_micromole_l","4024",TRUE,FALSE,1,"pcaac320 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"100",NA,NA,"CSID24822448","pcaac342 in plasma_micromole_l","4031",TRUE,FALSE,1,"pcaac342 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"101",NA,NA,"CSID24822459","pcaac361 in plasma_micromole_l","4037",TRUE,FALSE,1,"pcaac361 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"102",NA,NA,"CSID24822466","pcaac363 in plasma_micromole_l","4042",TRUE,FALSE,1,"pcaac363 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"103",NA,NA,"CSID24822473","pcaac380 in plasma_micromole_l","4047",TRUE,FALSE,1,"pcaac380 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"104",NA,NA,"CSID24822488","pcaac384 in plasma_micromole_l","4052",TRUE,FALSE,1,"pcaac384 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"105",NA,NA,"CSID24822495","pcaac405 in plasma_micromole_l","4057",TRUE,FALSE,1,"pcaac405 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"106",NA,NA,"CSID24822532","pcaac362 in plasma_micromole_l","4062",TRUE,FALSE,1,"pcaac362 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"107",NA,NA,"CSID24822573","pcaac344 in plasma_micromole_l","4073",TRUE,FALSE,1,"pcaac344 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"108",NA,NA,"CSID24822578","pcaac383 in plasma_micromole_l","4078",TRUE,FALSE,1,"pcaac383 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"109",NA,NA,"CSID24822638","pcaac403 in plasma_micromole_l","4086",TRUE,FALSE,1,"pcaac403 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"110",NA,NA,"CSID24822650","pcaac402 in plasma_micromole_l","4091",TRUE,FALSE,1,"pcaac402 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"111",NA,NA,"CSID24822657","pcaac386 in plasma_micromole_l","4096",TRUE,FALSE,1,"pcaac386 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"112",NA,NA,"CSID24822678","pcaac422 in plasma_micromole_l","4101",TRUE,FALSE,1,"pcaac422 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"113",NA,NA,"CSID24822837","pcaec300 in plasma_micromole_l","4106",TRUE,FALSE,1,"pcaec300 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"114",NA,NA,"CSID24822840","pcaec321 in plasma_micromole_l","4111",TRUE,FALSE,1,"pcaec321 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"115",NA,NA,"CSID24822863","pcaec361 in plasma_micromole_l","4116",TRUE,FALSE,1,"pcaec361 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"116",NA,NA,"CSID24822871","pcaec385 in plasma_micromole_l","4121",TRUE,FALSE,1,"pcaec385 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"117",NA,NA,"CSID24822888","pcaec341 in plasma_micromole_l","4126",TRUE,FALSE,1,"pcaec341 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"118",NA,NA,"CSID24822898","pcaec384 in plasma_micromole_l","4138",TRUE,FALSE,1,"pcaec384 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"119",NA,NA,"CSID24822903","pcaec405 in plasma_micromole_l","4143",TRUE,FALSE,1,"pcaec405 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"120",NA,NA,"CSID24822939","pcaec322 in plasma_micromole_l","4148",TRUE,FALSE,1,"pcaec322 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"121",NA,NA,"CSID24823031","lysopcac181 in plasma_micromole_l","4158",TRUE,FALSE,1,"lysopcac181 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"122",NA,NA,"CSID24846875","smc240 in plasma_micromole_l","4164",TRUE,FALSE,1,"smc240 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"123",NA,NA,"CSID24958570","pcaec363 in plasma_micromole_l","4174",TRUE,FALSE,1,"pcaec363 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"124",NA,NA,"CSID4940699","pcaac341 in plasma_micromole_l","4180",TRUE,FALSE,1,"pcaac341 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"125",NA,NA,"CSID4942851","pcaac364 in plasma_micromole_l","4185",TRUE,FALSE,1,"pcaac364 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"126",NA,NA,"CSID4946694","pcaac366 in plasma_micromole_l","4190",TRUE,FALSE,1,"pcaac366 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"127",NA,NA,"CSID4947173","pcaec364 in plasma_micromole_l","4195",TRUE,FALSE,1,"pcaec364 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"128",NA,NA,"CSID4956085","smc180 in plasma_micromole_l","4199",TRUE,FALSE,1,"smc180 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"129",NA,NA,"CSID8660716","pcaec365 in plasma_micromole_l","4207",TRUE,FALSE,1,"pcaec365 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"130",NA,NA,"CSID8708435","pcaec343 in plasma_micromole_l","4212",TRUE,FALSE,1,"pcaec343 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"131",NA,NA,"CSID8756279","pcaec340 in plasma_micromole_l","4217",TRUE,FALSE,1,"pcaec340 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"132",NA,NA,"HEXOSES","hexose in plasma_micromole_l","4238",TRUE,FALSE,1,"hexose in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"133",NA,NA,"HMDB00062","c0 in plasma_micromole_l","4383",TRUE,FALSE,1,"c0 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"134",NA,NA,"HMDB00067","total plasma cholesterol mg_dl","4416",TRUE,FALSE,1,"Total Plasma Cholesterol mg/dL",NA,NA,NA,NA,FALSE,FALSE,NA
+"135",NA,NA,"HMDB00122","glucose_fructose_galactose","4514",TRUE,FALSE,1,"Glucose/Fructose/Galactose",NA,NA,NA,NA,FALSE,FALSE,NA
+"136",NA,NA,"HMDB00123","glycine in plasma_micromole_l","4532",TRUE,FALSE,1,"Glycine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"137",NA,NA,"HMDB00148_HMDB03339","glutamate in plasma_micromole_l","4603",TRUE,FALSE,1,"Glutamate in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"138",NA,NA,"HMDB00158","tyrosine in plasma_micromole_l","4643",TRUE,FALSE,1,"Tyrosine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"139",NA,NA,"HMDB00159","phenylalanine in plasma_micromole_l","4666",TRUE,FALSE,1,"Phenylalanine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"140",NA,NA,"HMDB00161","alanine in plasma_micromole_l","4685",TRUE,FALSE,1,"Alanine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"141",NA,NA,"HMDB00162","proline in plasma_micromole_l","4705",TRUE,FALSE,1,"Proline in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"142",NA,NA,"HMDB00167","threonine in plasma_micromole_l","4728",TRUE,FALSE,1,"Threonine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"143",NA,NA,"HMDB00168","asparagine in plasma_micromole_l","4743",TRUE,FALSE,1,"Asparagine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"144",NA,NA,"HMDB00172","isoleucine in plasma_micromole_l","4768",TRUE,FALSE,1,"Isoleucine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"145",NA,NA,"HMDB00177","histidine in plasma_micromole_l","4794",TRUE,FALSE,1,"Histidine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"146",NA,NA,"HMDB00187","serine in plasma_micromole_l","4816",TRUE,FALSE,1,"Serine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"147",NA,NA,"HMDB00201","c2 in plasma_micromole_l","4874",TRUE,FALSE,1,"c2 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"148",NA,NA,"HMDB00251","taurine in plasma_micromole_l","4986",TRUE,FALSE,1,"taurine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"149",NA,NA,"HMDB00271","sarcosine in plasma_micromole_l","5005",TRUE,FALSE,1,"sarcosine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"150",NA,NA,"HMDB00488","z or z","5155",TRUE,FALSE,1,"Z or Z",NA,"4958",NA,NA,FALSE,FALSE,NA
+"151",NA,NA,"HMDB00517","arginine in plasma_micromole_l","5179",TRUE,FALSE,1,"Arginine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"152",NA,NA,"HMDB00562","creatinine in plasma_micromole_l","5194",TRUE,FALSE,1,"creatinine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"153",NA,NA,"HMDB00641","glutamine in plasma_micromole_l","5268",TRUE,FALSE,1,"Glutamine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"154",NA,NA,"HMDB00641_HMDB03339","glutamine_glutamate","5275",TRUE,FALSE,1,"Glutamine/glutamate",NA,NA,NA,NA,FALSE,FALSE,NA
+"155",NA,NA,"HMDB00684","kynurenine in plasma_micromole_l","5368",TRUE,FALSE,1,"kynurenine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"156",NA,NA,"HMDB00687","leucine in plasma_micromole_l","5385",TRUE,FALSE,1,"Leucine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"157",NA,NA,"HMDB00688_HMDB00378","isovaleryl carnitine_3_methylbutyryl carnitine or 2_methylbutyryl carnitine","5395",TRUE,FALSE,1,"Isovaleryl carnitine, 3-methylbutyryl carnitine or 2-Methylbutyryl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"158",NA,NA,"HMDB00696","methionine in plasma_micromole_l","5426",TRUE,FALSE,1,"Methionine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"159",NA,NA,"HMDB00725","t4_oh_pro in plasma_micromole_l","5478",TRUE,FALSE,1,"t4-OH-Pro in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"160",NA,NA,"HMDB00824","c3 in plasma_micromole_l","5592",TRUE,FALSE,1,"c3 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"161",NA,NA,"HMDB00848","c18 in plasma_micromole_l","5619",TRUE,FALSE,1,"c18 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"162",NA,NA,"HMDB00883","valine in plasma_micromole_l","5663",TRUE,FALSE,1,"Valine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"163",NA,NA,"HMDB00904","citrulline in plasma_micromole_l","5703",TRUE,FALSE,1,"Citrulline in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"164",NA,NA,"HMDB00929","tryptophan in plasma_micromole_l","5728",TRUE,FALSE,1,"Tryptophan in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"165",NA,NA,"HMDB01539","adma in plasma_micromole_l","5883",TRUE,FALSE,1,"adma in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"166",NA,NA,"HMDB01539_HMDB03334","sdma_adma","5890",TRUE,FALSE,1,"SDMA/ADMA",NA,NA,NA,NA,FALSE,FALSE,NA
+"167",NA,NA,"HMDB02013","iso_butyrylcarnitine","6023",TRUE,FALSE,1,"Iso-/Butyrylcarnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"168",NA,NA,"HMDB02014","c141 in plasma_micromole_l","6025",TRUE,FALSE,1,"c141 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"169",NA,NA,"HMDB02825_HMDB01860","theobromine and_or paraxanthine","6173",TRUE,FALSE,1,"Theobromine and/or Paraxanthine",NA,NA,NA,NA,FALSE,FALSE,NA
+"170",NA,NA,"HMDB03374","ornithine in plasma_micromole_l","6266",TRUE,FALSE,1,"Ornithine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"171",NA,NA,"HMDB03405","lysine in plasma_micromole_l","6269",TRUE,FALSE,1,"Lysine in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"172",NA,NA,"HMDB05065","c181 in plasma_micromole_l","6405",TRUE,FALSE,1,"c181 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"173",NA,NA,"HMDB05376","triglyceride tg_48_2_and_or tg_54_6","6455",TRUE,FALSE,1,"Triglyceride TG(48:2) and/or TG(54:6)",NA,NA,NA,85729,FALSE,FALSE,NA
+"174",NA,NA,"HMDB07873","pcaac321 in plasma_micromole_l","6683",TRUE,FALSE,1,"pcaac321 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"175",NA,NA,"HMDB07876","pcaac323 in plasma_micromole_l","6692",TRUE,FALSE,1,"pcaac323 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"176",NA,NA,"HMDB07989","pcaac385 in plasma_micromole_l","6718",TRUE,FALSE,1,"pcaac385 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"177",NA,NA,"HMDB08054","pcaac404 in plasma_micromole_l","6743",TRUE,FALSE,1,"pcaac404 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"178",NA,NA,"HMDB08057","pcaac406 in plasma_micromole_l","6751",TRUE,FALSE,1,"pcaac406 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"179",NA,NA,"HMDB08058","pcaac420 in plasma_micromole_l","6757",TRUE,FALSE,1,"pcaac420 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"180",NA,NA,"HMDB08124","pcaac421 in plasma_micromole_l","6766",TRUE,FALSE,1,"pcaac421 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"181",NA,NA,"HMDB08287","pcaac425 in plasma_micromole_l","6779",TRUE,FALSE,1,"pcaac425 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"182",NA,NA,"HMDB08573","pcaac424 in plasma_micromole_l","6786",TRUE,FALSE,1,"pcaac424 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"183",NA,NA,"HMDB10169","smc160 in plasma_micromole_l","6862",TRUE,FALSE,1,"smc160 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"184",NA,NA,"HMDB10382","lysopcac160 in plasma_micromole_l","6905",TRUE,FALSE,1,"lysopcac160 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"185",NA,NA,"HMDB10383","lysopcac161 in plasma_micromole_l","6916",TRUE,FALSE,1,"lysopcac161 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"186",NA,NA,"HMDB10386","lysopcac182 in plasma_micromole_l","6927",TRUE,FALSE,1,"lysopcac182 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"187",NA,NA,"HMDB10393","lysopcac203 in plasma_micromole_l","6945",TRUE,FALSE,1,"lysopcac203 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"188",NA,NA,"HMDB10396","lysopcac204 in plasma_micromole_l","6959",TRUE,FALSE,1,"lysopcac204 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"189",NA,NA,"HMDB11151","pcaec342 in plasma_micromole_l","7025",TRUE,FALSE,1,"pcaec342 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"190",NA,NA,"HMDB11243","pcaec362 in plasma_micromole_l","7065",TRUE,FALSE,1,"pcaec362 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"191",NA,NA,"HMDB11386","phosphatidylethanolamine pe_o_38_5_and_or pe_p_38_4","7094",TRUE,FALSE,1,"Phosphatidylethanolamine PE(O-38:5) and/or PE(P-38:4)",NA,NA,NA,NA,FALSE,FALSE,NA
+"192",NA,NA,"HMDB11387","phosphatidylethanolamine pe_o_38_6_and_or pe_p_38_5","7098",TRUE,FALSE,1,"Phosphatidylethanolamine PE(O-38:6) and/or PE(P-38:5)",NA,NA,NA,NA,FALSE,FALSE,NA
+"193",NA,NA,"HMDB11394","phosphatidylethanolamine_pe_o_40_7_and_or pe_p_40_6","7101",TRUE,FALSE,1,"Phosphatidylethanolamine - PE(O-40:7) and/or PE(P-40:6)",NA,NA,NA,NA,FALSE,FALSE,NA
+"194",NA,NA,"HMDB11533","monoglyceride mg_16_0__likely a fragment of dg or tg","7147",TRUE,FALSE,1,"Monoglyceride MG(16:0) (likely a fragment of DG or TG)",NA,NA,NA,NA,FALSE,FALSE,NA
+"195",NA,NA,"HMDB11537","monoglyceride mg_18_1__likely a fragment of dg or tg","7151",TRUE,FALSE,1,"Monoglyceride MG(18:1) (likely a fragment of DG or TG)",NA,NA,NA,NA,FALSE,FALSE,NA
+"196",NA,NA,"HMDB12100","smc181 in plasma_micromole_l","7225",TRUE,FALSE,1,"smc181 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"197",NA,NA,"HMDB12107","smc241 in plasma_micromole_l","7252",TRUE,FALSE,1,"smc241 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"198",NA,NA,"HMDB12108","lysopcac170 in plasma_micromole_l","7264",TRUE,FALSE,1,"lysopcac170 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"199",NA,NA,"HMDB13133_HMDB61717","methylmalonyl carnitine or succinyl carnitine","7311",TRUE,FALSE,1,"Methylmalonyl carnitine or Succinyl carnitine",NA,NA,NA,NA,FALSE,FALSE,NA
+"200",NA,NA,"HMDB13406","pcaec360 in plasma_micromole_l","7372",TRUE,FALSE,1,"pcaec360 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"201",NA,NA,"HMDB13409","pcaec386 in plasma_micromole_l","7377",TRUE,FALSE,1,"pcaec386 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"202",NA,NA,"HMDB13410","pcaec302 in plasma_micromole_l","7382",TRUE,FALSE,1,"pcaec302 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"203",NA,NA,"HMDB13431","pcaec382 in plasma_micromole_l","7387",TRUE,FALSE,1,"pcaec382 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"204",NA,NA,"HMDB13433","pcaec401 in plasma_micromole_l","7392",TRUE,FALSE,1,"pcaec401 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"205",NA,NA,"HMDB13434","pcaec422 in plasma_micromole_l","7397",TRUE,FALSE,1,"pcaec422 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"206",NA,NA,"HMDB13437","pcaec402 in plasma_micromole_l","7402",TRUE,FALSE,1,"pcaec402 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"207",NA,NA,"HMDB13438","pcaec423 in plasma_micromole_l","7407",TRUE,FALSE,1,"pcaec423 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"208",NA,NA,"HMDB13439","pcaec383 in plasma_micromole_l","7412",TRUE,FALSE,1,"pcaec383 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"209",NA,NA,"HMDB13442","pcaec404 in plasma_micromole_l","7417",TRUE,FALSE,1,"pcaec404 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"210",NA,NA,"HMDB13443","pcaec421 in plasma_micromole_l","7421",TRUE,FALSE,1,"pcaec421 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"211",NA,NA,"HMDB13445","pcaec403 in plasma_micromole_l","7425",TRUE,FALSE,1,"pcaec403 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"212",NA,NA,"HMDB13450","pcaec446 in plasma_micromole_l","7438",TRUE,FALSE,1,"pcaec446 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"213",NA,NA,"HMDB13451","pcaec425 in plasma_micromole_l","7443",TRUE,FALSE,1,"pcaec425 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"214",NA,NA,"HMDB13456","pcaec445 in plasma_micromole_l","7448",TRUE,FALSE,1,"pcaec445 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"215",NA,NA,"HMDB13458","pcaec424 in plasma_micromole_l","7453",TRUE,FALSE,1,"pcaec424 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"216",NA,NA,"HMDB13460","pcaec444 in plasma_micromole_l","7458",TRUE,FALSE,1,"pcaec444 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"217",NA,NA,"HMDB13462","smohc141 in plasma_micromole_l","7469",TRUE,FALSE,1,"smohc141 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"218",NA,NA,"HMDB13463","smohc161 in plasma_micromole_l","7475",TRUE,FALSE,1,"smohc161 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"219",NA,NA,"HMDB13465","smc202 in plasma_micromole_l","7478",TRUE,FALSE,1,"smc202 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"220",NA,NA,"HMDB13466","smohc221 in plasma_micromole_l","7486",TRUE,FALSE,1,"smohc221 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"221",NA,NA,"HMDB13467","smohc222 in plasma_micromole_l","7492",TRUE,FALSE,1,"smohc222 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"222",NA,NA,"HMDB13469","smohc241 in plasma_micromole_l","7499",TRUE,FALSE,1,"smohc241 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"223",NA,NA,"HMDB29216","smc161 in plasma_micromole_l","7605",TRUE,FALSE,1,"smc161 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"224",NA,NA,"ME056261","phosphatidylcholine_pc_o_34_3_and_or pc_p_34_2","7792",TRUE,FALSE,1,"Phosphatidylcholine - PC(O-34:3) and/or PC(P-34:2)",NA,NA,NA,NA,FALSE,FALSE,NA
+"225",NA,NA,"ME056263","phosphatidylcholine pc_o_36_5_and_or pc_p_36_4","7793",TRUE,FALSE,1,"Phosphatidylcholine PC(O-36:5) and/or PC(P-36:4)",NA,NA,NA,NA,FALSE,FALSE,NA
+"226",NA,NA,"ME056263","phosphatidylcholine_pc_o_36_5_and_or pc_p_36_4","7794",TRUE,FALSE,1,"Phosphatidylcholine - PC(O-36:5) and/or PC(P-36:4)",NA,NA,NA,NA,FALSE,FALSE,NA
+"227",NA,NA,"ME056263","phosphatidylcholine_pc_o_38_6_and_or pc_p_38_5","7795",TRUE,FALSE,1,"Phosphatidylcholine - PC(O-38:6) and/or PC(P-38:5)",NA,NA,NA,NA,FALSE,FALSE,NA
+"228",NA,NA,"ME056277","phosphatidylethanolamine_pe_o_36_5_and_or pe_p_36_4","7796",TRUE,FALSE,1,"Phosphatidylethanolamine - PE(O-36:5) and/or PE(P-36:4)",NA,NA,NA,NA,FALSE,FALSE,NA
+"229",NA,NA,"ME056280_ME056456","phosphatidylethanolamine_pe_o_38_5_and_or pe_p_38_4","7797",TRUE,FALSE,1,"Phosphatidylethanolamine - PE(O-38:5) and/or PE(P-38:4)",NA,NA,NA,NA,FALSE,FALSE,NA
+"230",NA,NA,"ME056281_ME056457","phosphatidylethanolamine_pe_o_38_6_and_or pe_p_38_5","7798",TRUE,FALSE,1,"Phosphatidylethanolamine - PE(O-38:6) and/or PE(P-38:5)",NA,NA,NA,NA,FALSE,FALSE,NA
+"231",NA,NA,"ME056301_ME056477_HMDB12104","sphingomyelin_sm_d40_2_d18_1_22_1 and_or d18_2_22_0 and_or d16_1_24_1","7799",TRUE,FALSE,1,"Sphingomyelin - SM(d40:2) d18:1/22:1 and/or d18:2/22:0 and/or d16:1/24:1",NA,NA,NA,72529,FALSE,FALSE,NA
+"232",NA,NA,"ME056445","phosphatidylcholine pc_o_38_5_and_or pc_p_38_4","7813",TRUE,FALSE,1,"Phosphatidylcholine PC(O-38:5) and/or PC(P-38:4)",NA,NA,NA,NA,FALSE,FALSE,NA
+"233",NA,NA,"ME056469_PUBCHEM52931145","sphingomyelin_sm_d34_2_d18_2_16_0 and_or d18_1_16_1","7816",TRUE,FALSE,1,"Sphingomyelin - SM(d34:2) d18:2/16:0 and/or d18:1/16:1",NA,NA,NA,64587,FALSE,FALSE,NA
+"234",NA,NA,"ME056483_PUBCHEM52931215","sphingomyelin_sm_d42_3_d18_2_24_1 and_or d18_1_24_2","7819",TRUE,FALSE,1,"Sphingomyelin - SM(d42:3) d18:2/24:1 and/or d18:1/24:2",NA,NA,NA,72535,FALSE,FALSE,NA
+"235",NA,NA,"METABXLEU.PTC","leucine_isoleucine","7856",TRUE,FALSE,1,"Leucine/Isoleucine",NA,NA,NA,NA,FALSE,FALSE,NA
+"236",NA,NA,"METABXLEU.PTC","leucine_isoleucine_xleu_ptc ","7857",TRUE,FALSE,1,"Leucine / Isoleucine ( xLeu-PTC )",NA,NA,NA,NA,FALSE,FALSE,NA
+"237",NA,NA,"PUBCHEM16902","c16 in plasma_micromole_l","7894",TRUE,FALSE,1,"c16 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"238",NA,NA,"PUBCHEM51000598","c182 in plasma_micromole_l","7915",TRUE,FALSE,1,"c182 in plasma, micromole/L",NA,NA,NA,NA,FALSE,FALSE,NA
+"239","","122045;6602431","CHEM100006115","arabonate_xylonate","8005",TRUE,FALSE,NA,"arabonate/xylonate",NA,"","",NA,TRUE,FALSE,TRUE
+"240","","6912;94154","CHEM100006430","arabitol_xylitol","8006",TRUE,FALSE,NA,"arabitol/xylitol",NA,"","",NA,TRUE,FALSE,TRUE
+"241","","440864;11671","CHEM100008928","2_hydroxybutyrate_2_hydroxyisobutyrate","8007",TRUE,FALSE,NA,"2-hydroxybutyrate/2-hydroxyisobutyrate",NA,"","",NA,TRUE,FALSE,TRUE
+"242","","445639;5282761;5281127","CHEM100008930","oleate_vaccenate_18_1","8008",TRUE,FALSE,NA,"oleate/vaccenate (18:1)",NA,"","",NA,TRUE,FALSE,TRUE
+"243","HMDB00072,HMDB00958","","HMDB00072_HMDB00958","aconitate_cis or trans","8022",FALSE,TRUE,NA,"aconitate [cis or trans]",NA,"C00417,C02341","",NA,TRUE,TRUE,FALSE
+"244","HMDB01388;HMDB03073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8074",TRUE,FALSE,NA,"Linolenate _alpha or gamma; (18:3n3 or 6)_",NA,"","",NA,TRUE,FALSE,TRUE
+"245","HMDB01388;HMDB03073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8075",TRUE,FALSE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"","",NA,TRUE,FALSE,TRUE
+"246","HMDB01388,HMDB03073","","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8076",TRUE,FALSE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"","",NA,TRUE,FALSE,TRUE
+"247","HMDB0003073","5280934","HMDB01388_HMDB03073","linolenate_alpha or gamma__18_3n3 or 6","8077",TRUE,FALSE,NA,"linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"C06426,C06427","",NA,TRUE,FALSE,TRUE
+"248","HMDB0002925","5312529;5280581","HMDB02925","dihomo_linolenate_20_3n3 or n6","8091",TRUE,FALSE,NA,"Dihomo-linolenate (20:3n3 or n6)",NA,"","",NA,TRUE,FALSE,TRUE
+"249","HMDB0002925","5312529;5280581","HMDB02925","dihomo_linolenate_20_3n3 or n6","8092",TRUE,FALSE,NA,"dihomo-linolenate (20:3n3 or n6)",NA,"","",NA,TRUE,FALSE,TRUE
