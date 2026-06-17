@@ -65,7 +65,7 @@ metlinkr_input_file <- data.frame("FileNames" = c(COMETS_file_name, moore_file_n
 
 write.csv(metlinkr_input_file, file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
 
-#metLinkR::harmonizeInputSheets(file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
+metLinkR::harmonizeInputSheets(file.path(base_dir, "metlinkr_input_files/metlinkr_input_file_for_merging.csv"))
 mapping_library_path <- file.path(base_dir, "metLinkR_output/mapping_library.xlsx")
 
 
