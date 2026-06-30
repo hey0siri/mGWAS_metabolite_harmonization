@@ -141,14 +141,45 @@ matching_hmdbs.sample_cohort.mult_identifiers <- matching_hmdbs.sample_cohort.1 
   ) %>%
   filter(n_uid > 1 | n_moore > 1 | n_mlr_moore > 1 | n_mlr_comets > 1)
 
-matching_hmdbs.sample_cohort.2 <- matching_hmdbs.sample_cohort.1 %>%
+
+matching_hmdbs.sample_cohort.2 <-
+  matching_hmdbs.sample_cohort.1 %>%
+  rowwise() %>%
+  mutate(
+    
+    metabolite_id_platforms = paste(
+      na.omit(c(
+        if (!is.na(uid_01)) "COMETS",
+        if (!is.na(moore_metabolite_id)) "Moore",
+        if (
+          !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+        ) "MetLinkR"
+      )),
+      collapse = ";"
+    ),
+    metabolite_id_platforms =
+      ifelse(
+        metabolite_id_platforms == "",
+        "sample_cohort",
+        metabolite_id_platforms
+      ),
+    n_metabolite_id_platforms =
+      sum(c(
+        !is.na(uid_01),
+        !is.na(moore_metabolite_id),
+        !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+      ))
+  ) %>%
+  ungroup() %>%
   mutate(
     final_metabolite_id = coalesce(
       as.character(uid_01),
       moore_metabolite_id,
       MLR_Harmonized_Name_moore,
       MLR_Harmonized_Name_comets,
-      HMDB
+      .data[[sample_cohort_hmdb_name]]
     ),
     metabolite_id_origin = case_when(
       !is.na(uid_01) ~ "COMETS",
@@ -158,6 +189,27 @@ matching_hmdbs.sample_cohort.2 <- matching_hmdbs.sample_cohort.1 %>%
       TRUE ~ "sample_cohort"
     )
   )
+matching_hmdbs.sample_cohort.2 <- matching_hmdbs.sample_cohort.2 %>%
+  mutate(
+    final_metabolite_id = paste0("HMN_", final_metabolite_id)
+  )
+# matching_hmdbs.sample_cohort.2 <- matching_hmdbs.sample_cohort.1 %>%
+#   mutate(
+#     final_metabolite_id = coalesce(
+#       as.character(uid_01),
+#       moore_metabolite_id,
+#       MLR_Harmonized_Name_moore,
+#       MLR_Harmonized_Name_comets,
+#       HMDB
+#     ),
+#     metabolite_id_origin = case_when(
+#       !is.na(uid_01) ~ "COMETS",
+#       !is.na(moore_metabolite_id) ~ "Moore",
+#       !is.na(MLR_Harmonized_Name_moore) |
+#         !is.na(MLR_Harmonized_Name_comets) ~ "MetLinkR",
+#       TRUE ~ "sample_cohort"
+#     )
+#   )
 
 matching_hmdbs.sample_cohort.3 <- matching_hmdbs.sample_cohort.2 %>% select(-uid_01, -moore_metabolite_id, -MLR_Harmonized_Name_moore, -MLR_Harmonized_Name_comets)
 matching_hmdbs.sample_cohort.3 <- matching_hmdbs.sample_cohort.3 %>% distinct()
@@ -204,6 +256,35 @@ matching_pubchem.sample_cohort.mult_identifiers <- matching_pubchem.sample_cohor
   filter(n_uid > 1 | n_moore > 1 | n_mlr_moore > 1 | n_mlr_comets > 1)
 
 matching_pubchem.sample_cohort.2 <- matching_pubchem.sample_cohort.1 %>%
+  rowwise() %>%
+  mutate(
+    
+    metabolite_id_platforms = paste(
+      na.omit(c(
+        if (!is.na(uid_01)) "COMETS",
+        if (!is.na(moore_metabolite_id)) "Moore",
+        if (
+          !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+        ) "MetLinkR"
+      )),
+      collapse = ";"
+    ),
+    metabolite_id_platforms =
+      ifelse(
+        metabolite_id_platforms == "",
+        "sample_cohort",
+        metabolite_id_platforms
+      ),
+    n_metabolite_id_platforms =
+      sum(c(
+        !is.na(uid_01),
+        !is.na(moore_metabolite_id),
+        !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+      ))
+  ) %>%
+  ungroup() %>%
   mutate(
     final_metabolite_id = coalesce(
       as.character(uid_01),
@@ -219,6 +300,10 @@ matching_pubchem.sample_cohort.2 <- matching_pubchem.sample_cohort.1 %>%
         !is.na(MLR_Harmonized_Name_comets) ~ "MetLinkR",
       TRUE ~ "sample_cohort"
     )
+  )
+matching_pubchem.sample_cohort.2 <- matching_pubchem.sample_cohort.2 %>%
+  mutate(
+    final_metabolite_id = paste0("HMN_", final_metabolite_id)
   )
 
 matching_pubchem.sample_cohort.3 <- matching_pubchem.sample_cohort.2 %>% select(-uid_01, -moore_metabolite_id, -MLR_Harmonized_Name_moore, -MLR_Harmonized_Name_comets)
@@ -266,6 +351,35 @@ matching_kegg.sample_cohort.mult_identifiers <- matching_kegg.sample_cohort.1 %>
   filter(n_uid > 1 | n_moore > 1 | n_mlr_moore > 1 | n_mlr_comets > 1)
 
 matching_kegg.sample_cohort.2 <- matching_kegg.sample_cohort.1 %>%
+  rowwise() %>%
+  mutate(
+    
+    metabolite_id_platforms = paste(
+      na.omit(c(
+        if (!is.na(uid_01)) "COMETS",
+        if (!is.na(moore_metabolite_id)) "Moore",
+        if (
+          !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+        ) "MetLinkR"
+      )),
+      collapse = ";"
+    ),
+    metabolite_id_platforms =
+      ifelse(
+        metabolite_id_platforms == "",
+        "sample_cohort",
+        metabolite_id_platforms
+      ),
+    n_metabolite_id_platforms =
+      sum(c(
+        !is.na(uid_01),
+        !is.na(moore_metabolite_id),
+        !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+      ))
+  ) %>%
+  ungroup() %>%
   mutate(
     final_metabolite_id = coalesce(
       as.character(uid_01),
@@ -282,6 +396,9 @@ matching_kegg.sample_cohort.2 <- matching_kegg.sample_cohort.1 %>%
       TRUE ~ "sample_cohort"
     )
   )
+matching_kegg.sample_cohort.2 <- matching_kegg.sample_cohort.2 %>%   mutate(
+  final_metabolite_id = paste0("HMN_", final_metabolite_id)
+)
 
 matching_kegg.sample_cohort.3 <- matching_kegg.sample_cohort.2 %>% select(-uid_01, -moore_metabolite_id, -MLR_Harmonized_Name_moore, -MLR_Harmonized_Name_comets)
 matching_kegg.sample_cohort.3 <- matching_kegg.sample_cohort.3 %>% distinct()
@@ -330,6 +447,35 @@ matching_chemspider.sample_cohort.mult_identifiers <- matching_chemspider.sample
   filter(n_uid > 1 | n_moore > 1 | n_mlr_moore > 1 | n_mlr_comets > 1)
 
 matching_chemspider.sample_cohort.2 <- matching_chemspider.sample_cohort.1 %>%
+  rowwise() %>%
+  mutate(
+    
+    metabolite_id_platforms = paste(
+      na.omit(c(
+        if (!is.na(uid_01)) "COMETS",
+        if (!is.na(moore_metabolite_id)) "Moore",
+        if (
+          !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+        ) "MetLinkR"
+      )),
+      collapse = ";"
+    ),
+    metabolite_id_platforms =
+      ifelse(
+        metabolite_id_platforms == "",
+        "sample_cohort",
+        metabolite_id_platforms
+      ),
+    n_metabolite_id_platforms =
+      sum(c(
+        !is.na(uid_01),
+        !is.na(moore_metabolite_id),
+        !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+      ))
+  ) %>%
+  ungroup() %>%
   mutate(
     final_metabolite_id = coalesce(
       as.character(uid_01),
@@ -346,7 +492,9 @@ matching_chemspider.sample_cohort.2 <- matching_chemspider.sample_cohort.1 %>%
       TRUE ~ "sample_cohort"
     )
   )
-
+matching_chemspider.sample_cohort.2 <- matching_chemspider.sample_cohort.2 %>%   mutate(
+  final_metabolite_id = paste0("HMN_", final_metabolite_id)
+)
 matching_chemspider.sample_cohort.3 <- matching_chemspider.sample_cohort.2 %>% select(-uid_01, -moore_metabolite_id, -MLR_Harmonized_Name_moore, -MLR_Harmonized_Name_comets)
 matching_chemspider.sample_cohort.3 <- matching_chemspider.sample_cohort.3 %>% distinct()
 
@@ -392,23 +540,59 @@ mamatching_inchikey.sample_cohort.mult_identifiers <- matching_inchikey.sample_c
   ) %>%
   filter(n_uid > 1 | n_moore > 1 | n_mlr_moore > 1 | n_mlr_comets > 1)
 
-matching_inchikey.sample_cohort.2 <- matching_inchikey.sample_cohort.1 %>%
-  mutate(
-    final_metabolite_id = coalesce(
-      as.character(uid_01),
-      moore_metabolite_id,
-      MLR_Harmonized_Name_moore,
-      MLR_Harmonized_Name_comets,
-      .data[[sample_cohort_inchikey_name]]
-    ),
-    metabolite_id_origin = case_when(
-      !is.na(uid_01) ~ "COMETS",
-      !is.na(moore_metabolite_id) ~ "Moore",
-      !is.na(MLR_Harmonized_Name_moore) |
-        !is.na(MLR_Harmonized_Name_comets) ~ "MetLinkR",
-      TRUE ~ "sample_cohort"
+if (nrow(matching_inchikey.sample_cohort.1) != 0) {
+  matching_inchikey.sample_cohort.2 <- matching_inchikey.sample_cohort.1 %>%
+    rowwise() %>%
+    mutate(
+      
+      metabolite_id_platforms = paste(
+        na.omit(c(
+          if (!is.na(uid_01)) "COMETS",
+          if (!is.na(moore_metabolite_id)) "Moore",
+          if (
+            !is.na(MLR_Harmonized_Name_moore) ||
+            !is.na(MLR_Harmonized_Name_comets)
+          ) "MetLinkR"
+        )),
+        collapse = ";"
+      ),
+      metabolite_id_platforms =
+        ifelse(
+          metabolite_id_platforms == "",
+          "sample_cohort",
+          metabolite_id_platforms
+        ),
+      n_metabolite_id_platforms =
+        sum(c(
+          !is.na(uid_01),
+          !is.na(moore_metabolite_id),
+          !is.na(MLR_Harmonized_Name_moore) ||
+            !is.na(MLR_Harmonized_Name_comets)
+        ))
+    ) %>%
+    ungroup() %>%
+    mutate(
+      final_metabolite_id = coalesce(
+        as.character(uid_01),
+        moore_metabolite_id,
+        MLR_Harmonized_Name_moore,
+        MLR_Harmonized_Name_comets,
+        .data[[sample_cohort_inchikey_name]]
+      ),
+      metabolite_id_origin = case_when(
+        !is.na(uid_01) ~ "COMETS",
+        !is.na(moore_metabolite_id) ~ "Moore",
+        !is.na(MLR_Harmonized_Name_moore) |
+          !is.na(MLR_Harmonized_Name_comets) ~ "MetLinkR",
+        TRUE ~ "sample_cohort"
+      )
     )
+  matching_inchikey.sample_cohort.2 <- matching_inchikey.sample_cohort.2 %>%   mutate(
+    final_metabolite_id = paste0("HMN_", final_metabolite_id)
   )
+} else {
+  matching_inchikey.sample_cohort.2 <- matching_inchikey.sample_cohort.1
+}
 
 matching_inchikey.sample_cohort.3 <- matching_inchikey.sample_cohort.2 %>% select(-uid_01, -moore_metabolite_id, -MLR_Harmonized_Name_moore, -MLR_Harmonized_Name_comets)
 matching_inchikey.sample_cohort.3 <- matching_inchikey.sample_cohort.3 %>% distinct()
@@ -468,6 +652,35 @@ matching_name.sample_cohort.mult_identifiers <- matching_name.sample_cohort.1 %>
   filter(n_uid > 1 | n_moore > 1 | n_mlr_moore > 1 | n_mlr_comets > 1)
 
 matching_name.sample_cohort.2 <- matching_name.sample_cohort.1 %>%
+  rowwise() %>%
+  mutate(
+    
+    metabolite_id_platforms = paste(
+      na.omit(c(
+        if (!is.na(uid_01)) "COMETS",
+        if (!is.na(moore_metabolite_id)) "Moore",
+        if (
+          !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+        ) "MetLinkR"
+      )),
+      collapse = ";"
+    ),
+    metabolite_id_platforms =
+      ifelse(
+        metabolite_id_platforms == "",
+        "sample_cohort",
+        metabolite_id_platforms
+      ),
+    n_metabolite_id_platforms =
+      sum(c(
+        !is.na(uid_01),
+        !is.na(moore_metabolite_id),
+        !is.na(MLR_Harmonized_Name_moore) ||
+          !is.na(MLR_Harmonized_Name_comets)
+      ))
+  ) %>%
+  ungroup() %>%
   mutate(
     final_metabolite_id = coalesce(
       as.character(uid_01),
@@ -484,7 +697,9 @@ matching_name.sample_cohort.2 <- matching_name.sample_cohort.1 %>%
       TRUE ~ "sample_cohort"
     )
   )
-
+matching_name.sample_cohort.2 <- matching_name.sample_cohort.2 %>%   mutate(
+  final_metabolite_id = paste0("HMN_", final_metabolite_id)
+)
 matching_name.sample_cohort.3 <- matching_name.sample_cohort.2 %>% select(-uid_01, -moore_metabolite_id, -MLR_Harmonized_Name_moore, -MLR_Harmonized_Name_comets)
 matching_name.sample_cohort.3 <- matching_name.sample_cohort.3 %>% distinct()
 
@@ -699,6 +914,17 @@ cohort_metlinkr.metlinkr.2 <- cohort_metlinkr.metlinkr.1 %>%
     )
   )
 cohort_metlinkr.metlinkr.2 <- cohort_metlinkr.metlinkr.2 %>% select(-"MLR_Harmonized_Name")
+cohort_metlinkr.metlinkr.2 <- cohort_metlinkr.metlinkr.2 %>% mutate(
+  metabolite_id_platforms = "MetLinkR", n_metabolite_id_platforms = 1
+)
+cohort_metlinkr.metlinkr.2 <- cohort_metlinkr.metlinkr.2 %>%
+  mutate(
+    final_metabolite_id = if_else(
+      grepl("^HMN_", final_metabolite_id),
+      final_metabolite_id,
+      paste0("HMN_", final_metabolite_id)
+    )
+  )
 final_harmonization_w_mlr <- rbind(final_harmonization_w_metabid, cohort_metlinkr.metlinkr.2)
 write.csv(final_harmonization_w_mlr, file.path(base_dir, "cohort_harmonization/output/alspac_sample_harmonization_w_mlr.csv"))
 
